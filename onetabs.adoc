@@ -1,3 +1,252 @@
+http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html | Git on the commandline — Don't be afraid to commit 0.3 documentation
+https://web.archive.org/web/20141223022603/https://developer.linkedin.com/documents/invitation-api | Invitation API | LinkedIn Developer Network
+https://www.hashicorp.com/blog/feature-preview-docker-based-development-environments | Feature Preview: Docker-Based Development Environments
+https://github.com/phusion/baseimage-docker | phusion/baseimage-docker: A minimal Ubuntu base image modified for Docker-friendliness
+http://mitchellh.com/the-tao-of-vagrant | The Tao of Vagrant
+https://www.hashicorp.com/blog/feature-preview-windows-guests | Feature Preview: Windows Guests
+https://en.wikipedia.org/wiki/Remote_Desktop_Protocol | Remote Desktop Protocol - Wikipedia
+https://github.com/sneal?tab=repositories | sneal (Shawn Neal) / Repositories
+https://github.com/pmorton?tab=repositories | pmorton (Paul Morton) / Repositories
+https://github.com/WinRb/vagrant-windows | WinRb/vagrant-windows
+https://github.com/save-net-neutrality | Save net neutrality in the US
+https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-24A1.pdf | Microsoft Word - 147400
+https://github.com/VSaliy/tools/tree/dev | VSaliy/tools at dev
+
+https://gist.github.com/fearthecowboy/e5ee21894f7e82c8e75771350e649387 | install-software.ps1
+https://github.com/ponylang/ponyc-windows-llvm/blob/master/installsoftware.ps1 | ponyc-windows-llvm/installsoftware.ps1 at master · ponylang/ponyc-windows-llvm
+https://github.com/PowerShell/PowerShell/blob/master/src/powershell-native/Install-PowerShellRemoting.ps1 | PowerShell/Install-PowerShellRemoting.ps1 at master · PowerShell/PowerShell
+https://github.com/bcraig83/EnvSetup/blob/master/Install-Software.ps1 | EnvSetup/Install-Software.ps1 at master · bcraig83/EnvSetup
+https://gist.github.com/lukeplausin/4c4e8a63a2ac36d9b7bd4ae87d3ef227 | Script to get you up and running a bit quicker after reinstalling windows
+https://github.com/waldo1001/Cloud.Ready.Software.PowerShell/blob/master/PSModules/Cloud.Ready.Software.NAV/Installation/Install-NAV.ps1 | Cloud.Ready.Software.PowerShell/Install-NAV.ps1 at master · waldo1001/Cloud.Ready.Software.PowerShell
+https://github.com/chocolatey/choco/blob/master/src/chocolatey.resources/helpers/functions/Install-ChocolateyInstallPackage.ps1 | choco/Install-ChocolateyInstallPackage.ps1 at master · chocolatey/choco
+https://github.com/ponylang/ponyc-windows-llvm | ponylang/ponyc-windows-llvm: Vagrant environment in which to build/zip LLVM for ponyc automated CI.
+https://github.com/cake-build/bootstrapper | cake-build/bootstrapper: DEPRECATED! DO NOT USE THIS!
+https://github.com/chef/omnitruck/issues/135 | install.ps1 fails · Issue #135 · chef/omnitruck
+https://github.com/Azure/autorest/blob/master/docs/developer/workstation.md | autorest/workstation.md at master · Azure/autorest
+https://github.com/chocolatey/choco/wiki/Installation | Installation · chocolatey/choco Wiki
+https://chocolatey.org/install.ps1 | https://chocolatey.org/install.ps1
+http://codegist.net/snippet/powershell/install-basic-softwareps1_chirishman_powershell | [powershell] install-basic-software.ps1 - codegist.net
+https://kevinmarquette.github.io/2017-04-22-Powershell-installing-remote-software/ | Powershell: Remote install software
+https://www.powershellgallery.com/packages/Carbon/2.1.1/Content/Functions%5CInstall-Msi.ps1 | PowerShell Gallery | Functions/Install-Msi.ps1 2.1.1
+https://ss64.com/ps/syntax-programs.html | List Installed Programs - PowerShell - SS64.com
+http://searchenterprisedesktop.techtarget.com/answer/How-can-you-use-PowerShell-to-enable-automated-software-deployment | How can you use PowerShell to enable automated software deployment?
+https://www.netwrix.com/how_to_detect_software_installations.html | How to Detect Who Installed What Software on Your Windows Server
+https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/ | How to Create a List of Your Installed Programs on Windows
+https://github.com/adbertram/Random-PowerShell-Work/blob/master/Software/Install-Software.ps1 | Random-PowerShell-Work/Install-Software.ps1 at master · adbertram/Random-PowerShell-Work
+https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/utils/install-basic-software.ps1 | Debloat-Windows-10/install-basic-software.ps1 at master · W4RH4WK/Debloat-Windows-10
+http://www.itprotoday.com/management-mobility/what-applications-are-installed-computers-your-network | What Applications Are Installed on the Computers in Your Network? | IT Pro
+https://gallery.technet.microsoft.com/scriptcenter/Get-RemoteProgram-Get-list-de9fd2b4 | Script Get-RemoteProgram Get list of installed programs on remote or local computer
+https://gallery.technet.microsoft.com/scriptcenter/Search-for-and-Uninstall-8c2c457e | Script Search for and Uninstall Software on Remote or Local Computer via Powershell
+http://techibee.com/powershell/powershell-script-to-query-softwares-installed-on-remote-computer/1389 | Powershell: Script to query softwares installed on remote computer
+http://www.tomsitpro.com/articles/powershell-deploy-software-for-cheap,1-3456.html | How to Deploy Software on the Cheap with PowerShell
+https://github.com/adbertram/Random-PowerShell-Work/blob/master/Software/Install-Software.ps1 | Random-PowerShell-Work/Install-Software.ps1 at master · adbertram/Random-PowerShell-Work
+https://github.com/adbertram/Random-PowerShell-Work | adbertram/Random-PowerShell-Work: Random PowerShell Work
+https://www.adamtheautomator.com/ | Adam, the Automator - Automate all the things.
+https://community.spiceworks.com/scripts/show/2170-get-a-list-of-installed-software-from-a-remote-computer-fast-as-lightning | Get a list of Installed Software from a remote computer fast as lightning - Script Center - Spiceworks
+
+https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile | Infrastructure as Code: A Reason to Smile | ThoughtWorks
+http://www.infrastructures.org/index.shtml | Infrastructures.Org: Best Practices in Automated Systems Administration and Infrastructure Architecture: Home
+http://infrastructure-as-code.com/ | Infrastructure as Code
+https://books.google.com.ua/books?id=_cK8AQAAQBAJ&pg=PA104&lpg=PA104&dq=sun+%D1%81%D0%B5%D1%82%D1%8C+%D1%8D%D1%82%D0%BE+%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80&source=bl&ots=zvQn0_D2za&sig=R3RLyvJnYzF4zt5VB6lqDj-fvYs&hl=en&sa=X&ved=0ahUKEwiyheykwIfYAhXCdpoKHT3RDGkQ6AEIRDAD#v=onepage&q=sun%20%D1%81%D0%B5%D1%82%D1%8C%20%D1%8D%D1%82%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80&f=false | Великий переход: Что готовит революция облачных технологий - Николас Карр - Google Books
+https://web.archive.org/web/20170606083514/http://plan9.bell-labs.com/plan9/index.html | Plan 9 from Bell Labs
+http://flask.pocoo.org/ | Welcome | Flask (A Python Microframework)
+http://kr.github.io/beanstalkd/ | About – beanstalkd
+https://github.com/kr/beanstalkd | kr/beanstalkd: Beanstalk is a simple, fast work queue.
+http://kr.github.io//beanstalkd/download.html | Download – beanstalkd
+https://github.com/nodezoo/nodezoo-workshop | nodezoo/nodezoo-workshop: A microservices workshop for the Seneca framework.
+https://github.com/kr/beanstalkd | kr/beanstalkd: Beanstalk is a simple, fast work queue.
+http://senecajs.org/ | Seneca, a microservices toolkit for Node.js
+
+https://www.google.com.ua/search?q=install-software.ps1+site:github.com&num=30&ei=-qIxWtnsKuva6ATm1ZaYCg&start=30&sa=N&biw=1366&bih=637 | install-software.ps1 site:github.com - Google Search
+https://github.com/psget/psget | psget/psget: Set of commands to install PowerShell modules from local file or from the web. Inspired by NuGet
+https://github.com/elastic/beats/issues/540 | Document Windows Installation Issue and Workaround · Issue #540 · elastic/beats
+https://github.com/Lundalogik/field-public-scripts/blob/master/Install-Snare.ps1 | field-public-scripts/Install-Snare.ps1 at master · Lundalogik/field-public-scripts
+https://github.com/PowerShell/vscode-powershell/blob/master/scripts/Install-VSCode.ps1 | vscode-powershell/Install-VSCode.ps1 at master · PowerShell/vscode-powershell
+https://github.com/rgl/selenium-server-windows-vagrant/blob/master/setup.ps1 | selenium-server-windows-vagrant/setup.ps1 at master · rgl/selenium-server-windows-vagrant
+https://github.com/PSAppDeployToolkit/PSAppDeployToolkit/blob/master/Toolkit/AppDeployToolkit/AppDeployToolkitMain.ps1 | PSAppDeployToolkit/AppDeployToolkitMain.ps1 at master · PSAppDeployToolkit/PSAppDeployToolkit
+https://github.com/Microsoft/diskspd/blob/master/Frameworks/VMFleet/install-vmfleet.ps1 | diskspd/install-vmfleet.ps1 at master · Microsoft/diskspd
+https://github.com/NativeScript/setup-scripts/blob/master/native-script.ps1 | setup-scripts/native-script.ps1 at master · NativeScript/setup-scripts
+https://github.com/PowerShell/Win32-OpenSSH/wiki/Install-Win32-OpenSSH | Install Win32 OpenSSH · PowerShell/Win32-OpenSSH Wiki
+https://github.com/pdxcat/SCCMScripts/blob/master/get-executionhistory.ps1 | SCCMScripts/get-executionhistory.ps1 at master · pdxcat/SCCMScripts
+https://github.com/dotnet/cli/issues/7867 | Configure.PS1 fails installing .NET CLI · Issue #7867 · dotnet/cli
+https://github.com/dotnet/cli/issues/6747 | dotnet-install.ps1 not working on Powershell Core 6.0.0-beta · Issue #6747 · dotnet/cli
+https://github.com/Azure/autorest/blob/master/docs/developer/guide/building-code.md | autorest/building-code.md at master · Azure/autorest
+https://github.com/chocolatey/choco/blob/master/src/chocolatey.resources/helpers/functions/Install-ChocolateyPackage.ps1 | choco/Install-ChocolateyPackage.ps1 at master · chocolatey/choco
+https://github.com/lukesampson/scoop/blob/master/lib/install.ps1 | scoop/install.ps1 at master · lukesampson/scoop
+https://github.com/Jandev/scripts | Jandev/scripts: Scripts using to configure, setup, automate my environments
+https://gist.github.com/joefitzgerald/8203265 | Install All Windows Updates, Rebooting As Many Times As Required
+https://github.com/PowerShell/Win32-OpenSSH/issues/149 | install-sshlsa.ps1 is not digitally signed · Issue #149 · PowerShell/Win32-OpenSSH
+https://github.com/joefitzgerald/packer-windows/blob/master/scripts/win-updates.ps1 | packer-windows/win-updates.ps1 at master · joefitzgerald/packer-windows
+https://github.com/jianghaolu/AutoRest/blob/master/docs/developer/workstation.md | AutoRest/workstation.md at master · jianghaolu/AutoRest
+https://github.com/aaronparker/Install-VisualCRedistributables | aaronparker/Install-VisualCRedistributables: Downloads and optionally installs the Microsoft Visual C++ Redistributables
+https://github.com/NuGet/Home/issues/1241 | install.ps1 on Nuget 3.1 · Issue #1241 · NuGet/Home
+https://github.com/mwrock/boxstarter/blob/master/Boxstarter.WinConfig/Install-WindowsUpdate.ps1 | boxstarter/Install-WindowsUpdate.ps1 at master · mwrock/boxstarter
+https://github.com/cajeeper/PowerCLI/blob/master/Install-Windows-Update-for-Template.ps1 | PowerCLI/Install-Windows-Update-for-Template.ps1 at master · cajeeper/PowerCLI
+https://github.com/pandegroup/openmm/blob/master/devtools/packaging/scripts/windows/prepare.ps1 | openmm/prepare.ps1 at master · pandegroup/openmm
+https://github.com/chocolatey/choco/wiki/How-To-Install-Upgrade-Package-Without-Scripts | How To Install Upgrade Package Without Scripts · chocolatey/choco Wiki
+https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/scripts/remove-default-apps.ps1 | Debloat-Windows-10/remove-default-apps.ps1 at master · W4RH4WK/Debloat-Windows-10
+https://github.com/TimMangan/silent-install/wiki | Home · TimMangan/silent-install Wiki
+https://github.com/Microsoft/vscode/issues/6387 | Installation of vscode-powershell replaced File Explorer right-click menus for .ps1 files · Issue #6387 · Microsoft/vscode
+https://github.com/Tiberriver256/Auto-Microsoft-Deployment-Toolkit-Installation-and-Scaffolding/blob/master/MDTAutoInstall.ps1 | Auto-Microsoft-Deployment-Toolkit-Installation-and-Scaffolding/MDTAutoInstall.ps1 at master · Tiberriver256/Auto-Microsoft-Deployment-Toolkit-Installation-and-Scaffolding
+https://gist.github.com/fearthecowboy/c2b02911659fc0695b5fd19e0a87e97a | Install software stack.
+https://github.com/dotnet/cli/issues/7526 | dotnet-install.ps1 script prints installation drive name (old debugging info?) · Issue #7526 · dotnet/cli
+https://github.com/chocolatey/chocolatey.org/blob/master/chocolatey/Website/Install.ps1 | chocolatey.org/Install.ps1 at master · chocolatey/chocolatey.org
+
+https://www.pega.com/about/news/press-releases/pegasystems-partners-mulesoft-quickly-connect-pega-applications-third | Pegasystems Partners with MuleSoft To Quickly Connect Pega Applications With Third-Party Data | Pega
+http://progopedia.ru/language/prolog/ | Prolog - Энциклопедия языков программирования
+http://people.sju.edu/~jhodgson/wg17/wg17web.html | ISO/IEC JTC1/SC22/WG17
+https://anypoint.mulesoft.com/apimanager/vitaliy-saliy-7/#/access_token=fed5c8d6-d67a-4a3c-8a3a-8eb71824cdf8&token_type=bearer&state=eyJzdGF0ZSI6ImRhc2hib2FyZC5lbnZpcm9ubWVudHMuYXBpcyIsInBhcmFtcyI6eyJvcmdhbml6YXRpb25JZCI6IjJhZjg3OGQxLTcyYTktNGVlNy1hNmE3LThkNDY3M2M2YTk2MSIsImVudmlyb25tZW50SWQiOiI4YTdhNzFhYS02MTQzLTRkNzQtYmQ1Yi1lMTI2N2M3YzRmN2UifX0=%3Fapintent=m | Anypoint Platform for APIs
+https://web.archive.org/web/20110413163848/http://people.cs.kuleuven.be:80/~bart.demoen/PrologInJava/docPrologFromJava | Wayback Machine
+http://www.instructables.com/id/Efficient-Development-of-Java-for-the-Raspberry-Pi/ | Efficient Java Development for the Raspberry Pi : 11 Steps (with Pictures)
+https://gist.github.com/VSaliy | VSaliy’s gists
+https://gist.github.com/ferventcoder/1107920 | Setting up a development environment with chocolatey
+https://github.com/chocolatey/chocolatey | chocolatey/chocolatey: [DEPRECATED - https://github.com/chocolatey/choco] Chocolatey NuGet - Like apt-get, but for windows.
+https://github.com/chocolatey/choco/wiki | Home · chocolatey/choco Wiki
+https://github.com/chocolatey/choco-wiki/blob/master/DevelopmentEnvironmentSetup.md | choco-wiki/DevelopmentEnvironmentSetup.md at master · chocolatey/choco-wiki
+https://github.com/VSaliy/tools/tree/dev | VSaliy/tools at dev
+https://gist.github.com/ferventcoder/3825023 | Really rocking out the environment setup
+https://github.com/NV/chrome-devtools-autosave#readme | NV/chrome-devtools-autosave: Auto-saving CSS and JavaScript changes from the Chrome Developer Tools
+https://github.com/chocolatey/choco-wiki/blob/master/DevelopmentEnvironmentSetup.md | choco-wiki/DevelopmentEnvironmentSetup.md at master · chocolatey/choco-wiki
+https://github.com/ferventcoder/nugetpackages/tree/9835c8afa6e394b25bc30ed1a5b1933124cf4260 | ferventcoder/nugetpackages at 9835c8afa6e394b25bc30ed1a5b1933124cf4260
+https://web.archive.org/web/*/https://github.com/ferventcoder/nugetpackages/blob/master/dropkick.dev/tools/chocolateyInstall.ps1 | Wayback Machine
+https://github.com/chucknorris/dropkick | chucknorris/dropkick: DropkicK - A deployment framework
+https://github.com/nanobox-io/nanobox | nanobox-io/nanobox: The ideal platform for developers
+https://github.com/topics/development-environment | Topic: development-environment
+https://github.com/nanobox-io/nanobox-guides | nanobox-io/nanobox-guides: Guides for using languages and frameworks with Nanobox
+https://www.youtube.com/watch?v=TV4iBxytfyE | Nanobox Development Platform Node.js App Example (Early Alpha) - YouTube
+https://nanobox.io/ | Application Development Platform and Software Deployment Tool - Nanobox
+http://acme.cat-v.org/ | The Acme User Interface for Programmers
+http://younglinux.info/introfiles | Общий обзор файловой системы Linux
+https://opensource.guide/how-to-contribute/ | How to Contribute to Open Source | Open Source Guides
+https://web.archive.org/web/20130824193152/https://github.com/chocolatey/chocolatey/wiki/DevelopmentEnvironmentSetup | DevelopmentEnvironmentSetup · chocolatey/chocolatey Wiki · GitHub
+https://docs.nanobox.io/install/ | Nanobox Installation Instructions & System Requirements - Nanobox Docs
+
+https://try.github.io/levels/1/challenges/12 | Git Tutorial - Try Git
+https://www.javacodegeeks.com/2014/09/embedded-jetty-and-apache-cxf-secure-rest-services-with-spring-security.html?utm_content=buffer04590&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer | Embedded Jetty and Apache CXF: secure REST services with Spring Security
+https://coollib.com/b/215983/read | Корпоративная память и обратная контрабанда (fb2) | КулЛиб - Классная библиотека! Скачать книги бесплатно
+https://run.qwiklab.com/payments/new | Buy Credits | Qwiklabs
+http://igi.mai.gov.ro/ | IGI - Inspectoratul General pentru Imigrari | Legalitate. Transparenta. Respect
+http://hochusvalit.com/rumyniya/immigratsiya-v-rumyniyu | Как иммигрировать в Румынию в 2017 году
+https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes/index.html?index=..%2F..%2Findex#0 | Deploy a Java application to Kubernetes on Google Container Engine
+https://developers.google.com/ | Google Developers
+https://chrome.google.com/webstore/developer/dashboard | Developer Dashboard - Chrome Web Store
+https://developer.chrome.com/webstore | Distributing Products Built for Chrome - Google Chrome
+https://developer.chrome.com/apps/about_apps | What Are Chrome Apps? - Google Chrome
+https://developer.chrome.com/extensions/manifest/icons | Manifest - Icons - Google Chrome
+https://developer.chrome.com/webstore | Distributing Products Built for Chrome - Google Chrome
+https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2016q3 | Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+
+https://habrahabr.ru/post/248153/ | Краткий курс компьютерной графики: пишем упрощённый OpenGL своими руками, статья 1 из 6 / Хабрахабр
+https://github.com/ssloy/tinyrenderer/wiki | Home · ssloy/tinyrenderer Wiki
+https://ru.wikipedia.org/wiki/Truevision_TGA | Truevision TGA — Википедия
+http://desktop.arcgis.com/ru/arcmap/10.3/tools/coverage-toolbox/how-generate-works.htm | Как работает инструмент Преобразовать из текстового файла (Generate) (набор инструментов Покрытие)—Справка | ArcGIS for Desktop
+http://www.cyberforum.ru/javascript/thread1486349.html | Создание полигональной сетки конуса. - JavaScript - Киберфорум
+https://habrahabr.ru/post/248153/ | Краткий курс компьютерной графики: пишем упрощённый OpenGL своими руками, статья 1 из 6 / Хабрахабр
+https://habrahabr.ru/post/227201/ | Собственный движок WebGL. Статья №1. Холст / Хабрахабр
+http://3dcenter.ru/forum/index.php?showtopic=95177 | построение полигональной сетки - Форум .:3DCenter.ru:.
+http://3dtoday.ru/blogs/leoluch/stl-and-control-grid/ | STL и борьба с сеткой
+http://cccp3d.ru/topic/62949-%D0%BF%D1%80%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B8%D0%B3%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B8-%D0%B2-%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D0%B8/ | Преобразование полигональной сетки в поверхности - Дизайн, ПО для дизайна - Форум CAD/CAM/CAE/PLM
+http://cccp3d.ru/topic/68764-ansys-workbench-%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%B8-%D0%BF%D0%BE-%D1%82%D0%BE%D1%87%D0%BA%D0%B0%D0%BC/ | Ansys Workbench построение геометрии по точкам - ANSYS Workbench - Форум CAD/CAM/CAE/PLM
+http://cccp3d.ru/topic/28595-%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D1%8B-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%8F%D0%B5%D0%BC%D1%8B%D1%85-%D0%B2-%D1%81%D0%B0%D0%BF%D1%80/ | Форматы файлов, применяемых в САПР - Трансляция, конвертация, просмотр - Форум CAD/CAM/CAE/PLM
+https://3dpapa.ru/eto-dolzhen-znat-kazhdyi-nachimayushiy/ | Это должен знать каждый начинающий | 3DPAPA
+https://www.tutorialspoint.com/cplusplus/cpp_overview.htm | C++ Overview
+https://www.cprogramming.com/graphics-programming.html | Graphics Programming in C and C++, OpenGL, SDL, 3d rotation - Cprogramming.com
+https://github.com/heroku/node-js-sample | heroku/node-js-sample: A barebones Node.js app using the Express framework.
+http://expressjs.com/ | Express - Node.js web application framework
+https://mail.google.com/mail/u/0/#inbox | Inbox (254) - vitaliy.saliy@gmail.com - Gmail
+https://github.com/boot2docker/boot2docker | boot2docker/boot2docker: Lightweight Linux for Docker
+
+https://superuser.com/questions/668006/why-virtual-box-wont-give-me-option-to-create-64-bits-guests | virtualbox - Why Virtual Box won't give me option to create 64 bits guests? - Super User
+http://shkola.softheme.com.ua/shkola/ | Курсы студии обучения Shkola Softheme
+https://docs.google.com/forms/d/e/1FAIpQLScQm9eZXbdsQpPkyt0gwqRa68R4Ne0ePoF6bwVSD1GaCerkJg/viewform | Обучение в Softheme. Первый этап конкурса
+https://www.anerkjendt.com/main-fall-2017.aspx | MAIN FALL 2017 - Anerkjendt
+http://www.openglsuperbible.com/previous-editions/ | OpenGL SuperBible Previous EditionsOpenGL SuperBible
+https://github.com/openglsuperbible/sb7code | openglsuperbible/sb7code: Source code and supporting material for the 7th Edition of OpenGL SuperBible
+https://cmake.org/download/ | Download | CMake
+https://github.com/openglsuperbible/sb7code | openglsuperbible/sb7code: Source code and supporting material for the 7th Edition of OpenGL SuperBible
+https://www.freepascal.org/down/arm/gba.var | Free Pascal - Select download mirror
+https://training.mulesoft.com/user/consume/course_pathway/58bf0828-c2c0-3e8b-972f-fe925a45265f/2738/35cbcac7-5ad4-373c-a6e8-64d3f6622c38?complete=0&tab=overview | MuleSoft.U Development Fundamentals (October 4
+http://mulesoft-u.cloudhub.io/MUFundamentals3.8CR/THjGco2dTBAKJd | MuleSoft.U
+http://localhost:9090/api/banking-api.raml | localhost
+http://localhost:9090/api | localhost
+https://evisa.mae.ro/Error/SessionExpired# | Acasa
+https://www.facebook.com/ | Facebook
+https://github.com/hyperledger/fabric-sdk-java | hyperledger/fabric-sdk-java: Read-only mirror of https://gerrit.hyperledger.org/r/#/admin/projects/fabric-sdk-java
+https://developer.oracle.com/code/online | Code Online | Oracle Cloud
+http://vshow.on24.com/vshow/OracleVTS9/registration/14901 | Oracle Code Online
+http://vshow.on24.com/vshow/OracleVTS9/lobby/13768/?&l=en | Oracle Code Online
+https://www.javaspecialists.eu/archive/Issue251.html | [JavaSpecialists 251] - Collections.checkedCollection()
+https://mail.google.com/mail/u/0/#inbox/16041fc196be2b51 | Everything's on sale - vitaliy.saliy@gmail.com - Gmail
+https://calendar.google.com/calendar/r/week/2017/12/17 | Google Calendar - Week of December 11
+https://www.google.com.ua/maps/place/Bucharest,+Romania/@44.4379073,25.9068028,10z/data=!4m5!3m4!1s0x40b1f93abf3cad4f:0xac0632e37c9ca628!8m2!3d44.4267674!4d26.1025384 | Bucharest - Google Maps
+https://www.accuweather.com/en/ro/bucharest/287430/daily-weather-forecast/287430 | Weather in Bucharest - AccuWeather Forecast for Bucharest Romania
+http://www.brooksbrothers.com/Edward-Green-Harrogate-Longwing-Brogue/MH00163,default,pd.html?dwvar_MH00163_Color=BRWN&contentpos=58&cgid=0494 | Men's Edward Green Harrogate Longwing Brogues | Brooks Brothers
+
+https://vimeo.com/blog/category/video-school/page:5 | Video School on Vimeo
+https://app.vagrantup.com/ubuntu/boxes/trusty64 | Vagrant box ubuntu/trusty64 - Vagrant Cloud
+https://wiki.centos.org/Download | Download - CentOS Wiki
+https://hub.docker.com/_/centos/ | library/centos - Docker Hub
+https://wiki.centos.org/SpecialInterestGroup/AltArch | SpecialInterestGroup/AltArch - CentOS Wiki
+https://hub.docker.com/r/centos/tools/ | centos/tools - Docker Hub
+https://hub.docker.com/_/mysql/ | library/mysql - Docker Hub
+https://mail.google.com/mail/u/0/#inbox | Inbox (254) - vitaliy.saliy@gmail.com - Gmail
+https://docs.mulesoft.com/anypoint-private-cloud/v/1.5/install-installer | To Run the Anypoint Platform Private Cloud Edition Installer // MuleSoft Documentation
+https://docs.mulesoft.com/anypoint-studio/v/6/installing-extensions | Installing Extensions // MuleSoft Documentation
+https://docs.mulesoft.com/anypoint-studio/v/6/studio-update-sites | Updating Studio, Mule and Components // MuleSoft Documentation
+https://docs.mulesoft.com/anypoint-studio/v/6/install-studio-gw | Installing API Gateway Runtime // MuleSoft Documentation
+https://docs.mulesoft.com/access-management/organization | Organization // MuleSoft Documentation
+http://docs.pivotal.io/pivotalcf/1-10/installing/index.html#install | Installing Pivotal Cloud Foundry | Pivotal Docs
+https://network.pivotal.io/products/p-spring-cloud-services | Download Spring Cloud Services for PCF — Pivotal Network
+https://docs.mulesoft.com/anypoint-private-cloud/v/1.6/demo-ldap-server | About the Demo LDAP Server // MuleSoft Documentation
+https://docs.mulesoft.com/anypoint-studio/v/6/studio-update-sites | Updating Studio, Mule and Components // MuleSoft Documentation
+https://www.eclipse.org/community/eclipse_newsletter/2017/february/article8.php | The Features of Eclipse Class Decompiler
+https://www.mulesoft.com/ty/dl/mule | Download Mule ESB Runtime | for Mac | MuleSoft
+
+https://itc.ua/blogs/yorg-shlinkhayder-v-avtoindustrii-trebuyutsya-vse-bolee-spetsificheskie-sotrudniki/ | Йорг Шлинкхайдер: в автоиндустрии требуются все более специфические сотрудники - ITC.ua
+https://shop.propellerheads.se/product/reason-10/?utm_source=MC&utm_medium=email&Subkey=2554054&utm_content=RSNFULL-5-171209&utm_campaign=2017-HOLIDAY-RSN | Reason 10 | Direct Download | Shop | Propellerhead
+https://evisa.mae.ro/Error/SessionExpired# | Acasa
+http://adfill.me/p/82d379fb6a/&hosted=true
+http://kinogo.eu/xfsearch/janre/%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9/ | военный » Киного – Смотреть кино онлайн, фильмы 2017 в хорошем качестве
+https://megogo.net/ru/view/2021731-noy.html | Фильм Ной (Noah) - смотреть онлайн легально на MEGOGO.NET
+http://kinokrad.co/316450-dom-rassady.html | Дом рассады (2017) смотреть онлайн бесплатно
+https://mail.google.com/mail/u/0/#inbox | Inbox (254) - vitaliy.saliy@gmail.com - Gmail
+
+http://www.baeldung.com/learn-spring-security-course?utm_source=email&utm_medium=email&utm_content=inc9&utm_campaign=lss
+https://docs.mulesoft.com/mule-user-guide/v/3.8/encryption-strategies
+https://anypoint.mulesoft.com/designcenter/designer/#/project/20abc9f5-cdda-44b3-914a-e1e3cbccef4f
+https://www.programmableweb.com/api/twitter
+https://www.arturia.com/component/com_myarturia/id,175/task,showPath/view,demo/ | Arturia
+http://channel4it.com/publications/Cekretnye-dannye-armii-SSHA-i-ANB-hranilis-na-nezashchishchennom-oblachnom-servere-28677.html#
+https://ecolines.net/ua/ru/abroad-booking-search?locale=ru&currency=31&returnOrigin=598&returnDestination=1093&returning=1&type=0&outwardOrigin=1093&outwardDestination=598&outwardDate=2017-12-13&returnDate=2017-12-17&adults=1&children=0&teens=0&seniors=0
+https://mapt.io/mapt-sitepoint-dec-offer/?utm_source=facebook&utm_medium=social&utm_campaign=sitepoint-december
+https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B3%D0%B5%D0%BD,_%D0%A1%D0%B5%D1%82 | Роген, Сет — Википедия
+https://mail.google.com/mail/u/0/#inbox | Inbox (254) - vitaliy.saliy@gmail.com - Gmail
+https://itc.ua/news/tretim-ukrainskim-bankom-podklyuchivshimsya-k-sisteme-android-pay-stal-ukrsibbank/ | Третьим украинским банком, подключившимся к системе Android Pay, стал UkrSibbank - ITC.ua
+https://www.linkedin.com/feed/ | LinkedIn
+https://www.mixxx.org/ | Mixxx - Free MP3 DJ Mixing Software
+https://www.facebook.com/ | Facebook
+https://insomnia.rest/download/#windows | Download Insomnia | Insomnia REST Client
+https://www.kino-butterfly.com.ua/cinema/schedule/ultramarin/show/ | Баттерфляй Ультрамарин
+http://order.pdc.com/vip/ce.aspx | Header
+https://www.youtube.com/feed/history | (51) History - YouTube
+
+https://dataloader.io/ | Salesforce dataloader | Import & Export Data
+https://anypoint.mulesoft.com/apimanager/vitaliy-saliy-7/#/access_token=be883423-97cb-46c3-a837-226bb67d6bf6&token_type=bearer&state=eyJzdGF0ZSI6ImRhc2hib2FyZC5lbnZpcm9ubWVudHMuYXBpcyIsInBhcmFtcyI6eyJvcmdhbml6YXRpb25JZCI6IjJhZjg3OGQxLTcyYTktNGVlNy1hNmE3LThkNDY3M2M2YTk2MSIsImVudmlyb25tZW50SWQiOiI4YTdhNzFhYS02MTQzLTRkNzQtYmQ1Yi1lMTI2N2M3YzRmN2UifX0=%3Fapintent=m | Anypoint Platform for APIs
+https://www.mulesoft.com/ | MuleSoft | Integration Platform for Connecting SaaS and Enterprise Applications
+https://forums.mulesoft.com/questions/52031/trial-account-extension-workaround-for-students-en.html | Trial account extension workaround for students enrolled in MuleSoft.U classes - MuleSoft
+https://blogs.perficient.com/integrate/2016/09/27/download-earlier-versions-of-mule-studio-or-servers/ | Download Earlier Versions of Anypoint Studio or Mule ESB Servers | Integrate
+https://www.mulesoft.com/ty/beta/mule-4 | TY - Mule 4 Demo | MuleSoft
+https://www.mulesoft.com/ty/beta/mule-4 | TY - Mule 4 Demo | MuleSoft
+https://blogs.mulesoft.com/dev/news-dev/mule-4-anypoint-studio-7-beta/ | Introducing Mule 4 and Anypoint Studio 7 Beta | MuleSoft Blog
+https://docs.mulesoft.com/anypoint-connector-devkit/v/3.9/ | Anypoint Connector DevKit // MuleSoft Documentation
+https://docs.mulesoft.com/runtime-manager/secure-application-properties | Safely Hiding Application Properties // MuleSoft Documentation
+https://docs.mulesoft.com/runtime-manager/deploying-to-pcf#replication-factor | Deploying to Pivotal Cloud Foundry // MuleSoft Documentation
+https://docs.mulesoft.com/runtime-manager/deployment-strategies | Deployment Strategies // MuleSoft Documentation
+https://developer.twitter.com/en/docs/tweets/post-and-engage/api-reference/post-statuses-retweet-id | POST statuses/retweet/:id — Twitter Developers
+https://docs.mulesoft.com/api-manager/create-instance-task | To Create an API Instance (Nov 2017) // MuleSoft Documentation
+https://anypoint.mulesoft.com/apiplatform/anypoint-platform/#/portals/organizations/68ef9520-24e9-4cf2-b2f5-620025690913/apis/11197/versions/126378/pages/181952 | Anypoint Platform for APIs / Developer portal / API Platform (API reference) - 2.1.0
+https://anypoint.mulesoft.com/apiplatform/popular#/portals/organizations/52560d3f-c37a-409d-9887-79e0a9a9ecff/apis/8157/versions/8356/pages/36093 | Anypoint Platform for APIs / Developer portal / Google Calendar (API reference) - v3
+https://anypoint.mulesoft.com/apiplatform/popular#/portals/organizations/52560d3f-c37a-409d-9887-79e0a9a9ecff/apis/8086/versions/8276 | Anypoint Platform for APIs / Developer portal / LinkedIn (LinkedIn API) - v1
 https://www.google.com.ua/search?q=api+notebook&num=30&ei=iGIfWuLyNYuR6ATtvJww&start=60&sa=N&biw=1366&bih=637 | api notebook - Google Search
 https://api-notebook.anypoint.mulesoft.com/notebooks | API Notebook by MuleSoft
 https://github.com/mulesoft/api-notebook | mulesoft/api-notebook: Interactive API notebook
