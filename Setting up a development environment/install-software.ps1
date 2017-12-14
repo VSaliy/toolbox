@@ -44,6 +44,14 @@ if( !$pp ) { return write-error "can't get chocolatey package provider "}
 # start with a clean slate.
 ReloadPathFromRegistry
 
+# install nuget provider
+write-host -fore cyan "Info: Ensuring NuGet provider is installed."
+$np = get-packageprovider -force nuget
+if( !$np ) { return write-error "can't get nuget package provider "}
+
+# start with a clean slate.
+ReloadPathFromRegistry
+
 # install jdk8
 if( !(get-command -ea 0 java.exe) ) {
     write-host -fore cyan "Info: Installing JDK 8."
@@ -55,16 +63,22 @@ write-host -fore darkcyan "      Setting JAVA_HOME environment key."
 
 # install intellijidea-ultimate
 if( !(get-command -ea 0 idea.exe) ) {
-    write-host -fore cyan "Info: Installing InteliiJ IDEA 2017.3"
+    write-host -fore cyan "Info: Downloading InteliiJ IDEA 2017.3"
     ( New-Object System.Net.WebClient).DownloadFile("https://download.jetbrains.com/idea/ideaIU-2017.3.exe","c:\tmp\ideaIU-2017.3.exe")
-    ( New-Object System.Net.WebClient).DownloadFile("https://download.jetbrains.com/idea/silent.config","c:\tmp\silent.config")
+    ( New-Object System.Net.WebClient).DownloadFile("https://gist.githubusercontent.com/VSaliy/d8d923759f694b1681260ce937e65487/raw/9440f8bc3ac550ff9ee03a4607423bcb39705b10/silent.config","c:\tmp\silent.config")
     if( !(test-path -ea 0  "c:\tmp\ideaIU-2017.3.exe" ) ) { return write-error "Unable to download IntelliJ IDEA" }
     if( !(test-path -ea 0  "c:\tmp\silent.config" ) ) { return write-error "Unable to download IntelliJ IDEA" }
-    write-host -fore cyan "Info: Installing IntelliJ IDEA"
+    write-host -fore cyan "Info: Installing IntelliJ IDEA 2017.3"
     C:\tmp\ideaIU-2017.3.exe /S /CONFIG=c:\tmp\silent.config /D=d:\dev\ide\ideaIU-2017.3
-    while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "." ; sleep 1 }
+    while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "�" ; sleep 1 }
     ReloadPathFromRegistry
-    if( !(get-command -ea 0 idea64.exe) ) { return write-error "No PYTHON in PATH." }
+    $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
+    $p = "$p;d:\dev\ide\ideaIU-2017.3\bin;"
+    ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+    ReloadPathFromRegistry
+    ([System.Environment]::SetEnvironmentVariable( 'IDEA_HOME', "d:\dev\ide\ideaIU-2017.3",  "Machine"))
+    ReloadPathFromRegistry
+    if( !(get-command -ea 0 idea64.exe) ) { return write-error "No idea in PATH." }
 }
 
 # Install node.js via nvm
