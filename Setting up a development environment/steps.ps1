@@ -1,6 +1,7 @@
-.\remove-default-apps.ps1
 .\EnableWindowsSubsystemLinux.ps1
 .\EnableExecution.ps1
+.\remove-default-apps.ps1
+.\install-basic-software.ps1
 #.\installPkgMngrs.ps1
 .\setup1.ps1
 .\install-software.ps1

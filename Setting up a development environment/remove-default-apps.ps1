@@ -12,6 +12,7 @@ Write-Output "Uninstalling default apps"
 $apps = @(
     # default Windows 10 apps
     "Microsoft.3DBuilder"
+    "Microsoft.Paint3D"
     "Microsoft.Appconnector"
     "Microsoft.BingFinance"
     "Microsoft.BingNews"
@@ -26,7 +27,7 @@ $apps = @(
     #"Microsoft.OneConnect"
     "Microsoft.People"
     "Microsoft.SkypeApp"
-    #"Microsoft.Windows.Photos"
+    "Microsoft.Photos"
     "Microsoft.WindowsAlarms"
     #"Microsoft.WindowsCalculator"
     "Microsoft.WindowsCamera"

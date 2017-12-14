@@ -44,14 +44,6 @@ if( !$pp ) { return write-error "can't get chocolatey package provider "}
 # start with a clean slate.
 ReloadPathFromRegistry
 
-# install nuget oneget provider
-write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
-$pp = get-packageprovider -force nuget
-if( !$pp ) { return write-error "can't get nuget package provider "}
-
-# start with a clean slate.
-ReloadPathFromRegistry
-
 # install jdk8
 if( !(get-command -ea 0 java.exe) ) {
     write-host -fore cyan "Info: Installing JDK 8."
@@ -280,6 +272,10 @@ X4XSQRjbgbMEHMUfpIBvFSDJ3gyICh3WZlXi/EjJKSZp4A==
         return write-error "Ruby devkit/gems not working?"
     }
 
+    # perform ruby updates and get gems
+    gem update --system
+    gem install rake
+    gem install bundler
     gem install bundle
     popd
 }
@@ -415,14 +411,14 @@ if( !(get-command -ea 0 code) ) {
 # install wix
 if (!(get-command -ea 0 heat.exe) ) {
     write-host -fore cyan "Info: Downloading Wix Toolset."
-    invoke-webrequest "http://download-codeplex.sec.s-msft.com/Download/Release?ProjectName=wix&DownloadId=1587179&FileTime=131118854865270000&Build=21031" -outfile  "c:\tmp\wix310.exe"
-    if( !(test-path -ea 0 "c:\tmp\wix310.exe" ) ) { return write-error "Unable to download Wix Toolset" }
+    invoke-webrequest "https://github.com/wixtoolset/wix3/releases/download/wix311rtm/wix311.exe" -outfile  "c:\tmp\wix311.exe"
+    if( !(test-path -ea 0 "c:\tmp\wix311.exe" ) ) { return write-error "Unable to download Wix Toolset" }
     write-host -fore darkcyan "      Installing Wix Toolset"
-    C:\tmp\wix310.exe /passive /noreboot
+    C:\tmp\wix311.exe /passive /noreboot
     while( get-process wix*  ) { write-host -NoNewline "." ; sleep 1 }
     write-host -fore darkcyan "      adding Wix Toolset to system PATH."
     $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
-    $p = "$p;${env:ProgramFiles(x86)}\WiX Toolset v3.10\bin"
+    $p = "$p;${env:ProgramFiles(x86)}\WiX Toolset v3.11\bin"
     ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
     ReloadPathFromRegistry
     if (!(get-command -ea 0 heat.exe) ) { return "No Wix Toolset in path." }
