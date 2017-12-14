@@ -21,6 +21,25 @@ function ReloadPathFromRegistry {
     $env:path = $newPath
 }
 
+# install gradle
+if( !(get-command -ea 0 gradle.bat) ) { 
+    write-host -fore cyan "Info: Downloading Gradle"
+    (New-Object System.Net.WebClient).DownloadFile("https://services.gradle.org/distributions/gradle-4.4-bin.zip", "c:\tmp\gradle-4.4-bin.zip" )
+    if( !(test-path -ea 0  "c:\tmp\gradle-4.4-bin.zip") ) { return write-error "Unable to download Maven" }
+    write-host -fore darkcyan "      Unpacking Gradle."
+
+    Expand-Archive C:\tmp\gradle-4.4-bin.zip -DestinationPath c:\
+
+    write-host -fore darkcyan "      Adding gradle to system PATH."
+    $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
+    $p = "$p;C:\gradle-4.4\bin;"
+    ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+    ReloadPathFromRegistry
+    ([System.Environment]::SetEnvironmentVariable( 'GRADLE_HOME', "C:\gradle-4.4",  "Machine"))
+    ReloadPathFromRegistry
+    if( !(get-command -ea 0 mvn.cmd) ) { return write-error "No Maven in PATH." }
+}
+
 # install wix
 <#
 if (!(get-command -ea 0 heat.exe) ) {
@@ -37,7 +56,7 @@ if (!(get-command -ea 0 heat.exe) ) {
     ReloadPathFromRegistry
     if (!(get-command -ea 0 heat.exe) ) { return "No Wix Toolset in path." }
 }#>
-
+<#
 # Install node.js via nvm
 if( !(get-command -ea 0 node.exe) ) { 
     write-host -fore cyan "Info: Installing NodeJS."
@@ -64,7 +83,7 @@ if( !(get-command -ea 0 node.exe) ) {
     ReloadPathFromRegistry
    
     if( !(get-command -ea 0 node.exe) ) { return write-error "No NodeJS in PATH." }
-    
+#>    
 <# for build machines, since I don't want this per-user    
     # use system-wide locations for npm
     npm config --global set cache "$env:ALLUSERSPROFILE\npm-cache"
@@ -74,4 +93,4 @@ if( !(get-command -ea 0 node.exe) ) {
     ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))    
     ReloadPathFromRegistry
 #>    
-}
+#}

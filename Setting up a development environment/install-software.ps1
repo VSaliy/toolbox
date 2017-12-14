@@ -44,8 +44,8 @@ if( !$pp ) { return write-error "can't get chocolatey package provider "}
 # start with a clean slate.
 ReloadPathFromRegistry
 
-# install nuget provider
-write-host -fore cyan "Info: Ensuring NuGet provider is installed."
+# install nuget oneget provider
+write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
 $np = get-packageprovider -force nuget
 if( !$np ) { return write-error "can't get nuget package provider "}
 
@@ -68,10 +68,11 @@ if( !(get-command -ea 0 idea.exe) ) {
     ( New-Object System.Net.WebClient).DownloadFile("https://gist.githubusercontent.com/VSaliy/d8d923759f694b1681260ce937e65487/raw/9440f8bc3ac550ff9ee03a4607423bcb39705b10/silent.config","c:\tmp\silent.config")
     if( !(test-path -ea 0  "c:\tmp\ideaIU-2017.3.exe" ) ) { return write-error "Unable to download IntelliJ IDEA" }
     if( !(test-path -ea 0  "c:\tmp\silent.config" ) ) { return write-error "Unable to download IntelliJ IDEA" }
-    write-host -fore cyan "Info: Installing IntelliJ IDEA 2017.3"
+    write-host -fore cyan "Info: Installing IntelliJ IDEA"
     C:\tmp\ideaIU-2017.3.exe /S /CONFIG=c:\tmp\silent.config /D=d:\dev\ide\ideaIU-2017.3
-    while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "�" ; sleep 1 }
+    while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "|" ; sleep 1 }
     ReloadPathFromRegistry
+    write-host -fore darkcyan "      Adding IDEA to system PATH."
     $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
     $p = "$p;d:\dev\ide\ideaIU-2017.3\bin;"
     ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
@@ -343,6 +344,25 @@ if( !(get-command -ea 0 mvn.cmd) ) {
     $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
     $p = "$p;c:\apache-maven-3.5.2\bin"
     ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+    ReloadPathFromRegistry
+    if( !(get-command -ea 0 mvn.cmd) ) { return write-error "No Maven in PATH." }
+}
+
+# install gradle
+if( !(get-command -ea 0 gradle.bat) ) { 
+    write-host -fore cyan "Info: Downloading Gradle"
+    (New-Object System.Net.WebClient).DownloadFile("https://services.gradle.org/distributions/gradle-4.4-bin.zip", "c:\tmp\gradle-4.4-bin.zip" )
+    if( !(test-path -ea 0  "c:\tmp\gradle-4.4-bin.zip") ) { return write-error "Unable to download Maven" }
+    write-host -fore darkcyan "      Unpacking Gradle."
+
+    Expand-Archive C:\tmp\gradle-4.4-bin.zip -DestinationPath c:\
+
+    write-host -fore darkcyan "      Adding gradle to system PATH."
+    $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
+    $p = "$p;C:\gradle-4.4\bin;"
+    ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+    ReloadPathFromRegistry
+    ([System.Environment]::SetEnvironmentVariable( 'GRADLE_HOME', "C:\gradle-4.4",  "Machine"))
     ReloadPathFromRegistry
     if( !(get-command -ea 0 mvn.cmd) ) { return write-error "No Maven in PATH." }
 }
