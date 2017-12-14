@@ -38,6 +38,13 @@ if (Install-NeededFor 'chocolatey') {
   iex ((new-object net.webclient).DownloadString("http://chocolatey.org/install.ps1")) 
 }
 
+#install boxstarter
+if (Install-NeededFor 'boxstarter') {
+#  iex ((new-object system.net.webclient).DownloadString('http://boxstarter.org/bootstrapper.ps1'))
+#  iex ((new-object net.webclient).DownloadString("http://chocolatey.org/install.ps1"))
+  cinst boxstarter
+}
+
 if (Install-NeededFor 'autosave') {
   cinstm nodejs.install
   $nodePath = Join-Path $env:programfiles 'nodejs'

@@ -44,6 +44,14 @@ if( !$pp ) { return write-error "can't get chocolatey package provider "}
 # start with a clean slate.
 ReloadPathFromRegistry
 
+# install nuget oneget provider
+write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
+$pp = get-packageprovider -force nuget
+if( !$pp ) { return write-error "can't get nuget package provider "}
+
+# start with a clean slate.
+ReloadPathFromRegistry
+
 # install jdk8
 if( !(get-command -ea 0 java.exe) ) {
     write-host -fore cyan "Info: Installing JDK 8."
@@ -303,13 +311,13 @@ if( !(get-command -ea 0 tox.exe) ) {
 # install maven
 if( !(get-command -ea 0 mvn.cmd) ) { 
     write-host -fore cyan "Info: Downloading Maven"
-    (New-Object System.Net.WebClient).DownloadFile("http://www-eu.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.zip", "c:\tmp\apache-maven-3.3.9-bin.zip" )
-    if( !(test-path -ea 0  "c:\tmp\apache-maven-3.3.9-bin.zip") ) { return write-error "Unable to download Maven" }
+    (New-Object System.Net.WebClient).DownloadFile("http://www-eu.apache.org/dist/maven/maven-3/3.5.2/binaries/apache-maven-3.5.2-bin.zip", "c:\tmp\apache-maven-3.5.2-bin.zip" )
+    if( !(test-path -ea 0  "c:\tmp\apache-maven-3.5.2-bin.zip") ) { return write-error "Unable to download Maven" }
     write-host -fore darkcyan "      Unpacking Maven."
-    Expand-Archive C:\tmp\apache-maven-3.3.9-bin.zip -DestinationPath c:\
+    Expand-Archive C:\tmp\apache-maven-3.5.2-bin.zip -DestinationPath c:\
     write-host -fore darkcyan "      Adding mvn to system PATH."
     $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
-    $p = "$p;c:\apache-maven-3.3.9\bin"
+    $p = "$p;c:\apache-maven-3.5.2\bin"
     ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
     ReloadPathFromRegistry
     if( !(get-command -ea 0 mvn.cmd) ) { return write-error "No Maven in PATH." }
