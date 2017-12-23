@@ -31,51 +31,60 @@ function GetEnvironmentFromRegistry {
     ([System.Environment]::GetEnvironmentVariables( 'Machine'))
 }
 
+
 # install chocolatey oneget provider
-write-host -fore cyan "Info: Ensuring Chocolatey OneGet provider is installed."
-$pp = get-packageprovider -force chocolatey
-if( !$pp ) { return write-error "can't get chocolatey package provider "}
-# start with a clean slate.
-ReloadPathFromRegistry
+function InstallChocolatey {
+    write-host -fore cyan "Info: Ensuring Chocolatey OneGet provider is installed."
+    $pp = get-packageprovider -force chocolatey
+    if( !$pp ) { return write-error "can't get chocolatey package provider "}
+    # start with a clean slate.
+    ReloadPathFromRegistry
+}
 
 # install nuget oneget provider
-write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
-$np = get-packageprovider -force nuget
-if( !$np ) { return write-error "can't get nuget package provider "}
-# start with a clean slate.
-ReloadPathFromRegistry
+function InstallNuGet {
+    write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
+    $np = get-packageprovider -force nuget
+    if( !$np ) { return write-error "can't get nuget package provider "}
+    # start with a clean slate.
+    ReloadPathFromRegistry
+}
 
 # install jdk8
-if( !(get-command -ea 0 java.exe) ) {
-    write-host -fore cyan "Info: Installing JDK 8."
-    $null = install-package -provider chocolatey jdk8 -force
-    if( !(get-command -ea 0 java.exe) ) { return write-error "No Java in PATH." }
+function InstallJDK8 {
+    if( !(get-command -ea 0 java.exe) ) {
+        write-host -fore cyan "Info: Installing JDK 8."
+        $null = install-package -provider chocolatey jdk8 -force
+        if( !(get-command -ea 0 java.exe) ) { return write-error "No Java in PATH." }
+    }
+    write-host -fore darkcyan "      Setting JAVA_HOME environment key."
+    ([System.Environment]::SetEnvironmentVariable('JAVA_HOME',  (resolve-path "$((get-command -ea 0 javac).Source)..\..\..").Path , "Machine" ))
 }
-write-host -fore darkcyan "      Setting JAVA_HOME environment key."
-([System.Environment]::SetEnvironmentVariable('JAVA_HOME',  (resolve-path "$((get-command -ea 0 javac).Source)..\..\..").Path , "Machine" ))
 
 # install intellijidea-ultimate
-if( !(get-command -ea 0 idea.exe) ) {
+function InstallIntelliJIDEA {
+    if( !(get-command -ea 0 idea.exe) ) {
 
-    write-host -fore cyan "Info: Downloading InteliiJ IDEA 2017.3"
-    ( New-Object System.Net.WebClient).DownloadFile("https://download.jetbrains.com/idea/ideaIU-2017.3.exe","c:\tmp\ideaIU-2017.3.exe")
-    ( New-Object System.Net.WebClient).DownloadFile("https://gist.githubusercontent.com/VSaliy/d8d923759f694b1681260ce937e65487/raw/9440f8bc3ac550ff9ee03a4607423bcb39705b10/silent.config","c:\tmp\silent.config")
-    if( !(test-path -ea 0  "c:\tmp\ideaIU-2017.3.exe" ) ) { return write-error "Unable to download IntelliJ IDEA" }
-    if( !(test-path -ea 0  "c:\tmp\silent.config" ) ) { return write-error "Unable to download IntelliJ IDEA" }
+        write-host -fore cyan "Info: Downloading InteliiJ IDEA 2017.3"
+        ( New-Object System.Net.WebClient).DownloadFile("https://download.jetbrains.com/idea/ideaIU-2017.3.exe","c:\tmp\ideaIU-2017.3.exe")
+        ( New-Object System.Net.WebClient).DownloadFile("https://gist.githubusercontent.com/VSaliy/d8d923759f694b1681260ce937e65487/raw/9440f8bc3ac550ff9ee03a4607423bcb39705b10/silent.config","c:\tmp\silent.config")
+        if( !(test-path -ea 0  "c:\tmp\ideaIU-2017.3.exe" ) ) { return write-error "Unable to download IntelliJ IDEA" }
+        if( !(test-path -ea 0  "c:\tmp\silent.config" ) ) { return write-error "Unable to download IntelliJ IDEA" }
 
-    write-host -fore cyan "Info: Installing IntelliJ IDEA"
-    C:\tmp\ideaIU-2017.3.exe /S /CONFIG=c:\tmp\silent.config /D=d:\dev\ide\ideaIU-2017.3
-    while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "|" ; sleep 1 }
-    ReloadPathFromRegistry
+        write-host -fore cyan "Info: Installing IntelliJ IDEA"
+        C:\tmp\ideaIU-2017.3.exe /S /CONFIG=c:\tmp\silent.config /D=d:\dev\ide\ideaIU-2017.3
+        while( (get-process -ea 0 ideaIU*) )  { write-host -NoNewline "|" ; sleep 1 }
+        ReloadPathFromRegistry
 
-    write-host -fore darkcyan "      Adding IDEA to system PATH."
-    $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
-    $p = "$p;D:\dev\ide\ideaIU-2017.3\bin;"
-    ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
-    ReloadPathFromRegistry
-    ([System.Environment]::SetEnvironmentVariable( 'IDEA_HOME', "d:\dev\ide\ideaIU-2017.3",  "Machine"))
-    ReloadPathFromRegistry
-    if( !(get-command -ea 0 idea64.exe) ) { return write-error "No idea in PATH." }
+        write-host -fore darkcyan "      Adding IDEA to system PATH."
+        $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
+        $p = "$p;D:\dev\ide\ideaIU-2017.3\bin;"
+        ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+        ReloadPathFromRegistry
+        ([System.Environment]::SetEnvironmentVariable( 'IDEA_HOME', "d:\dev\ide\ideaIU-2017.3",  "Machine"))
+        ReloadPathFromRegistry
+        if( !(get-command -ea 0 idea64.exe) ) { return write-error "No idea in PATH." }
+    }
 }
 
 # Install node.js via nvm
@@ -486,6 +495,11 @@ if( -not $good ) {
     ReloadPathFromRegistry
     if( !(get-command -ea 0 dotnet) ) { return write-error "No dotnet.exe in PATH." }
 }
+
+InstallChocolatey
+InstallNuGet
+InstallJDK8
+InstallIntelliJIDEA
 
 write-host -fore green  "You should restart this computer now. (ie, type 'RESTART-COMPUTER' )"
 return 
