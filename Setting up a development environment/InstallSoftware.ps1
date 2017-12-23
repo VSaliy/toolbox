@@ -389,6 +389,8 @@ function InstallGradle {
         ReloadPathFromRegistry
         ([System.Environment]::SetEnvironmentVariable( 'GRADLE_HOME', "C:\gradle-4.4",  "Machine"))
         ReloadPathFromRegistry
+        ([System.Environment]::SetEnvironmentVariable( 'GRADLE_USER_HOME', "D:\gradle",  "Machine"))
+        ReloadPathFromRegistry
         if( !(get-command -ea 0 mvn.cmd) ) { return write-error "No Maven in PATH." }
     }
 }
@@ -599,22 +601,22 @@ function InstallLicenceServer {
     }
 }
 
-# install glide
-# function InstallGlide {
-#     if( !(get-command -ea 0 glide.exe) ) {
-#         write-host -fore cyan "Info: Downloading Glide"
-#         invoke-webrequest "https://github.com/Masterminds/glide/releases/download/v0.11.1/glide-v0.11.1-windows-amd64.zip" -outfile  "c:\tmp\glide-v0.11.1-windows-amd64.zip"
-#         if( !(test-path -ea 0  "c:\tmp\glide-v0.11.1-windows-amd64.zip" ) ) { return write-error "Unable to download Glide" }
-#         write-host -fore darkcyan "      Unpacking Glide."
-#         Expand-Archive C:\tmp\glide-v0.11.1-windows-amd64.zip -DestinationPath c:\glide
-#         write-host -fore darkcyan "      adding glide to system PATH."
-#         $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
-#         $p = "$p;C:\glide\windows-amd64"
-#         ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
-#         ReloadPathFromRegistry
-#         if( !(get-command -ea 0 glide.exe) ) { return write-error "No glide in PATH." }
-#     }
-# }
+#install Everything
+function InstallEverything {
+    if( !(get-command -ea 0 Everything.exe) ) {
+        write-host -fore cyan "Info: Downloading Everything"
+        invoke-webrequest "https://www.voidtools.com/Everything-1.4.1.877.x86.zip" -outfile  "c:\tmp\Everything.zip"
+        if( !(test-path -ea 0  "c:\tmp\Everything.zip" ) ) { return write-error "Unable to download Everything" }
+        write-host -fore darkcyan "      Unpacking Everything."
+        Expand-Archive C:\tmp\Everything.zip -DestinationPath D:\usr\app\Everything
+        write-host -fore darkcyan "      adding Everything to system PATH."
+        $p = ([System.Environment]::GetEnvironmentVariable( "path", 'Machine'))
+        $p = "$p;D:\usr\app\Everything"
+        ([System.Environment]::SetEnvironmentVariable( "path", $p,  'Machine'))
+        ReloadPathFromRegistry
+        if( !(get-command -ea 0 Everything.exe) ) { return write-error "No Everything in PATH." }
+    }
+}
 
 
 # # install lazarus
@@ -626,11 +628,12 @@ function InstallLicenceServer {
 # }
 
 VerifyUserElevation
+# InstallEverything
 #MakeTempDirectory
-InstallLicenceServer
+# InstallLicenceServer
 # $cred = Get-Credential
 # DownloadFileFromOneDrive -DownloadURL $args[0] -PSCredentials $cred -DownloadPath 'c:\tmp\'
-# InstallGoogleChrome
+InstallGoogleChrome
 #InstallChocolatey           # Chocolatey
 #InstallNuGet                # NuGet
 #InstallJDK8                 # JDK 8
@@ -654,8 +657,9 @@ InstallLicenceServer
 #InstallDotnetCli            # Dotnet-Cli tools
 #InstallLazarus              # Lazarus aka Delphi
 
+
 #https://notepad-plus-plus.org/repository/7.x/7.5.3/npp.7.5.3.Installer.x64.exe
-#https://www.voidtools.com/Everything-1.4.1.877.x86.zip
+#
 #http://www.farmanager.com/files/Far30b5000.x64.20170807.msi
 #https://github.com/Maximus5/ConEmu/releases/download/v17.12.05/ConEmuSetup.171205.exe
 #https://dl.google.com/dl/cloudsdk/channels/rapid/GoogleCloudSDKInstaller.exe
@@ -688,5 +692,5 @@ InstallLicenceServer
 #https://s3.amazonaws.com/pe-client-tools-releases/2017.3/pe-client-tools/17.3.2/repos/windows/pe-client-tools-17.3.2-x64.msi
 #https://s3.amazonaws.com/puppet-agents/2017.3/puppet-agent/5.3.3/repos/windows/puppet-agent-5.3.3-x64.msi
 
-#write-host -fore green  "You should restart this computer now. (ie, type 'RESTART-COMPUTER' )"
+write-host -fore green  "You should restart this computer now. (ie, type 'RESTART-COMPUTER' )"
 return
