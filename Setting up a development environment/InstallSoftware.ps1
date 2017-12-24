@@ -43,6 +43,18 @@ function InstallChocolatey {
     ReloadPathFromRegistry
 }
 
+# install scoop
+#function InstallScoop {
+#    write-host -fore cyan "Info: Ensuring Chocolatey OneGet provider is installed."
+#    iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+#    (new-object net.webclient).downloadstring('https://get.scoop.sh') | iex
+#    $pp = get-packageprovider -force chocolatey
+#    if( !$pp ) { return write-error "can't get chocolatey package provider "}
+#    # start with a clean slate.
+#    ReloadPathFromRegistry
+#}
+
+
 # install nuget oneget provider
 function InstallNuGet {
     write-host -fore cyan "Info: Ensuring NuGet OneGet provider is installed."
