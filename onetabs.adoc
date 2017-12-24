@@ -1,3 +1,861 @@
+https://chrome.google.com/webstore/detail/chrome-dev-editor/pnoffddplpippgcfjdhbmhkofpnaalpg/related | Chrome Dev Editor - Chrome Web Store
+https://dartpad.dartlang.org/fb763a4a770b5cdd896982e10ccf4118 | DartPad
+https://classroom.google.com/u/0/h | Classes
+https://cloud.googleblog.com/2014/08/more-teaching-less-tech-ing-google.html | Official Google Cloud Blog: More teaching, Less tech-ing: Google Classroom Launches Today
+https://developer.chrome.com/extensions/management | chrome.management - Google Chrome
+https://developers.google.com/web/tools/starter-kit/ | Web Starter Kit  |  Tools for Web Developers  |  Google Developers
+https://habrahabr.ru/post/345158/?utm_source=facebook.com&utm_medium=social&utm_campaign=[iz-pesochnitsy]-prostaya-obektnaya-subdv | Простая объектная СУБД / Хабрахабр
+https://habrahabr.ru/post/345270/?utm_source=habrahabr&utm_medium=rss&utm_campaign=345270 | Сети для самых маленьких. Часть четырнадцатая. Путь пакета / Хабрахабр
+https://habrahabr.ru/search/?target_type=posts&order_by=relevance&q=3d+printing&flow= | Результаты поиска по запросу «3d printing» / Хабрахабр
+https://habrahabr.ru/post/252189/ | Приручаем динозавров, или как я писал свой собственный host controller для лаборатории 3D-печати / Хабрахабр
+https://habrahabr.ru/company/microsoftlumia/blog/239193/ | Print It Yourself: что интересного в мире 3D-печати c точки зрения владельца Lumia / Блог компании Microsoft Lumia / Хабрахабр
+https://attendee.gotowebinar.com/recording/viewRecording/5510476688198251523/4690243213196750092/vitaliy.saliy@gmail.com | View Recording
+https://www.cnet.com/news/reddit-election-misinformation-2016-research/?ftag=CAD-03-10aaj8j | Reddit posts show increase in misinformation in 2016, study says - CNET
+https://github.com/PacktPublishing/DevOps-Puppet-Docker-and-Kubernetes | PacktPublishing/DevOps-Puppet-Docker-and-Kubernetes: Code repository for DevOps: Puppet, Docker, and Kubernetes, published by Packt
+https://github.com/Traumflug/Visolate | Traumflug/Visolate: Visolate is an application for calculating machining toolpaths (G-code) for manufacturing printed circuit boards (PCBs) by isolation milling. As an outstanding feature, this calculation is done on the computer's screen, using the features of 3D graphics drivers.
+https://github.com/Traumflug/Generation_7_Electronics | Traumflug/Generation_7_Electronics: This is part of the RepRap project, see http://www.reprap.org. Gen7 is the next generation of electronics meant to drive a RepRap machine. Focus on this generation is to allow for better replicatability while not standing back behind industry products.
+https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf | https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf
+https://github.com/Ultimaker/Cura/commits/master?after=d0a3575c0c0b7065f7f6583bc4e04901dac6a725+11784 | Commits · Ultimaker/Cura
+http://reprap.org/ | RepRap - RepRapWiki
+https://en.wikipedia.org/wiki/Fused_deposition_modeling | Fused deposition modeling - Wikipedia
+https://ultimaker.com/en/resources/52029-manage-printers | Manage your available printers in Ultimaker Cura.
+https://www.reddit.com/r/MPSelectMiniOwners/comments/58kgyu/new_cura_23_custom_fdm_printer/ | New Cura 2.3 Custom FDM Printer : MPSelectMiniOwners
+https://www.fargo3dprinting.com/services/custom-3d-printing/ | Custom 3D Printing – Fargo 3D Printing
+https://qwiklab.com/focuses/6473 | Creating a Virtual Machine | Qwiklabs
+http://gsexdev.blogspot.com/2017/07/using-office365exchange-2016-rest-api.html | Using the Office365/Exchange 2016 REST API for working with Mailbox and OneDrive files/attachments | Glen's Exchange Dev Blog
+https://github.com/MicrosoftDocs/windows-itpro-docs | MicrosoftDocs/windows-itpro-docs: This is used for contributions to the Windows 10 content for IT professionals on docs.microsoft.com.
+https://github.com/darkoperator/powershell_scripts/blob/master/LabAccountImport.ps1 | powershell_scripts/LabAccountImport.ps1 at master · darkoperator/powershell_scripts
+https://github.com/keybase/client | keybase/client: Keybase Go Library, Client, Service, OS X, iOS, Android, Electron
+https://github.com/fooock/jshodan | fooock/jshodan: Powerful Shodan API client using RxJava and Retrofit
+https://developer.shodan.io/ | Shodan Developer
+https://gist.github.com/opexxx?page=9 | opexxx’s gists
+https://gist.github.com/thebooleanfrog/5652387 | Windows Run Commands
+https://gist.github.com/opexxx/aa8db53fc49bf2ebcdb2 | keybase.md
+https://gist.github.com/apolloclark | apolloclark’s gists
+https://gist.github.com/apolloclark/c9eb0c1a01798ac2e48492ceeb367a4f | elasticsearch_cheatsheet.md
+https://community.ardour.org/community | Ardour Community | ardour
+http://cdimage.ubuntu.com/ubuntustudio/releases/zesty/release/ | Index of /ubuntustudio/releases/zesty/release
+
+https://marketplace.eclipse.org/content/powershelleditor | PowershellEditor | Eclipse Plugins, Bundles and Products - Eclipse Marketplace
+http://www.epic-ide.org/download.php | EPIC - Eclipse Perl Integration
+https://github.com/pavlospt/Android-Studio-Tips-by-Philippe-Breault/wiki | Home · pavlospt/Android-Studio-Tips-by-Philippe-Breault Wiki
+https://developer.android.com/studio/command-line/bmgr.html | bmgr | Android Studio
+https://developer.android.com/studio/command-line/adb.html | Android Debug Bridge (adb) | Android Studio
+https://developer.android.com/studio/intro/update.html#sdk-manager | Update the IDE and SDK Tools | Android Studio
+https://developer.android.com/studio/releases/platform-tools.html | SDK Platform Tools Release Notes | Android Studio
+https://gitee.com/aaden/aaden-pay?from=weekmail | aaden/aaden-pay - Gitee
+https://gitee.com/notifications/messages | Notification - Gitee
+http://www.itninja.com/tag/google-android-sdk-tools-1 | Content tagged with Google Android SDK Tools 1 | ITNinja
+https://developer.android.com/studio/tools/help/android.html | android | Android Studio
+https://developer.android.com/studio/command-line/sdkmanager.html | sdkmanager | Android Studio
+https://github.com/JetBrains/android/tree/master/native/installer/win | android/native/installer/win at master · JetBrains/android
+https://github.com/JetBrains/android/tree/master/sdk-updates | android/sdk-updates at master · JetBrains/android
+https://rominirani.com/gradle-tutorial-part-1-installation-setup-2ea77729fc8c | Gradle Tutorial : Part 1 : Installation + Setup – Romin Irani’s Blog
+http://www.codejava.net/java-se/networking/how-to-create-a-chat-console-application-in-java-using-socket | How to Create a Chat Console Application in Java using Socket
+http://www.codejava.net/download-attachment?fid=369 | Download Attachment
+https://www.javacodegeeks.com/2014/11/java-8-streams-micro-katas.html?utm_content=bufferc7281&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer | Java 8 Streams: Micro Katas
+https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%B4%D0%BE%D1%82%D0%BA%D0%BE%D0%BC%D0%BE%D0%B2 | Пузырь доткомов — Википедия
+https://gist.github.com/kurokikaze | kurokikaze’s gists
+https://github.com/nickrod518/PowerShell-Scripts/blob/master/New-EncryptedPasswordFile.ps1 | PowerShell-Scripts/New-EncryptedPasswordFile.ps1 at master · nickrod518/PowerShell-Scripts
+https://github.com/nickrod518?tab=repositories | nickrod518 (Nick Rodriguez) / Repositories
+https://github.com/gscales/CreditCardValidator | gscales/CreditCardValidator: A C# library for validating credit card numbers and generating ones.
+http://davidseah.com/ | Dave Seah | Investigative Designer | Investigative Designer
+https://github.com/daveseah?tab=repositories | daveseah (Dave Seah) / Repositories
+https://cloud.digitalocean.com/droplets?i=fa91c1 | DigitalOcean - Droplets
+https://software.intel.com/en-us/blogs/2014/10/20/how-to-ensure-you-are-using-intel-haxm-for-android-emulator | How to Ensure You Are Using Intel® HAXM for Android* Emulator | Intel® Software
+https://id.chef.io/id/signin | Chef Identity Service
+https://mail.google.com/mail/u/0/#inbox | Inbox (254) - vitaliy.saliy@gmail.com - Gmail
+https://api.chef.io/signup/verify?expires=1514157922&ref=&signature=7248acd32eff6b21a23b5813ac7602c9388afd8eec1a8abf35306ee6841ede18&user=eyJkaXNwbGF5X25hbWUiOiJWaXRhbGl5IFNhbGl5IiwiY29tcGFueSI6IlZpdGFsaXkgU2FsaXkiLCJlbWFpbCI6InZpdGFsaXkuc2FsaXlAZ21haWwuY29tIiwidXNlcm5hbWUiOiJ2aXRhbGl5c2FsaXkiLCJ0ZXJtcyI6InRydWUiLCJmaXJzdF9uYW1lIjoiVml0YWxpeSIsImxhc3RfbmFtZSI6IlNhbGl5In0%3D | Chef Manage
+https://github.com/Ardour | Ardour
+https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh?utm_source=Customerio&utm_medium=Email_Internal&utm_campaign=Email_CentOSDistroNginxWelcome&mkt_tok=eyJpIjoiTURrNVltTXdOakV3WlRoaSIsInQiOiJ4TnliazBRNVNkMUNONXpjNm41NisxZDRVNHVqOEl1S1ordWJXanFmNHNqbmd3bm8wdzZzeXZreDhuZkxDTldtRmp3bE85RjY3WXhyME9UaE8ra1FxNDhvc1BXNnVSNHhRV3ZTa2gyZWFVS1BLd1FPUGlCQkVrMlp0dUIzRzE4USJ9 | How To Connect To Your Droplet with SSH | DigitalOcean
+https://www.mozilla.org/en-US/firefox/organizations/all/ | Mozilla Firefox Web Browser — Download Firefox Extended Support Release in your language — Mozilla
+https://www.ebswift.com/free-and-open-source-software.html | Free and Open Source Software - EBSWIFT.COM
+http://www.icsharpcode.net/opensource/sd/Default.aspx | SharpDevelop @ic#code
+
+http://www.fakenamegenerator.com/gen-random-us-us.php | Generate a Random Name - Fake Name Generator
+https://github.com/OneDrive/onedrive-api-docs | OneDrive/onedrive-api-docs: Official documentation for the OneDrive API
+https://github.com/OneDrive/onedrive-sdk-android | OneDrive/onedrive-sdk-android: OneDrive SDK for Android!
+https://github.com/OneDrive/onedrive-explorer-android | OneDrive/onedrive-explorer-android: OneDrive Explorer for Phone and Tablets!
+https://github.com/OneDrive/onedrive-explorer-js | OneDrive/onedrive-explorer-js: OneDrive sample application for JavaScript.
+https://github.com/OneDrive/onedrive-sample-apibrowser-dotnet | OneDrive/onedrive-sample-apibrowser-dotnet
+https://docs.microsoft.com/en-us/onedrive/developer/sample-code | OneDrive Files Sample Code - OneDrive dev center | Microsoft Docs
+https://codelabs.developers.google.com/ | Google Codelabs
+https://cloud.google.com/java/ | Java  |  Google Cloud Platform
+https://cloud.google.com/java/samples | Code samples  |  Java  |  Google Cloud Platform
+https://docs.google.com/document/d/1E03-g0h3MgFlohXqPNYCjl7Pv_CA_l0zhD6K3MZ8O0M/edit | 2017 - Kubernetes Lab 1.6 - Google Docs
+https://docs.google.com/document/d/1E03-g0h3MgFlohXqPNYCjl7Pv_CA_l0zhD6K3MZ8O0M/edit | 2017 - Kubernetes Lab 1.6 - Google Docs
+https://codelabs.developers.google.com/codelabs/cloud-spring-runtime-config/index.html?index=..%2F..%2Findex | Dynamic configuration for Spring Boot applications using Spring Cloud Config starter
+https://codelabs.developers.google.com/codelabs/cloud-spring-cloud-gcp-pubsub-integration/index.html?index=..%2F..%2Findex | Messaging with Spring Integration and Google Cloud Pub/Sub
+https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html?index=..%2F..%2Findex#0 | Spring Pet Clinic using Spring Cloud SQL starter
+https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes/index.html?index=..%2F..%2Findex | Deploy a Java application to Kubernetes on Google Container Engine
+https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..%2Findex | Intro to Dart for Java Developers
+https://codelabs.developers.google.com/codelabs/notification-channels-java/index.html?index=..%2F..%2Findex | Notification Channels and Badges (Java)
+https://codelabs.developers.google.com/codelabs/android-agera/index.html?index=..%2F..%2Findex | Agera: reactive Android apps
+https://codelabs.developers.google.com/codelabs/cosu/index.html?index=..%2F..%2Findex#0 | Build Applications for Single-Use Devices
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..%2Findex#2 | Build Your First Android App in Java
+https://www.youtube.com/watch?v=8OjOGJKM98o | (54) Istio 101: Open Source Service Mesh for Microservices! - YouTube
+https://istio.io/docs/setup/ | Istio / Setup
+https://github.com/istio/community | istio/community: Istio governance material.
+https://istio.io/community | Istio / Community
+https://web.archive.org/web/20140924140204/http://code.google.com/p/conemu-maximus5/wiki/GuiMacro | GuiMacro - conemu-maximus5 - Windows Console Emulator, Far Manager plugins - Google Project Hosting
+https://github.com/GingaNinja/devInstall | GingaNinja/devInstall
+https://github.com/vurtun/nuklear | vurtun/nuklear: A single-header ANSI C gui library
+https://github.com/vurtun?tab=repositories | vurtun (Micha Mettke) / Repositories
+https://github.com/glegris/nuklear4j | glegris/nuklear4j: Java binding for nuklear
+http://www.swig.org/ | Simplified Wrapper and Interface Generator
+http://www.fltk.org/index.php | Fast Light Toolkit - Fast Light Toolkit (FLTK)
+https://github.com/ZackMisso/ZGUI | ZackMisso/ZGUI: A very bare bones and minimalistic gui made to be used with GLFW. Will be loosely based on the SVG standard. STILL IN DEVELOPMENT
+https://github.com/FedericoVaga/zGUI | FedericoVaga/zGUI: A simple Python GUI to handle ZIO acquisition
+https://repo.spring.io/release/samples/httpsession-redis-json/1.3.1.RELEASE/ | Index of release/samples/httpsession-redis-json/1.3.1.RELEASE
+http://bbs.mjtd.com/ | CAD论坛 - 明经CAD社区 - Powered by Discuz!
+https://bitbucket.org/windirstat/windirstat/downloads/ | windirstat / windirstat / Downloads — Bitbucket
+https://www.jam-software.de/customers/downloadTrial.php?PHPSESSID=fhfp3p3ftaeqst78lfnkbt30g0 | JAM Software - Customer Area
+http://hace-software.com/mmm-plus.shtml
+https://github.com/gvanem/EnvTool | gvanem/EnvTool: Utility to check and search along environment variables. Or where Python/Cmake/pkg-modules are located. http://gvanem.github.io/EnvTool/
+https://github.com/vatterspun/cubicexplorer | vatterspun/cubicexplorer: Extremely customizable Windows file manager
+https://habrahabr.ru/post/345274/?utm_source=habrahabr&utm_medium=rss&utm_campaign=345274 | Как я писал собственную ERP систему и что из этого получилось / Хабрахабр
+
+http://rakudo.org/how-to-get-rakudo/ | Downloads | Rakudo Perl 6
+http://rakudo.org/ | Rakudo Perl 6 | rakudo.org
+https://www.cnet.com/news/amazon-tops-list-for-customer-service/ | Amazon tops list for customer service - CNET
+https://undsgn.com/uncode/features/google-maps/ | Google Maps - Uncode
+https://carbonads.net/?utm_source=fontawesome&utm_medium=ad_via_link&utm_campaign=in_unit&utm_term=carbon | Carbon Ads
+https://fontawesome.com/?utm_source=font_awesome_homepage&utm_medium=display&utm_campaign=fa5_released&utm_content=auto_modal | Font Awesome 5 | Font Awesome
+https://www.ultraedit.com/font-awesome.html?utm_source=fa&utm_medium=display&utm_content=text&utm_campaign=fa | Meet UltraEdit, the world's best code editor
+http://www.wpbeginner.com/?utm_source=fontawesome_footer&utm_medium=banner&utm_campaign=fontawesome | WPBeginner - Beginner's Guide for WordPress
+https://www.hostgator.com/promo/wpbeginner?irgwc=1&clickid=1i2SSbR3b0290iO2p4XrzwmsUkmTPMQKSSh02w0&c3nid=11535&c3ch=Impact-Radius | Website Hosting Services, VPS Hosting & Dedicated Servers - HostGator - HostGator
+http://www.wpbeginner.com/opinion/sucuri-review-how-sucuri-helped-us-block-450000-wordpress-attacks-in-3-months/ | Sucuri Review - How Sucuri Helped us Block 450,000 WordPress Attacks in 3 Months
+https://themeisle.com/?utm_source=fontawesome_footer&utm_medium=banner&utm_campaign=fontawesome | Premium WordPress Themes, Templates & Plugins @ ThemeIsle
+https://www.elegantthemes.com/gallery/divi/?utm_source=fontawesome&utm_medium=220x65&utm_campaign=buysellads | Divi — The Ultimate WordPress Theme & Visual Page Builder
+https://roundicons.com/ | Round Icons - 31,600 Premium Icon packs flat icons line icons solid icons
+http://fontawesome.io/icons/ | Font Awesome Icons
+http://www.soft-gems.net/ | Home
+https://github.com/project-jedi/jvcl/tree/master/jvcl | jvcl/jvcl at master · project-jedi/jvcl
+http://jvcl.delphi-jedi.org/ | Welcome to the JVCL Home Page!
+https://github.com/greenido/bitcoin-info-action | greenido/bitcoin-info-action: App for the google assistant that give you information on bitcoin (e.g. price, market cap etc')
+https://console.cloud.google.com/cloud-resource-manager | Manage resources
+https://github.com/PoshCode/PowerShellPracticeAndStyle/ | PoshCode/PowerShellPracticeAndStyle: The Unofficial PowerShell Best Practices and Style Guide
+https://medium.com/devopslinks/microservices-from-development-to-production-using-docker-docker-compose-docker-swarm-3cf37f97706b | MicroServices From Development To Production Using Docker, Docker Compose & Docker Swarm
+https://chromium.googlesource.com/chromiumos/third_party/autotest/+/master/client/site_tests/desktopui_UrlFetchWithChromeDriver/desktopui_UrlFetchWithChromeDriver.py | client/site_tests/desktopui_UrlFetchWithChromeDriver/desktopui_UrlFetchWithChromeDriver.py - chromiumos/third_party/autotest - Git at Google
+https://github.com/chef | Chef Software, Inc.
+https://github.com/FabriceSalvaire/CodeReview | FabriceSalvaire/CodeReview: CodeReview is a Git GUI tool to perform code review (Diff Viewer) written in Python3 and Qt5.
+
+https://blog.runas.me/2014/08/28/powershell-console-conemu-psreadline/ | A Better Powershell Console with Cmder (ConEmu) and PsReadLine | run as me
+https://gist.github.com/jchandra74/5b0c94385175c7a8d1cb39bc5157365e | PowerShell, Cmder / ConEmu, Posh-Git, Oh-My-Posh, Powerline Customization
+https://github.com/joonro/ConEmu-Color-Themes | joonro/ConEmu-Color-Themes: Color themes for ConEmu
+https://hodgkins.io/ultimate-powershell-prompt-and-git-setup | Ultimate PowerShell Prompt Customization and Git Setup Guide
+https://www.cakesolutions.net/software/development | Development
+https://www.cakesolutions.net/teamblogs/composing-microservices-with-docker-part1 | Composing Microservices with Docker - Part 1
+http://howtocookmicroservices.com/ | Microservices - How to Cook Microservices
+http://howtocookmicroservices.com/development/ | Microservices - Development Environment with Vagrant - How to Cook Microservices
+http://howtocookmicroservices.com/docker-compose/ | Microservices - Development with Docker Compose - How to Cook Microservices
+http://eventuate.io/exampleapps.html | Eventuate example applications
+https://github.com/cer/microservices-examples | cer/microservices-examples: Examples of microservices
+https://help.yipee.io/ | Yipee.Io Help Center
+http://www.delphi-jedi.org/index.html | Project JEDI Portal
+https://console.dialogflow.com/api-client/#/agent/8b9b6691-3cda-46b6-a1b3-61c267836faf/uploadInteractions | Dialogflow
+https://isis.apache.org/index.html | Apache Isis
+https://isis.apache.org/documentation.html | Documentation
+https://isis.apache.org/pages/isis-in-pictures/isis-in-pictures.html | Apache Isis in Pictures
+http://platform.incode.org/index.html | Incode Platform
+https://aurees.com/ | Aurees Git Client
+https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md | OpenAPI-Specification/2.0.md at master · OAI/OpenAPI-Specification
+https://www.techstars.com/startup-accelerator/ | Startup Accelerator Programs Worldwide
+https://manage.statuspage.io/pages/0k5y3r371d9p/incidents | Statuspage - All Incidents
+https://medium.com/@loisrp/if-you-hire-a-technical-writer-who-is-both-a-good-writer-and-sufficiently-technical-producing-509e190954da | If you hire a technical writer who is both a good writer and sufficiently technical, producing…
+https://blog.stoplight.io/ | Stoplight API Corner
+https://vitaliysaliy.statuspage.io/ | Vitaliy Saliy Status
+http://www.writethedocs.org/ | Welcome to the Write the Docs Community — Write the Docs
+https://www.zendesk.com/demo/#demo-form | Zendesk Demo | Watch a Quick Help Desk Software Demo
+https://vitaliysaliy.zendesk.com/agent/# | Zendesk...
+https://www.zendesk.com/developer-platform/ | Developer Platform | Zendesk
+https://www.google.com.ua/search?q=Practical+Zendesk+Administration%3A+A+World-Class+Customer+Service+Platform&oq=Practical+Zendesk+Administration%3A+A+World-Class+Customer+Service+Platform&aqs=chrome..69i57j69i60&sourceid=chrome&ie=UTF-8 | Practical Zendesk Administration: A World-Class Customer Service Platform - Google Search
+https://www.zendesk.com/customer-experience/ | Customer Experience | Zendesk
+https://help.zendesk.com/hc/en-us/sections/115002917448 | Get started with the Zendesk platform – Zendesk
+https://support.zendesk.com/hc/en-us/articles/203691516 | Where to go next – Zendesk Support
+https://developer.zendesk.com/account | Account Information - My Account - Zendesk Developer Portal
+https://developer.zendesk.com/account | Account Information - My Account - Zendesk Developer Portal
+https://www.amazon.com/gp/product/1491900695/ref=s9_simh_gw_p14_d13_i1?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=center-2&pf_rd_r=190K98B5YY15P9NW69GH&pf_rd_t=101&pf_rd_p=1688200382&pf_rd_i=507846 | Practical Zendesk Administration: A World-Class Customer Service Platform: Stafford Vaughan, Anton de Young: 9781491900697: Amazon.com: Books
+https://www.zendesk.com/resources/ | Customer Service Resources | Zendesk Library
+http://www.oracle.com/technetwork/systems/ts-5969-159021.pdf | ts-5969-159021.pdf
+https://github.com/drone/drone | drone/drone: Drone is a Continuous Delivery platform built on Docker, written in Go
+https://drone.io/ | Continuous Delivery | Drone
+http://35.224.142.132:8080/ | 35.224.142.132
+https://javaspecialists.teachable.com/courses/enrolled/256104 | JavaSpecialists
+https://github.com/redhat-developer/microservices-by-example-source | redhat-developer/microservices-by-example-source: Source code for book Microservices for Java Developers
+https://www.lagomframework.com/ | Lagom - Microservices Framework
+https://info.lightbend.com/rs/558-NCX-702/images/ebook-serving-machine-learning-models.pdf | Serving Machine Learning Models
+
+http://www.oracle.com/technetwork/systems/ts-5969-159021.pdf | ts-5969-159021.pdf
+https://github.com/drone/drone | drone/drone: Drone is a Continuous Delivery platform built on Docker, written in Go
+https://drone.io/ | Continuous Delivery | Drone
+http://35.224.142.132:8080/ | 35.224.142.132
+https://javaspecialists.teachable.com/courses/enrolled/256104 | JavaSpecialists
+https://github.com/redhat-developer/microservices-by-example-source | redhat-developer/microservices-by-example-source: Source code for book Microservices for Java Developers
+https://www.lagomframework.com/ | Lagom - Microservices Framework
+https://info.lightbend.com/rs/558-NCX-702/images/ebook-serving-machine-learning-models.pdf | Serving Machine Learning Models
+
+https://medium.com/fnproject/serverless-sagas-with-fn-flow-d8199b608b12 | Serverless Sagas with Fn Flow – Fn Project – Medium
+https://github.com/fnproject/fdk-java/blob/c2f4093582fde12bdb58c5ca2509d2a594d41c7b/api/src/main/java/com/fnproject/fn/api/flow/Flow.java#L59 | fdk-java/Flow.java at c2f4093582fde12bdb58c5ca2509d2a594d41c7b · fnproject/fdk-java
+https://github.com/fnproject/tutorials | fnproject/tutorials: Fn tutorials ranging from getting started to more advanced topics.
+https://medium.com/statuscode/integrating-openfaas-and-graphql-experimental-1870bd22f2a | Integrating OpenFaaS and GraphQL – Statuscode – Medium
+https://www.journaldev.com/13121/java-9-features-with-examples#repl | Java 9 Features with Examples - JournalDev
+https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java | Meet the New Application Development Stack - Managed Kubernetes, Serverless, Registry, CI/CD, Java | Oracle Developers Blog
+https://github.com/fnproject/fdk-java | fnproject/fdk-java: Java API and runtime for fn.
+https://github.com/fnproject/fn/blob/master/docs/serverless.md | fn/serverless.md at master · fnproject/fn
+https://martinfowler.com/articles/serverless.html | Serverless Architectures
+https://en.wikipedia.org/wiki/Mobile_backend_as_a_service | Mobile backend as a service - Wikipedia
+https://twitter.com/marak?protected_redirect=true | Твиты с ответами от marak (@marak) | Твиттер
+https://leanpub.com/serverless | Serverless by Obie Fernandez [Leanpub PDF/iPad/Kindle]
+https://www.google.com.ua/search?q=Serverless+Patterns+of+Modern+Application+Design+Using+Microservices+(Amazon+Web+Services+Edition)&oq=Serverless+Patterns+of+Modern+Application+Design+Using+Microservices+(Amazon+Web+Services+Edition)&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8 | Serverless Patterns of Modern Application Design Using Microservices (Amazon Web Services Edition) - Google Search
+https://aws.amazon.com/devops/ | DevOps - Amazon Web Services (AWS)
+https://github.com/awslabs/serverless-application-model | awslabs/serverless-application-model: AWS Serverless Application Model (AWS SAM) prescribes rules for expressing Serverless applications on AWS.
+https://aws.amazon.com/quickstart/architecture/consul/ | HashiCorp Consul on AWS - Quick Start
+https://en.wikipedia.org/wiki/CAP_theorem | CAP theorem - Wikipedia
+https://trends.google.com/trends/ | Google Trends
+http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html | Microservices - Not a free lunch! - High Scalability -
+https://aws.amazon.com/devops/continuous-integration/ | What is Continuous Integration? – Amazon Web Services
+https://aws.amazon.com/devops/continuous-delivery/ | What is Continuous Delivery? – Amazon Web Services
+https://aws.amazon.com/marketplace/b/2649367011 | AWS Marketplace
+https://github.com/serverless/serverless | serverless/serverless: Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+https://aws.amazon.com/lambda/ | AWS Lambda – Serverless Compute - Amazon Web Services
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+https://azure.microsoft.com/en-us/services/functions/ | Azure Functions—Serverless Architecture | Microsoft Azure
+https://www.ibm.com/cloud/functions | Cloud Functions - Overview | IBM Cloud
+https://www.eventbrite.com/e/serverlessconf-nyc-tickets-35723679487 | Serverlessconf NYC Tickets, Sun, Oct 8, 2017 at 9:00 AM | Eventbrite
+https://funcatron.org/ | Funcatron
+https://auth0.com/ | Single Sign On & Token Based Authentication - Auth0
+https://webtask.auth0.com/login?client=Yi4bH7kAyCMNO2M9jlemg85qHcEXf3cA&protocol=oauth2&redirect_uri=https%3A%2F%2Fwebtask.io%2Fcallback&connection=&response_type=code&state=EjW_rSNKyutt2m71-FIIbOLYnt00_5q0 | Sign In with Auth0
+http://open.iron.io/ | Iron.io Open Source - Functions
+https://github.com/iron-io/functions | iron-io/functions: IronFunctions - the serverless microservices platform by
+https://github.com/iron-io/docs | iron-io/docs: Iron.io Dev Center documentation.
+https://www.eventbrite.com/e/serverlessconf-nyc-tickets-35723679487 | Serverlessconf NYC Tickets, Sun, Oct 8, 2017 at 9:00 AM | Eventbrite
+https://martinfowler.com/bliki/EvolvingPublication.html | EvolvingPublication
+https://act.eff.org/account | EFF Action Center
+https://docs.google.com/document/d/1E03-g0h3MgFlohXqPNYCjl7Pv_CA_l0zhD6K3MZ8O0M/edit# | 2017 - Kubernetes Lab 1.6 - Google Docs
+http://www.iron.io/ | Iron.io - DevOps Solutions from Startups to Enterprise
+
+https://github.com/fabric8io/kubeflix | fabric8io/kubeflix: Kubernetes integration with Netflix OSS
+https://www.oreilly.com/ideas/an-introduction-to-immutable-infrastructure | An introduction to immutable infrastructure - O'Reilly Media
+https://blog.fabric8.io/the-decline-of-java-application-servers-when-using-docker-containers-edbe032e1f30 | the decline of Java application servers when using docker containers
+https://github.com/redhat-developer/microservices-by-example-source | redhat-developer/microservices-by-example-source: Source code for book Microservices for Java Developers
+https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started-installing-spring-boot.html#getting-started-installing-the-cli | 10. Installing Spring Boot
+https://developers.redhat.com/products/cdk/hello-world/ | Red Hat Container Development Kit Hello-world | Red Hat Developers
+https://developers.redhat.com/products/devstudio/download/?referrer=jbd | Red Hat JBoss Developer Studio Download | Red Hat Developers
+https://www.lagomframework.com/documentation/1.0.x/Home.html | Lagom - 404 - Not Found
+https://martinfowler.com/articles/consumerDrivenContracts.html | Consumer-Driven Contracts: A Service Evolution Pattern
+
+https://machinelearningmastery.com/multi-class-classification-tutorial-keras-deep-learning-library/ | Multi-Class Classification Tutorial with the Keras Deep Learning Library - Machine Learning Mastery
+https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-classifier | Classification and regression - Spark 2.2.0 Documentation
+https://groups.google.com/forum/#!topic/jpmml/0zHjGSDt7Yc | Re: Efficiency JPMML-Evaluator - Google Groups
+https://scalapb.github.io/ | ScalaPB: Scala Protocol Buffer Compiler
+https://ci.apache.org/projects/flink/flink-docs-release-1.3/dev/stream/process_function.html | Apache Flink 1.3 Documentation: Process Function (Low-level Operations)
+https://cwiki.apache.org/confluence/display/FLINK/FLIP-17+Side+Inputs+for+DataStream+API | FLIP-17 Side Inputs for DataStream API - Apache Flink - Apache Software Foundation
+https://beam.apache.org/ | Apache Beam
+https://beam.apache.org/documentation/programming-guide/#groupbykey | Beam Programming Guide
+https://beam.apache.org/documentation/sdks/java/ | Beam Java SDK
+https://beam.apache.org/documentation/programming-guide/#flatten | Beam Programming Guide
+https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html | Structured Streaming Programming Guide - Spark 2.2.0 Documentation
+https://docs.confluent.io/current/streams/developer-guide/index.html#implementing-custom-state-stores | Developer Guide — Confluent Platform 4.0.0 documentation
+https://developer.lightbend.com/docs/alpakka/current/ | Alpakka
+https://doc.akka.io/docs/akka/current/persistence.html?language=scala | Persistence • Akka Documentation
+http://cassandra.apache.org/ | Apache Cassandra
+https://spark-summit.org/2014/wp-content/uploads/2014/07/Spark-Job-Server-Easy-Spark-Job-Management-Chan-Chu.pdf | Spark-Job-Server-Easy-Spark-Job-Management-Chan-Chu.pdf
+https://github.com/spark-jobserver/spark-jobserver/blob/master/doc/contexts.md | spark-jobserver/contexts.md at master · spark-jobserver/spark-jobserver
+https://github.com/ooyala/spark-jobserver | ooyala/spark-jobserver: REST job server for Spark. Note that this is *not* the mainline open source version. For that, go to https://github.com/spark-jobserver/spark-jobserver. This fork now serves as a semi-private repo for Ooyala.
+https://spark-summit.org/2014/wp-content/uploads/2014/07/Spark-Job-Server-Easy-Spark-Job-Management-Chan-Chu.pdf | Spark-Job-Server-Easy-Spark-Job-Management-Chan-Chu.pdf
+https://github.com/spark-jobserver/spark-jobserver | spark-jobserver/spark-jobserver: REST job server for Apache Spark
+https://stackoverflow.com/questions/40080807/how-to-check-if-certain-consumer-is-connected-to-kafka-0-9-0-x-using-java | how to check if certain consumer is connected to Kafka 0.9.0.x using java? - Stack Overflow
+https://apache.googlesource.com/kafka/+/HEAD/core/src/main/scala/kafka/admin/AdminClient.scala | core/src/main/scala/kafka/admin/AdminClient.scala - kafka - Git at Google
+http://vishnuviswanath.com/flink_queryable_state1.html | Queryable States in ApacheFlink - How it works
+http://charithe.github.io/dynamic-akka-streams-using-stage-actors.html | Dynamic Akka Streams Using Stage Actors - Lucid Electric Dreams
+https://github.com/eligosource/eventsourced | eligosource/eventsourced: A library for building reliable, scalable and distributed event-sourced applications in Scala
+http://aseigneurin.github.io/2016/10/07/kafka-streams-scaling-up-or-down.html | Kafka Streams - Scaling up or down
+https://kafka.apache.org/documentation/streams/ | Apache Kafka
+https://github.com/apache/beam/tree/master/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka | beam/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka at master · apache/beam
+https://beam.apache.org/documentation/programming-guide/#windowing | Beam Programming Guide
+https://beam.apache.org/documentation/programming-guide/#side-inputs | Beam Programming Guide
+https://beam.apache.org/documentation/sdks/java/ | Beam Java SDK
+https://beam.apache.org/documentation/programming-guide/ | Beam Programming Guide
+https://ci.apache.org/projects/flink/flink-docs-release-1.3/dev/parallel.html | Apache Flink 1.3 Documentation: Parallel Execution
+https://ci.apache.org/projects/flink/flink-docs-release-1.3/dev/stream/process_function.html | Apache Flink 1.3 Documentation: Process Function (Low-level Operations)
+https://ci.apache.org/projects/flink/flink-docs-release-1.3/dev/stream/process_function.html | Apache Flink 1.3 Documentation: Process Function (Low-level Operations)
+https://www.slideshare.net/databricks/apache-spark-model-deployment | Apache Spark Model Deployment
+https://github.com/ucbrise/clipper | ucbrise/clipper: A low-latency prediction-serving system
+http://openscoring.io/ | Openscoring.io - Continuous Modeling
+https://github.com/opendatagroup/hadrian | opendatagroup/hadrian: Implementations of the Portable Format for Analytics (PFA)
+https://github.com/jpmml/jpmml-evaluator-spark | jpmml/jpmml-evaluator-spark: PMML evaluator library for the Apache Spark cluster computing system (http://spark.apache.org/)
+https://data-artisans.com/blog/bettercloud-dynamic-alerting-apache-flink | Dynamically Configured Stream Processing: How BetterCloud Built an Alerting System with Apache Flink® - data Artisans
+https://www.tensorflow.org/api_docs/python/tf/train/Saver | tf.train.Saver  |  TensorFlow
+https://github.com/typesafehub/fdp-tensorflow-python-examples/blob/master/keras/WineQualityClassification.py | fdp-tensorflow-python-examples/WineQualityClassification.py at master · typesafehub/fdp-tensorflow-python-examples
+https://www.slideshare.net/jeykottalam/pipelines-ampcamp | Machine Learning Pipelines
+https://github.com/typesafehub/fdp-modelserver | typesafehub/fdp-modelserver: An umbrella project for multiple implementations of model serving
+https://github.com/FlinkML/flink-jpmml | FlinkML/flink-jpmml: flink-jpmml is a fresh-made library for dynamic real time machine learning predictions built on top of PMML standard models and Apache Flink streaming engine
+https://github.com/jpmml/jpmml-evaluator | jpmml/jpmml-evaluator: Java Evaluator API for PMML
+https://www.tensorflow.org/api_docs/java/reference/org/tensorflow/package-summary | org.tensorflow  |  TensorFlow
+https://keras.io/ | Keras Documentation
+https://www.tensorflow.org/serving/ | Introduction  |  TensorFlow
+http://data-informed.com/spark-ml-from-lab-to-production-picking-the-right-deployment-architecture-for-your-business/ | Spark ML from Lab to Production: Picking the Right Deployment Architecture for Your Business
+https://github.com/typesafehub/fdp-modelserver/blob/master/kafkaclient/src/main/scala/com/lightbend/kafka/ModelProvider.scala | fdp-modelserver/ModelProvider.scala at master · typesafehub/fdp-modelserver
+https://www.confluent.io/blog/apache-flink-apache-kafka-streams-comparison-guideline-users/ | Apache Flink and Apache Kafka Streams: a comparison and guideline for users - Confluent
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0072-9 | Defining the execution semantics of stream processing engines | Journal of Big Data | Full Text
+https://spark.apache.org/docs/latest/ml-features.html#indextostring | Extracting, transforming and selecting features - Spark 2.2.0 Documentation
+https://spark.apache.org/docs/latest/ml-features.html#stringindexer | Extracting, transforming and selecting features - Spark 2.2.0 Documentation
+https://spark.apache.org/docs/latest/ml-features.html#vectorassembler | Extracting, transforming and selecting features - Spark 2.2.0 Documentation
+https://github.com/typesafehub/fdp-modelserver/blob/master/servingsamples/src/main/scala/com/lightbend/tensorflow/WineModelServing.scala | fdp-modelserver/WineModelServing.scala at master · typesafehub/fdp-modelserver
+
+https://hud-e.iron.io/mq/mq-aws-eu-west-1-1/projects/5a34062c05ab76000e28c89e/queues#?q= | Queues for DemoProject1
+https://www.journaldev.com/13121/java-9-features-with-examples#repl | Java 9 Features with Examples - JournalDev
+https://jdk9.java.net/download/
+https://github.com/asciidoctor | Asciidoctor
+https://web.archive.org/web/20160501230347/https://www.rinftech.com/ | Services - Rinf Tech
+https://www.rinftech.com/contact/ | Contact - RINF Tech
+https://twitter.com/RINF_Tech/media | Медиа-твиты от RINF Tech (@RINF_Tech) | Твиттер
+https://alifeofproductivity.com/body-composition-experiment-introduction/ | My Next Experiment: Gain 10 pounds of muscle, drop to 10% body fat
+https://mymodernmet.com/behappy-me-posters/?utm_content=bufferad7b6&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | 15 Motivational Posters to Kick Start Your Creativity
+https://thenextweb.com/dd/2014/09/19/smart-devices-can-disruptive-without-intrusive/?curator=MediaREDEF | How Smart Devices Can Be Disruptive without Being Intrusive
+https://web.archive.org/web/20080801080607/http://rinf.ro:80/index.php?id=58 | RINF - we do IT better! | rinf.ro
+https://www.manning.com/books/groovy-in-action | Manning | Groovy in Action
+http://glaforge.appspot.com/ | Guillaume Laforge's Blog
+http://gaelyk.appspot.com/ | Welcome -- Gaelyk - a lightweight Groovy toolkit for Google App Engine Java
+http://codenarc.sourceforge.net/codenarc-rule-index.html | CodeNarc - CodeNarc - Rule Index
+http://codenarc.sourceforge.net/index.html | CodeNarc -
+https://github.com/edupo/docker-codenarc | edupo/docker-codenarc: CodeNarc analyzes Groovy code for defects, bad practices, inconsistencies, style issues and more.
+https://scan.coverity.com/ | Coverity Scan - Static Analysis
+http://findbugs.sourceforge.net/ | FindBugs™ - Find Bugs in Java Programs
+http://www.castsoftware.com/products/code-analysis-tools | Code Analysis Tools
+https://www.owasp.org/index.php/Source_Code_Analysis_Tools | Source Code Analysis Tools - OWASP
+http://www.baeldung.com/java-static-code-analysis-tutorial | Static Code Analysis | Baeldung
+https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis | List of tools for static code analysis - Wikipedia
+http://news.grammatech.com/grammatech-introduces-static-analysis-java | GrammaTech Introduces Static Analysis for Java
+https://www.parasoft.com/product/static-analysis-java/ | Static Analysis for Java - Parasoft Jtest
+http://www.artima.com/lejava/articles/javaone_2008_andy_chou.html | Testing Multithreaded Java Code
+https://dx42.github.io/gmetrics/ | GMetrics | The GMetrics project provides calculation and reporting of size and complexity metrics for Groovy source code. GMetrics scans Groovy source code, applying a set of metrics, and generates an HTML report of the results.
+https://www.youtube.com/watch?v=ZPu8FaZZwRw | Groovy CodeNarc: How to Write a Rule - YouTube
+http://codenarc.sourceforge.net/license.html | CodeNarc - Project License
+https://jira.grails.org/browse/GPCODENARC-32 | https://jira.grails.org/browse/GPCODENARC-32
+https://github.com/CodeNarc/CodeNarc/blob/MisorderedImports/CHANGELOG.txt | CodeNarc/CHANGELOG.txt at MisorderedImports · CodeNarc/CodeNarc
+
+http://codenarc.sourceforge.net/ | CodeNarc -
+https://github.com/apache/groovy | apache/groovy: Mirror of Apache Groovy
+https://docs.google.com/document/d/1E03-g0h3MgFlohXqPNYCjl7Pv_CA_l0zhD6K3MZ8O0M/edit# | 2017 - Kubernetes Lab 1.6 - Google Docs
+https://github.com/saturnism?tab=repositories | saturnism (Ray Tsang) / Repositories
+https://github.com/saturnism/spring-boot-docker | saturnism/spring-boot-docker
+https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes/index.html#5 | Deploy a Java application to Kubernetes on Google Container Engine
+https://codelabs.developers.google.com/ | Google Codelabs
+https://codelabs.developers.google.com/codelabs/cloud-endpoints-appengine/index.html?index=..%2F..%2Findex#3 | Getting Started with Endpoints Frameworks on App Engine
+https://codelabs.developers.google.com/codelabs/cloud-spring-cloud-gcp-pubsub-integration/index.html?index=..%2F..%2Findex#0 | Messaging with Spring Integration and Google Cloud Pub/Sub
+https://codelabs.developers.google.com/codelabs/firebase-monetization/index.html?index=..%2F..%2Findex | Monetization from Good to Great with Firebase, in 10 mins
+https://codelabs.developers.google.com/codelabs/cloud-monitoring-codelab/index.html?index=..%2F..%2Findex | Monitoring Cloud Infrastructure with Stackdriver
+https://codelabs.developers.google.com/codelabs/cloud-networking-101/index.html?index=..%2F..%2Findex | Networking 101
+https://codelabs.developers.google.com/codelabs/cloud-networking-102/index.html?index=..%2F..%2Findex | Networking 102
+https://codelabs.developers.google.com/codelabs/notification-channels-java/index.html?index=..%2F..%2Findex | Notification Channels and Badges (Java)
+https://codelabs.developers.google.com/codelabs/cloud-orchestrate-with-kubernetes/index.html?index=..%2F..%2Findex | Orchestrating the Cloud with Kubernetes
+https://codelabs.developers.google.com/codelabs/android-migrate-to-jobs/index.html?index=..%2F..%2Findex | Removing dependencies on background services
+https://codelabs.developers.google.com/codelabs/webrtc-web/index.html?index=..%2F..%2Findex | Real time communication with WebRTC
+https://accounts.google.com/signin/oauth/oauthchooseaccount?client_id=923012566618-euk61f70rr6hli8fusui234qhdrjff8d.apps.googleusercontent.com&as=-14ab7f1f45c5b145&destination=https%3A%2F%2Fcodelabs.developers.google.com&approval_state=!ChRBd1RWRmRCcHJ0LXByeTBOX3VpZBIfSXpVTGdfWllVcHNZTUpIMzhHRFhRN1Q5OVhtakJSWQ%E2%88%99ACThZt4AAAAAWjUWAqUOxK7HoyJN4QbxRivfy6KC1Cnv&xsrfsig=AHgIfE8j_RdtPfcTRiaNw6GkunB3ldpHuQ&flowName=GeneralOAuthFlow | Sign in - Google Accounts
+https://codelabs.developers.google.com/codelabs/cloud-load-balancers/index.html?index=..%2F..%2Findex | Setup Network and HTTP Load Balancers
+https://codelabs.developers.google.com/codelabs/cloud-speech-intro/index.html?index=..%2F..%2Findex | Speech to Text Transcription with the Cloud Speech API
+https://codelabs.developers.google.com/codelabs/cloud-spring-petclinic-cloudsql/index.html?index=..%2F..%2Findex | Spring Pet Clinic using Spring Cloud SQL starter
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-cn/index.html?index=..%2F..%2Findex | TensorFlow For Poets [CN]
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets-2/index.html?index=..%2F..%2Findex | TensorFlow for Poets 2: Optimize for Mobile
+https://codelabs.developers.google.com/codelabs/your-first-pwapp/index.html?index=..%2F..%2Findex | Your First Progressive Web App
+https://codelabs.developers.google.com/codelabs/your-first-action-on-google-with-webhook/index.html?index=..%2F..%2Findex | Your First App for Assistant With Webhook - Bitcoin Info
+https://codelabs.developers.google.com/codelabs/migrate-to-progressive-web-apps/index.html?index=..%2F..%2Findex | 🎉 Migrate your site to a Progressive Web App 🐲
+https://codelabs.developers.google.com/codelabs/payment-request-api/index.html?index=..%2F..%2Findex | Frictionless payment with Payment Request API
+https://codelabs.developers.google.com/codelabs/cloud-bookshelf-java-cloud-kms/index.html?index=..%2F..%2Findex | Encrypt a Java application with Cloud KMS
+https://codelabs.developers.google.com/codelabs/credential-management-api/index.html?index=..%2F..%2Findex | Enabling auto sign-in with the Credential Management API
+https://codelabs.developers.google.com/codelabs/cloud-spring-runtime-config/index.html?index=..%2F..%2Findex | Dynamic configuration for Spring Boot applications using Spring Cloud Config starter
+https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.html?index=..%2F..%2Findex | Debugging Service Workers
+https://codelabs.developers.google.com/codelabs/cloud-persistent-disk/index.html?index=..%2F..%2Findex | Creating a Persistent Disk
+https://codelabs.developers.google.com/codelabs/cloud-grpc-java/index.html?index=..%2F..%2Findex | Building a gRPC service with Java
+https://codelabs.developers.google.com/codelabs/mdc-web/index.html?index=..%2F..%2Findex | Building Beautiful Sites Faster with Material Components for the web
+https://codelabs.developers.google.com/codelabs/android-instant-apps/index.html?index=..%2F..%2Findex | Build your First Android Instant App
+https://codelabs.developers.google.com/codelabs/polymer-maps/index.html?index=..%2F..%2Findex | Build Google Maps Using Web Components & No Code!
+https://codelabs.developers.google.com/codelabs/android-perf-testing/index.html?index=..%2F..%2Findex | Automated Performance Testing Codelab
+https://codelabs.developers.google.com/codelabs/push-notifications/index.html?index=..%2F..%2Findex | Adding Push Notifications to a Web App
+https://codelabs.developers.google.com/codelabs/offline/index.html?index=..%2F..%2Findex | Adding a Service Worker and Offline into your Web App
+https://codelabs.developers.google.com/codelabs/sw-precache/index.html?index=..%2F..%2Findex | Adding a Service Worker with sw-precache
+https://codelabs.developers.google.com/codelabs/build-your-first-android-app/index.html?index=..%2F..%2Findex#0 | Build Your First Android App in Java
+https://dashboard.nanobox.io/download | Nanobox - Downloads Index
+https://nanobox.io/app-development-environment/ | Application Development Environment - Developer Productivity Tool
+https://nanobox.io/ | Application Development Platform and Software Deployment Tool - Nanobox
+https://github.com/nanobox-io/nanobox-guides | nanobox-io/nanobox-guides: Guides for using languages and frameworks with Nanobox
+https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile | Infrastructure as Code: A Reason to Smile | ThoughtWorks
+http://www.infrastructures.org/index.shtml | Infrastructures.Org: Best Practices in Automated Systems Administration and Infrastructure Architecture: Home
+http://infrastructure-as-code.com/ | Infrastructure as Code
+http://pdf.th7.cn/down/files/1602/Infrastructure%20as%20Code.pdf
+https://github.com/kr/beanstalkd | kr/beanstalkd: Beanstalk is a simple, fast work queue.
+http://kr.github.io//beanstalkd/download.html | Download – beanstalkd
+https://github.com/nodezoo/nodezoo-workshop | nodezoo/nodezoo-workshop: A microservices workshop for the Seneca framework.
+https://github.com/kr/beanstalkd | kr/beanstalkd: Beanstalk is a simple, fast work queue.
+http://senecajs.org/ | Seneca, a microservices toolkit for Node.js
+https://docs.nanobox.io/install/uninstall/ | Uninstalling Nanobox - Nanobox Docs
+https://github.com/daid/SliceAndDaid/tree/master/src/daid/sliceAndDaid | SliceAndDaid/src/daid/sliceAndDaid at master · daid/SliceAndDaid
+https://github.com/bmander/skeinforge | bmander/skeinforge: Skeinforge converts STL files into gcode files
+
+https://codelabs.developers.google.com/ | Google Codelabs
+https://cloud.google.com/tools/intellij/docs/migrate | Migrate to Google Cloud Tools for IntelliJ  |  Cloud Tools for IntelliJ  |  Google Cloud Platform
+https://cloud.google.com/java/samples | Code samples  |  Java  |  Google Cloud Platform
+https://console.cloud.google.com/launcher/browse?filter=solution-type:gcp&project=demoproject1-189110&cloudshell=true | Cloud Launcher - DemoProject1
+https://kubernetes.io/docs/tasks/tools/install-kubectl/ | Install and Set Up kubectl | Kubernetes
+https://cloud.google.com/sdk/ | Cloud SDK  |  Google Cloud Platform
+https://cloud.google.com/kubernetes-engine/ | Google Kubernetes Engine  |  Google Cloud Platform
+https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html | Google Cloud Platform Blog: Bringing Pokémon GO to life on Google Cloud
+https://cloud.google.com/preemptible-vms/ | Preemptible VMs - Compute Instances  |  Google Cloud Platform
+https://cloud.google.com/shell/docs/features | Features  |  Cloud Shell  |  Google Cloud Platform
+https://cloud.google.com/container-registry/ | Container Registry - Private Docker Registry  |  Google Cloud Platform
+https://cloud.google.com/kubernetes-engine/?hl=en_US&_ga=2.173236323.-1561817593.1513335226 | Google Kubernetes Engine  |  Google Cloud Platform
+https://console.cloud.google.com/iam-admin/settings/project?project=demoproject1-189110 | IAM & admin - DemoProject1
+https://cloud.google.com/products/calculator/ | Google Cloud Platform Pricing Calculator  |  Google Cloud Platform
+https://codelabs.developers.google.com/codelabs/cloud-springboot-kubernetes/index.html#0 | Deploy a Java application to Kubernetes on Google Container Engine
+https://github.com/PowerShell/PowerShell/tree/master/docs | PowerShell/docs at master · PowerShell/PowerShell
+https://github.com/PowerShell?page=5 | PowerShell Team
+https://github.com/PowerShell/powerShell-Docs.ru-ru/blob/live/reference/docs-conceptual/getting-started/cookbooks/Collecting-Information-About-Computers.md | powerShell-Docs.ru-ru/Collecting-Information-About-Computers.md at live · PowerShell/powerShell-Docs.ru-ru
+https://github.com/PowerShell/PowerShell-Tests | PowerShell/PowerShell-Tests: Pester based tests for testing PowerShell
+https://github.com/PowerShell/xRemoteDesktopAdmin | PowerShell/xRemoteDesktopAdmin
+https://github.com/janikvonrotz/awesome-powershell | janikvonrotz/awesome-powershell: A curated list of delightful PowerShell modules and resources
+https://www.manning.com/catalog | Manning | Catalog
+file:///F:/usr/Downloads/Exploring_PowerShell_Automation.pdf | ExploringPowerShell.book
+https://www.google.com/search?q=Windows+debugger+engine.&oq=Windows+debugger+engine.&aqs=chrome..69i57j69i64l2&sourceid=chrome&ie=UTF-8 | Windows debugger engine. - Google Search
+https://github.com/PowerShell/PowerShell | PowerShell/PowerShell: PowerShell for every system!
+https://docs.microsoft.com/en-us/powershell/scripting/getting-started/cookbooks/changing-computer-state?view=powershell-5.1 | Changing Computer State | Microsoft Docs
+https://github.com/Azure/autorest/blob/master/Tools/setup-developerworkstation.ps1 | autorest/setup-developerworkstation.ps1 at master · Azure/autorest
+
+https://gradle.com/enterprise/trial/standard | Gradle Enterprise Trial | Gradle Inc.
+https://gradle.com/enterprise/start-trial/v7nwmnk4ugsx4lndwrwfqz4dji | Gradle Enterprise Trial | Gradle Inc.
+https://gradle.org/training/developer-productivity-with-gradle-enterprise/ | Gradle | Maximizing Developer Productivity with Gradle Enterprise
+https://docs.gradle.com/enterprise/get-started/ | Getting Started with Gradle Enterprise
+https://docs.gradle.com/enterprise/admin/current/ | Gradle Enterprise Admin Manual
+https://docs.gradle.com/enterprise/trial-vm/ | Gradle Enterprise Trial VM Installation Guide
+
+https://github.com/mwrock/boxstarter | mwrock/boxstarter: Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+http://boxstarter.org/WebLauncher | Boxstarter
+http://boxstarter.org/InstallingPackages#InstallFromShare | Boxstarter
+https://github.com/Jandev/scripts/blob/master/Install-Software.ps1 | scripts/Install-Software.ps1 at master · Jandev/scripts
+https://github.com/adbertram/Random-PowerShell-Work/blob/master/Software/Install-Software.ps1 | Random-PowerShell-Work/Install-Software.ps1 at master · adbertram/Random-PowerShell-Work
+https://gist.github.com/gpuido/starred?page=2 | gpuido’s gists
+https://github.com/Azure/autorest/blob/master/Tools/all-specs | autorest/all-specs at master · Azure/autorest
+https://github.com/Azure/azure-rest-api-specs/tree/current/specification | azure-rest-api-specs/specification at current · Azure/azure-rest-api-specs
+https://github.com/Azure/autorest/tree/master/Samples/3b-custom-transformations | autorest/Samples/3b-custom-transformations at master · Azure/autorest
+https://gist.github.com/fearthecowboy?direction=desc&sort=updated | fearthecowboy’s gists
+https://docs.microsoft.com/en-us/powershell/module/powershellget/?view=powershell-5.1 | PowerShellGet
+https://github.com/OneGet/oneget/wiki/Q-and-A | Q and A · OneGet/oneget Wiki
+https://gradle.org/releases/ | Gradle | Releases
+https://hub.docker.com/r/microsoft/nanoserver/ | microsoft/nanoserver - Docker Hub
+https://hub.docker.com/r/microsoft/windowsservercore/ | microsoft/windowsservercore - Docker Hub
+https://github.com/oising/poke | oising/poke: A powerful reflection module for powershell.
+https://github.com/adamdriscoll/poshtools | adamdriscoll/poshtools: PowerShell integration for Visual Studio 2015 and 2017.
+https://github.com/Moq/moq4 | moq/moq4: Repo for managing Moq 4.x
+http://www.poshud.com/Components | PowerShell Universal Dashboard
+https://poshtools.com/ | PowerShell Tools For Visual Studio - PoshTools
+https://adamdriscoll.gitbooks.io/powershell-universal-dashboard/content/updates.html | Updates · PowerShell Universal Dashboard
+http://materializecss.com/grid.html | Grid - Materialize
+https://griddlegriddle.github.io/Griddle/docs/ | Getting started | Griddle
+https://github.com/adamdriscoll/poshtools/wiki/Debugging-PowerShell-Scripts | Debugging PowerShell Scripts · adamdriscoll/poshtools Wiki
+https://blogs.technet.microsoft.com/heyscriptingguy/2016/12/05/get-started-with-powershell-development-in-visual-studio-code/ | Get started with PowerShell development in Visual Studio Code – Hey, Scripting Guy! Blog
+
+http://devcenter.wercker.com/docs/steps | Steps
+http://www.wercker.com/java | Java
+https://github.com/wercker/step-maven?__hssc=234474689.6.1513304774106&__hstc=234474689.fc01ea9141e27e964d77678389127eb8.1513304774104.1513304774104.1513304774104.1&__hsfp=3809835324&hsCtaTracking=d15b5779-57b8-4fcd-941a-2b23f172d073%7C4d52d8fc-d803-4ca3-baa2-e913754e4f86 | wercker/step-maven
+https://app.wercker.com/applications | wercker
+https://app.wercker.com/ | wercker
+https://github.com/markxnelson/sample-maven-step | markxnelson/sample-maven-step: An example of how to use the Wercker Maven Step.
+
+https://www.experts-exchange.com/questions/28473702/Install-Tomcat-via-PowerShell.html | Install Tomcat via PowerShell
+https://github.com/staabm/workbench/blob/298fdb440b7b33cf15e992fafe8c046675ad2741/java_tools.bat | workbench/java_tools.bat at 298fdb440b7b33cf15e992fafe8c046675ad2741 · staabm/workbench
+https://github.com/icanzilb/TaskQueue | icanzilb/TaskQueue: A Task Queue Class developed in Swift (by Marin Todorov)
+http://vshow.on24.com/vshow/OracleVTS9/exhibits/DOC | Oracle Code Online
+https://docs.oracle.com/en/browseall.html | Oracle Help Center - Browse All
+https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?simulive=y&eventid=1547311&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=F25A2B2CF8A4421EB2234482630D9731&text_language_id=en&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=189342109&contenttype=A&mediametricsessionid=153636496&mediametricid=2217568&usercd=189342109&mode=launch# | 1547311-1
+https://medium.com/fnproject/serverless-sagas-with-fn-flow-d8199b608b12 | Serverless Sagas with Fn Flow – Fn Project – Medium
+https://github.com/fnproject/tutorials/tree/master/Introduction | tutorials/Introduction at master · fnproject/tutorials
+https://medium.com/statuscode/integrating-openfaas-and-graphql-experimental-1870bd22f2a | Integrating OpenFaaS and GraphQL – Statuscode – Medium
+https://medium.com/fnproject/fn-easy-functions-for-go-b32a28e0f012 | Fn Easy Functions for Go – Fn Project – Medium
+https://github.com/fnproject/fdk-go/tree/master/examples/hello | fdk-go/examples/hello at master · fnproject/fdk-go
+https://github.com/fnproject/tutorials/blob/master/JavaFDKIntroduction/README.md | tutorials/README.md at master · fnproject/tutorials
+https://github.com/fnproject/fdk-java | fnproject/fdk-java: Java API and runtime for fn.
+https://github.com/fnproject/fdk-java/blob/master/docs/FnFlowsUserGuide.md | fdk-java/FnFlowsUserGuide.md at master · fnproject/fdk-java
+https://github.com/fnproject/tutorials/tree/master/Introduction | tutorials/Introduction at master · fnproject/tutorials
+https://github.com/fnproject/tutorials/tree/master/ContainerAsFunction | tutorials/ContainerAsFunction at master · fnproject/tutorials
+https://github.com/fnproject/fn | fnproject/fn: The container native, cloud agnostic serverless platform.
+https://github.com/carimura/vista | carimura/vista
+https://github.com/hanklords/flickraw | hanklords/flickraw: Ruby library to access flickr api.
+https://github.com/ChimeraCoder/anaconda | ChimeraCoder/anaconda: A Go client library for the Twitter 1.1 API
+https://apps.twitter.com/app/new | Create an application | Twitter Application Management
+https://github.com/kr/beanstalkd | kr/beanstalkd: Beanstalk is a simple, fast work queue.
+https://github.com/rtomayko/ronn | rtomayko/ronn: the opposite of roff
+https://github.com/fnproject/dockers/tree/master/java/java-1.8 | dockers/java/java-1.8 at master · fnproject/dockers
+https://medium.com/fnproject/announcing-prometheus-metrics-from-fn-2d0f9ddf0f09 | Announcing Prometheus Metrics from Fn – Fn Project – Medium
+https://prometheus.io/docs/introduction/first_steps/ | First steps | Prometheus
+http://www.jhipster.tech/ | JHipster - Generate your Spring Boot + Angular apps!
+https://books.google.com.ua/books?id=J5Q0DwAAQBAJ&pg=PA278&lpg=PA278&dq=java+9+function+as+service&source=bl&ots=6Z4PKCv8Vg&sig=HfedjYkce_RIDlxfIIKi_M4WDpg&hl=en&sa=X&ved=0ahUKEwiZu9D174rYAhVMCZoKHRwZAnUQ6AEIiAEwDw#v=onepage&q=java%209%20function%20as%20service&f=false | Java 9 Modularity: Patterns and Practices for Developing Maintainable ... - Sander Mak, Paul Bakker - Google Books
+https://github.com/fnproject/fdk-java | fnproject/fdk-java: Java API and runtime for fn.
+https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java | Meet the New Application Development Stack - Managed Kubernetes, Serverless, Registry, CI/CD, Java | Oracle Developers Blog
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.jpg | CloudNativeLandscape_latest.jpg (4800×2700)
+https://blogs.oracle.com/developers/announcing-fn | Announcing Fn–An Open Source Serverless Functions Platform | Oracle Developers Blog
+https://github.com/fnproject/fn#quickstart | fnproject/fn: The container native, cloud agnostic serverless platform.
+http://www.logicbig.com/tutorials/core-java-tutorial/java-se-api/service-loader/ | Java - ServiceLoader Example
+https://www.journaldev.com/13121/java-9-features-with-examples#repl | Java 9 Features with Examples - JournalDev
+https://gist.github.com/simonwoo/c21811eddf0392034946 | execute a shell script from java.md
+https://github.com/fnproject/tutorials | fnproject/tutorials: Fn tutorials ranging from getting started to more advanced topics.
+
+https://github.com/logicappsio/EnableCORSAzureBlob | logicappsio/EnableCORSAzureBlob: PowerShell script to enable CORS on an Azure Blob for swagger storage
+https://github.com/PowerShell/PSSwagger | PowerShell/PSSwagger: The cmdlet generator from OpenAPI (f.k.a Swagger) specification
+https://github.com/Azure/Autorest#installing-autorest | Azure/autorest: OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
+https://github.com/Azure/autorest/tree/master/Samples/3f-example-generation | autorest/Samples/3f-example-generation at master · Azure/autorest
+https://github.com/beatcracker/POSH-swagger-codegen | beatcracker/POSH-swagger-codegen: Generate PowerShell module from OpenAPI spec using Swagger Codegen
+https://github.com/APIs-guru/openapi-directory | APIs-guru/openapi-directory: 🌐 Wikipedia for Web APIs. Directory of REST API specs in OpenAPI(fka Swagger) 2.0 format.
+https://apis.guru/api-doc/ | Our API
+https://apis.guru/browse-apis/ | Browse APIs
+https://opensource.microsoft.com/codeofconduct/ | Code of Conduct
+http://todogroup.org/opencodeofconduct/ | Open Code of Conduct
+https://github.com/YmagynSAS?tab=repositories | YmagynSAS (YmagynSAS) / Repositories
+https://saxicek.github.io/saxuality/2017/06/29/swagger-api-generator-for-angular.html | Saxuality
+https://swagger.io/docs/swagger-tools/#swagger-codegen-documentation-9 | API Development Tools | Documentation | Swagger
+https://swagger.io/docs/swagger-tools/ | API Development Tools | Documentation | Swagger
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+https://github.com/brywang-msft/PSSwagger-Old | brywang-msft/PSSwagger-Old: Project to generate PowerShell Cmdlets using Swagger based specifications
+https://github.com/bmanikm/PSSwagger_old | bmanikm/PSSwagger_old: Project to generate PowerShell Cmdlets using Swagger based specifications
+https://github.com/Azure/azure-sdk-for-java | Azure/azure-sdk-for-java: Azure SDKs for Java
+https://docs.microsoft.com/en-us/cli/azure/install-azure-cli?view=azure-cli-latest | Install the Azure CLI 2.0 | Microsoft Docs
+https://github.com/Azure/autorest-clientruntime-for-java | Azure/autorest-clientruntime-for-java: The runtime libraries for AutoRest generated Java clients.
+http://square.github.io/retrofit/ | Retrofit
+https://github.com/Sathya-B/Streaming-JSON | Sathya-B/Streaming-JSON: Angular shopping app using streaming json (newline delimited json) data as input.
+https://www.youtube.com/watch?v=pAU0Y_kTLYE | (51) Swagger & Springfox for ARSnova Backend API - YouTube
+http://springfox.github.io/springfox/docs/current/ | Springfox Reference Documentation
+https://github.com/salaesp/soapSpringboot/wiki/Swagger | Swagger · salaesp/soapSpringboot Wiki
+https://github.com/Vitor-Xavier/DemoWebApi/wiki/Swagger | Swagger · Vitor-Xavier/DemoWebApi Wiki
+https://www.nuget.org/packages/Swashbuckle | NuGet Gallery | Swashbuckle 5.6.0
+http://netcoders.com.br/swagger-documente-seu-asp-net-web-api-rest/ | Swagger – Documente seu ASP.NET Web API Rest | .NET Coders
+https://github.com/ca-cwds/API/wiki/API-Documentation | API Documentation · ca-cwds/API Wiki
+https://github.com/AnujaK/restfiddle/wiki/Request-Builder#request-builder | Request Builder · AnujaK/restfiddle Wiki
+http://bootsimply.com/ | BootSimply - Serving Simply Smart Software Solutions
+https://github.com/AnujaK/chrome-gae-sync | AnujaK/chrome-gae-sync: A ready to use Google App Engine backend for your Chrome applications.
+
+https://github.com/bcowdery/boxstarter/blob/d018e827528bd71081fb6b1a1b9b3a9216bddadd/roles/Devenv.ps1 | boxstarter/Devenv.ps1 at d018e827528bd71081fb6b1a1b9b3a9216bddadd · bcowdery/boxstarter
+https://github.com/GingaNinja/devInstall/tree/master/davearkell.vsextensions.1.08/tools | devInstall/davearkell.vsextensions.1.08/tools at master · GingaNinja/devInstall
+https://github.com/hoflogic/boxstarter-scripts/blob/e9afe737a0fecdde2ff0e1f413000036e5f543c8/developer-boxstarter.html | boxstarter-scripts/developer-boxstarter.html at e9afe737a0fecdde2ff0e1f413000036e5f543c8 · hoflogic/boxstarter-scripts
+https://github.com/W4RH4WK/Debloat-Windows-10/blob/master/utils/install-basic-software.ps1 | Debloat-Windows-10/install-basic-software.ps1 at master · W4RH4WK/Debloat-Windows-10
+https://github.com/adbertram/Random-PowerShell-Work/tree/master/Article%20Examples | Random-PowerShell-Work/Article Examples at master · adbertram/Random-PowerShell-Work
+https://gist.github.com/fearthecowboy/e5ee21894f7e82c8e75771350e649387 | install-software.ps1
+https://github.com/bcraig83/EnvSetup/blob/master/Install-Software.ps1 | EnvSetup/Install-Software.ps1 at master · bcraig83/EnvSetup
+https://gist.github.com/deveshjeshani/ee0e55d6444d0e04870ecda958053b0f | software-install.ps1
+https://github.com/VSaliy/tools/blob/master/README.md | tools/README.md at master · VSaliy/tools
+https://gist.github.com/VSaliy/884c94ad47304f16690d8b5eeffb53b1 | Install software stack.
+https://github.com/W4RH4WK/Debloat-Windows-10 | W4RH4WK/Debloat-Windows-10: A collection of Scripts which disable / remove Windows 10 Features and Apps
+https://github.com/chocolatey/choco-wiki/blob/master/DevelopmentEnvironmentSetup.md | choco-wiki/DevelopmentEnvironmentSetup.md at master · chocolatey/choco-wiki
+https://github.com/Azure/autorest/wiki/CodeModel-and-the-Language-specific-Generator-Transformer-Namer | CodeModel and the Language specific Generator Transformer Namer · Azure/autorest Wiki
+https://github.com/adbertram/HowIWorkIT | adbertram/HowIWorkIT: This is where all of the "How I Work" participants will be tracked.
+https://lifehacker.com/tag/how-i-work | How I Work News, Videos, Reviews and Gossip - Lifehacker
+https://github.com/Azure/autorest/wiki/AutoRest-Commit-Workflow | AutoRest Commit Workflow · Azure/autorest Wiki
+https://github.com/Azure/autorest/commits/master?after=4768b06002fbeb2f0909093033d348702088e38f+104 | Commits · Azure/autorest
+https://github.com/olydis/scratch/blob/88161a50f5a30baec9c2d7d2435680684df46afa/autorest-coreclr.md | scratch/autorest-coreclr.md at 88161a50f5a30baec9c2d7d2435680684df46afa · olydis/scratch
+https://github.com/gxlqssjf/autorest/blob/dc5d8b29b61ac9f349c1ea31c7ee39beeefa5a7f/docs/developer/workstation.md | autorest/workstation.md at dc5d8b29b61ac9f349c1ea31c7ee39beeefa5a7f · gxlqssjf/autorest
+https://github.com/gxlqssjf/autorest/blob/dc5d8b29b61ac9f349c1ea31c7ee39beeefa5a7f/docs/developer/guide/building-code.md | autorest/building-code.md at dc5d8b29b61ac9f349c1ea31c7ee39beeefa5a7f · gxlqssjf/autorest
+https://github.com/Azure/autorest/commits/master/Tools | History for Tools - Azure/autorest
+https://github.com/Azure/autorest/blob/9c5b06670b1203f77402d04e01a262f8da893434/docs/developer/guide/building-code.md | autorest/building-code.md at 9c5b06670b1203f77402d04e01a262f8da893434 · Azure/autorest
+https://github.com/Azure/autorest/blob/master/Tools/setup-developerworkstation.ps1 | autorest/setup-developerworkstation.ps1 at master · Azure/autorest
+
+https://web.archive.org/web/20090902125443/http://xs.nm.ru:80/ | xs.nm.ru
+https://forum.farmanager.com/viewtopic.php?t=2526 | ConEmu: Console Emulator — эмулятор консоли - forum.farmanager.com
+https://forum.farmanager.com/search.php?st=0&sk=t&sd=d&sr=posts&keywords=conemu&start=80 | forum.farmanager.com - Search
+https://github.com/joonro/ConEmu-Color-Themes | joonro/ConEmu-Color-Themes: Color themes for ConEmu
+http://devdocs.io/lua~5.1/index#2.5.3 | DevDocs — Lua 5.1 / Logical Operators
+https://sourceforge.net/projects/conemu/files/Tools/ | ConEmu - Windows console with tabs - Browse /Tools at SourceForge.net
+https://github.com/Maximus5/ConEmu/blob/master/src/HowToBuild.md | ConEmu/HowToBuild.md at master · Maximus5/ConEmu
+https://conemu.github.io/en/Delusions.html | ConEmu | Console-related delusions
+https://github.com/Maximus5/ConEmu/blob/master/src/HowToBuild.md | ConEmu/HowToBuild.md at master · Maximus5/ConEmu
+https://github.com/premake/premake-core/wiki | Home · premake/premake-core Wiki
+http://conemu.github.io/en/TableOfContents.html | ConEmu | Documentation Table of Contents
+https://superuser.com/questions/tagged/conemu | Newest 'conemu' Questions - Super User
+https://forum.farmanager.com/viewtopic.php?f=11&t=3048 | FarHints — различные свойства файла во всплывающей подсказке - forum.farmanager.com
+https://conemu.github.io/en/Installation.html | ConEmu | Installation
+https://conemu.github.io/en/TableOfContents.html | ConEmu | Documentation Table of Contents
+https://groups.google.com/forum/#!forum/conemu_ml | (99+) ConEmu ML - Google Groups
+https://conemu.github.io/ru/TableOfContents.html | ConEmu | Оглавление документации
+https://forum.farmanager.com/viewtopic.php?f=11&t=3744 | ConEmu: Console Emulator — графическая консоль - forum.farmanager.com
+https://web.archive.org/web/20120621051542/http://code.google.com:80/p/conemu-maximus5/wiki/TableOfContents?tm=6 | TableOfContents - conemu-maximus5 - Console Emulator, Far Manager plugins - Google Project Hosting
+https://gist.github.com/deveshjeshani/ee0e55d6444d0e04870ecda958053b0f | software-install.ps1
+https://github.com/chocolatey/choco-wiki/blob/master/DevelopmentEnvironmentSetup.md | choco-wiki/DevelopmentEnvironmentSetup.md at master · chocolatey/choco-wiki
+https://github.com/chocolatey/choco-wiki/blob/master/FeaturesInfrastructureAutomation.md#puppet | choco-wiki/FeaturesInfrastructureAutomation.md at master · chocolatey/choco-wiki
+https://puppet.com/docs/pe/2017.3/managing_windows_nodes/installing_and_using_windows_modules.html | Installing and using Windows modules - Puppet Enterprise 2017.3 | Puppet
+https://github.com/chucknorris/dropkick/wiki/ServerMaps | ServerMaps · chucknorris/dropkick Wiki
+http://wixtoolset.org/development/code-style/ | Code Style
+https://github.com/chocolatey/choco/wiki/DevelopmentEnvironmentSetup | DevelopmentEnvironmentSetup · chocolatey/choco Wiki
+https://chocolatey.org/packages/chocolatey.server | Chocolatey Gallery | Chocolatey Server (Simple) 0.1.3
+https://en.wikipedia.org/wiki/List_of_software_package_management_systems | List of software package management systems - Wikipedia
+
+https://www.microsoft.com/web/downloads/ | Download Microsoft Web Platform, Windows Web Apps
+https://www.microsoft.com/web/downloads/ | Download Microsoft Web Platform, Windows Web Apps
+https://www.microsoft.com/web/downloads/ | Download Microsoft Web Platform, Windows Web Apps
+https://www.microsoft.com/web/downloads/platform.aspx | Download the Microsoft Web Platform
+http://boxstarter.org/Learn/WebLauncher | Boxstarter
+https://github.com/nuget/nuget.client | NuGet/NuGet.Client: Core client libraries for NuGet Services
+https://github.com/NuGet/NuGet.Client | NuGet/NuGet.Client: Core client libraries for NuGet Services
+https://github.com/NuGetPackageExplorer/NuGetPackageExplorer | NuGetPackageExplorer/NuGetPackageExplorer: Create, update and deploy Nuget Packages with a GUI
+https://learn.puppet.com/ | Puppet Training - Puppet Training
+
+http://www.monodevelop.com/ | MonoDevelop | MonoDevelop
+http://www.mono-project.com/ | Home | Mono
+http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx | Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman
+https://github.com/natelusher/handy/blob/f05872d1ca5b6478d1ad300e761a5a540247b3e6/setup/boxstarter/win7.devel.txt | handy/win7.devel.txt at f05872d1ca5b6478d1ad300e761a5a540247b3e6 · natelusher/handy
+https://github.com/joshgordon/boxstarter/blob/edbf8131abb2cdd3f3a7714115fe957cb2132aef/devbox | boxstarter/devbox at edbf8131abb2cdd3f3a7714115fe957cb2132aef · joshgordon/boxstarter
+https://github.com/leodeliyannis/fabsoft-windows/blob/3c8b1b24e784d5842f8c934c431479d75d73e0b6/fabsoft-boxstarter.txt | fabsoft-windows/fabsoft-boxstarter.txt at 3c8b1b24e784d5842f8c934c431479d75d73e0b6 · leodeliyannis/fabsoft-windows
+https://github.com/jay-hankins/Auto_Installers/blob/7388e9a3ac3a58d4ad8225317da77ff44278b98e/BoxStarter/Jay-Packages.txt | Auto_Installers/Jay-Packages.txt at 7388e9a3ac3a58d4ad8225317da77ff44278b98e · jay-hankins/Auto_Installers
+https://github.com/ryancox/dotfiles/blob/92dc94740bdaa6a03dd022994e62db46ac824cbc/setup/setup_win.cmd | dotfiles/setup_win.cmd at 92dc94740bdaa6a03dd022994e62db46ac824cbc · ryancox/dotfiles
+https://github.com/Nate-Wilkins/EvE.Windows/blob/3622ddb3a18aad4c2d1069a48d6a1115ee9bb0c2/tools/Installer.psm1 | EvE.Windows/Installer.psm1 at 3622ddb3a18aad4c2d1069a48d6a1115ee9bb0c2 · Nate-Wilkins/EvE.Windows
+https://github.com/markquinn12/devEnvironmentSetup/blob/e064fe045ea36319d1f02bb137f381243f7cc4d0/setupWithBoxstarter.txt | devEnvironmentSetup/setupWithBoxstarter.txt at e064fe045ea36319d1f02bb137f381243f7cc4d0 · markquinn12/devEnvironmentSetup
+https://github.com/sstefanski2/igWinSetup/blob/22b569c7c2750d46d088cf6a53534c174287d1f8/Settings/install_software_additional.cmd | igWinSetup/install_software_additional.cmd at 22b569c7c2750d46d088cf6a53534c174287d1f8 · sstefanski2/igWinSetup
+https://github.com/dkimura/boxstarter/blob/d57d854ad9971663ee0656836e3bd2a8df07608d/Boxstarter.ps1 | boxstarter/Boxstarter.ps1 at d57d854ad9971663ee0656836e3bd2a8df07608d · dkimura/boxstarter
+https://github.com/aliostad/deep-learning-lang-detection/blob/1180fba0d2a7f6b470cb3c9a363b560787f5e7c5/data/train/powershell/8adb70fe907e56afde922120f3df3786dc81f349Boxstarter.ps1 | deep-learning-lang-detection/8adb70fe907e56afde922120f3df3786dc81f349Boxstarter.ps1 at 1180fba0d2a7f6b470cb3c9a363b560787f5e7c5 · aliostad/deep-learning-lang-detection
+https://github.com/hsz-devops/boxstarter-win-dev/blob/49a6e77e580923156fd2dce16dafff3e126fb013/boxstarter/win-dev-u3d.ps1 | boxstarter-win-dev/win-dev-u3d.ps1 at 49a6e77e580923156fd2dce16dafff3e126fb013 · hsz-devops/boxstarter-win-dev
+https://github.com/chrisaddams/DeveloperConfiguration/blob/091c4931a9ea8956f1cf483b70fae06a87a8948e/Windows/devsetup.ps1 | DeveloperConfiguration/devsetup.ps1 at 091c4931a9ea8956f1cf483b70fae06a87a8948e · chrisaddams/DeveloperConfiguration
+https://github.com/vonwenm/CHOCCO-LAB/blob/3f75803d135b31ffba38d990bf6fee9e433a0739/XXX-setup.ps1 | CHOCCO-LAB/XXX-setup.ps1 at 3f75803d135b31ffba38d990bf6fee9e433a0739 · vonwenm/CHOCCO-LAB
+https://github.com/nbauma109/home/blob/1f4f69894ba50327af6f731bddb5dd43251a603f/quick_install.bat | home/quick_install.bat at 1f4f69894ba50327af6f731bddb5dd43251a603f · nbauma109/home
+https://github.com/nolabots/frc_tools/blob/db114f50a21921da629862961c1d5cd160ab690c/frc_tools.ps1 | frc_tools/frc_tools.ps1 at db114f50a21921da629862961c1d5cd160ab690c · nolabots/frc_tools
+https://github.com/Srendi/BoxStarter/blob/2679c1e4244d54e366e7fb61f08d95333da1fc59/BoxStarterGE.txt | BoxStarter/BoxStarterGE.txt at 2679c1e4244d54e366e7fb61f08d95333da1fc59 · Srendi/BoxStarter
+https://github.com/xdworkshop/install/blob/193ce4b1932c3dfa3d2301a45891352dff7c95d5/README.md | install/README.md at 193ce4b1932c3dfa3d2301a45891352dff7c95d5 · xdworkshop/install
+https://github.com/jhkoivis/dvelib/blob/2b7e5b280812eaabc4de5cc82e06fcab4536e47e/production/userization/cinst_et_all.bat | dvelib/cinst_et_all.bat at 2b7e5b280812eaabc4de5cc82e06fcab4536e47e · jhkoivis/dvelib
+https://github.com/abdoul2007/bootstrap-choco-windows/blob/2188faac8b27d90ee5eeb8ec895dcf2614ae8531/bootstrap-vdm.ps1 | bootstrap-choco-windows/bootstrap-vdm.ps1 at 2188faac8b27d90ee5eeb8ec895dcf2614ae8531 · abdoul2007/bootstrap-choco-windows
+https://github.com/garfieldnate/windows_home_setup/blob/5f5a58d04fb00e00d6d383ca959317d5d8c84fe5/home_setup.bat | windows_home_setup/home_setup.bat at 5f5a58d04fb00e00d6d383ca959317d5d8c84fe5 · garfieldnate/windows_home_setup
+https://github.com/bo-wang/QE-vagrant/blob/daa68a23b0070c644bdc9b07a25397662ba4cd05/Vagrantfile | QE-vagrant/Vagrantfile at daa68a23b0070c644bdc9b07a25397662ba4cd05 · bo-wang/QE-vagrant
+https://github.com/shift-kenichiro-ota/Selenium/blob/6f6589bbc2c17de6d110b4eed9286cf07dba40c6/install.txt | Selenium/install.txt at 6f6589bbc2c17de6d110b4eed9286cf07dba40c6 · shift-kenichiro-ota/Selenium
+https://github.com/jay-hankins/Auto_Installers/blob/7388e9a3ac3a58d4ad8225317da77ff44278b98e/PowerShell_Scripts/CS_Tools.ps1 | Auto_Installers/CS_Tools.ps1 at 7388e9a3ac3a58d4ad8225317da77ff44278b98e · jay-hankins/Auto_Installers
+https://github.com/BlackMesaCode/ps-scripts/blob/31514549c3b20ab98d09c3e586b6cba9f6f263f0/Choc%20Bundle%20Install.ps1 | ps-scripts/Choc Bundle Install.ps1 at 31514549c3b20ab98d09c3e586b6cba9f6f263f0 · BlackMesaCode/ps-scripts
+https://github.com/aliostad/deep-learning-lang-detection/blob/1180fba0d2a7f6b470cb3c9a363b560787f5e7c5/data/train/powershell/738158f0369c331a536a126333eec142d7148eaechocolateyInstall.ps1 | deep-learning-lang-detection/738158f0369c331a536a126333eec142d7148eaechocolateyInstall.ps1 at 1180fba0d2a7f6b470cb3c9a363b560787f5e7c5 · aliostad/deep-learning-lang-detection
+https://github.com/damonbruce/DVIR/blob/c578234c969fb25ef9c90286483dadbce5aad4d9/AppInstall.ps1 | DVIR/AppInstall.ps1 at c578234c969fb25ef9c90286483dadbce5aad4d9 · damonbruce/DVIR
+https://github.com/u6k/os-setup/blob/94b978031e0a997ef34c94aa1699b94b49f60371/windows/setup.md | os-setup/setup.md at 94b978031e0a997ef34c94aa1699b94b49f60371 · u6k/os-setup
+https://github.com/snjxnksm/javaenv/blob/af3fc86214a20b16311f14dd6029c31d289cd980/steps/java_env_install.md | javaenv/java_env_install.md at af3fc86214a20b16311f14dd6029c31d289cd980 · snjxnksm/javaenv
+https://github.com/robertjparks/ogdev/blob/f4d099226b9d9eb64bc38f59e898c0b1e0a7352b/doc/ogdev_info.txt | ogdev/ogdev_info.txt at f4d099226b9d9eb64bc38f59e898c0b1e0a7352b · robertjparks/ogdev
+https://github.com/dkimura/boxstarter/blob/d57d854ad9971663ee0656836e3bd2a8df07608d/README.md | boxstarter/README.md at d57d854ad9971663ee0656836e3bd2a8df07608d · dkimura/boxstarter
+https://github.com/teambhd/assessment3/blob/a3e1b4335e07db3ece657fd6298d3ca654d63efb/Readme.md | assessment3/Readme.md at a3e1b4335e07db3ece657fd6298d3ca654d63efb · teambhd/assessment3
+https://github.com/naka0akan/cygwin_zshrc/blob/5646c8bbf4fc4e4d7c6a719d76db52b165d8991e/.zsh_history | cygwin_zshrc/.zsh_history at 5646c8bbf4fc4e4d7c6a719d76db52b165d8991e · naka0akan/cygwin_zshrc
+https://github.com/briangoldwyn/comp310/blob/e31fe7c59ebc5f9ae7ea4cba34470dd72a11a636/Setup.md | comp310/Setup.md at e31fe7c59ebc5f9ae7ea4cba34470dd72a11a636 · briangoldwyn/comp310
+https://github.com/Nate-Wilkins/EvE.Windows/blob/3622ddb3a18aad4c2d1069a48d6a1115ee9bb0c2/tools/Installer.psm1 | EvE.Windows/Installer.psm1 at 3622ddb3a18aad4c2d1069a48d6a1115ee9bb0c2 · Nate-Wilkins/EvE.Windows
+https://github.com/dkimura/boxstarter/blob/d57d854ad9971663ee0656836e3bd2a8df07608d/Boxstarter.ps1 | boxstarter/Boxstarter.ps1 at d57d854ad9971663ee0656836e3bd2a8df07608d · dkimura/boxstarter
+https://github.com/hsz-devops/boxstarter-win-dev/blob/49a6e77e580923156fd2dce16dafff3e126fb013/boxstarter/win-dev-u3d.ps1 | boxstarter-win-dev/win-dev-u3d.ps1 at 49a6e77e580923156fd2dce16dafff3e126fb013 · hsz-devops/boxstarter-win-dev
+https://github.com/chrisaddams/DeveloperConfiguration/blob/091c4931a9ea8956f1cf483b70fae06a87a8948e/Windows/devsetup.ps1 | DeveloperConfiguration/devsetup.ps1 at 091c4931a9ea8956f1cf483b70fae06a87a8948e · chrisaddams/DeveloperConfiguration
+https://github.com/vonwenm/CHOCCO-LAB/blob/3f75803d135b31ffba38d990bf6fee9e433a0739/XXX-setup.ps1 | CHOCCO-LAB/XXX-setup.ps1 at 3f75803d135b31ffba38d990bf6fee9e433a0739 · vonwenm/CHOCCO-LAB
+https://github.com/damonbruce/DVIR/blob/c578234c969fb25ef9c90286483dadbce5aad4d9/AppInstall.ps1 | DVIR/AppInstall.ps1 at c578234c969fb25ef9c90286483dadbce5aad4d9 · damonbruce/DVIR
+https://github.com/idvorkin/Settings/blob/09d02b4983d09accd4e7462673ef3da1a74af551/newmachine/install_packages.ps1 | Settings/install_packages.ps1 at 09d02b4983d09accd4e7462673ef3da1a74af551 · idvorkin/Settings
+https://github.com/BlackMesaCode/ps-scripts/blob/31514549c3b20ab98d09c3e586b6cba9f6f263f0/Setup/Step2.ps1 | ps-scripts/Step2.ps1 at 31514549c3b20ab98d09c3e586b6cba9f6f263f0 · BlackMesaCode/ps-scripts
+
+https://github.com/jafz/boxProvisioning/blob/44dff5f99a89a2473131b2a61bf5cf0c9b9b9417/boxStarterVs2017.ps1 | boxProvisioning/boxStarterVs2017.ps1 at 44dff5f99a89a2473131b2a61bf5cf0c9b9b9417 · jafz/boxProvisioning
+https://github.com/jafz/boxProvisioning/blob/44dff5f99a89a2473131b2a61bf5cf0c9b9b9417/boxStarterVs2017community.ps1 | boxProvisioning/boxStarterVs2017community.ps1 at 44dff5f99a89a2473131b2a61bf5cf0c9b9b9417 · jafz/boxProvisioning
+https://github.com/jarrettmeyer/windows-developer-setup/blob/53ab8f57b3dc061121f90429b367d7d3b62ca6e1/modules/install-extras.ps1 | windows-developer-setup/install-extras.ps1 at 53ab8f57b3dc061121f90429b367d7d3b62ca6e1 · jarrettmeyer/windows-developer-setup
+http://markdownpad.com/ | MarkdownPad - The Markdown Editor for Windows
+https://github.com/lremedi/VersionOne.Integration.TFS.Sandbox/blob/47b8ec0700f2a2f7eb1246e2734229955c4071af/Install-Tools.ps1 | VersionOne.Integration.TFS.Sandbox/Install-Tools.ps1 at 47b8ec0700f2a2f7eb1246e2734229955c4071af · lremedi/VersionOne.Integration.TFS.Sandbox
+https://github.com/Alxandr/Totem-2.0/blob/2df0239aa3ec298646bf63c42dc8c5113d487a30/tools/bootstrap.ps1 | Totem-2.0/bootstrap.ps1 at 2df0239aa3ec298646bf63c42dc8c5113d487a30 · Alxandr/Totem-2.0
+https://github.com/jimmyp/WindowsInstall/blob/28b3a02c5fffe23fcf8bcbdab0df024716ecee77/Install-AllChcolateyPacakges.ps1 | WindowsInstall/Install-AllChcolateyPacakges.ps1 at 28b3a02c5fffe23fcf8bcbdab0df024716ecee77 · jimmyp/WindowsInstall
+https://github.com/jafz/boxProvisioning/blob/44dff5f99a89a2473131b2a61bf5cf0c9b9b9417/boxPack_min.ps1 | boxProvisioning/boxPack_min.ps1 at 44dff5f99a89a2473131b2a61bf5cf0c9b9b9417 · jafz/boxProvisioning
+https://github.com/Connexeon/dotfiles-windows/blob/3dbc36e77ff99f736bc9f354d7b767c0156fb018/monitor.ps1 | dotfiles-windows/monitor.ps1 at 3dbc36e77ff99f736bc9f354d7b767c0156fb018 · Connexeon/dotfiles-windows
+https://github.com/cybyvlad/VS-Resharper/blob/a2baf348ff11de4cc9e26b141f6efc10ed29e76a/AfterWindowsInstall.ps1 | VS-Resharper/AfterWindowsInstall.ps1 at a2baf348ff11de4cc9e26b141f6efc10ed29e76a · cybyvlad/VS-Resharper
+https://github.com/vorou/config/blob/419bb523386d412e5003e957d1a559de9eebdf87/choc-export.ps1 | config/choc-export.ps1 at 419bb523386d412e5003e957d1a559de9eebdf87 · vorou/config
+https://github.com/thibaudcolas/dotfiles/blob/f591ca6cfcfbc5eff6e968ebe03eb552de8ff7b7/windows/Boxstarter.ps1 | dotfiles/Boxstarter.ps1 at f591ca6cfcfbc5eff6e968ebe03eb552de8ff7b7 · thibaudcolas/dotfiles
+https://github.com/mhiro2/dotfiles/blob/2de5b77315a5941655e172dd34f6783e684d6365/_hosts/windows/chocolatey.ps1 | dotfiles/chocolatey.ps1 at 2de5b77315a5941655e172dd34f6783e684d6365 · mhiro2/dotfiles
+https://github.com/sgwill/chocolately-scripts/blob/001b55d8b9e78c6e64a7e0594a849d7dd4221426/install.ps1 | chocolately-scripts/install.ps1 at 001b55d8b9e78c6e64a7e0594a849d7dd4221426 · sgwill/chocolately-scripts
+https://github.com/owenbyrne/chocfig/blob/22939cd5bd3bdcda38a5700ab4ef83d5dbbc0539/ChocfigSolution/chocfig.ps1 | chocfig/chocfig.ps1 at 22939cd5bd3bdcda38a5700ab4ef83d5dbbc0539 · owenbyrne/chocfig
+https://github.com/empduck/Dev-Machine---Windows/blob/0611f8d62f43ea71a1a701b53c8b03737d0b96f8/Install.Tools.ps1 | Dev-Machine---Windows/Install.Tools.ps1 at 0611f8d62f43ea71a1a701b53c8b03737d0b96f8 · empduck/Dev-Machine---Windows
+https://github.com/MiguelAlho/PcBootstrap/blob/65f076c583c18c9115cb893fd2e284177537e4ed/media.ps1 | PcBootstrap/media.ps1 at 65f076c583c18c9115cb893fd2e284177537e4ed · MiguelAlho/PcBootstrap
+https://github.com/zThorn/Development-Environment/blob/afaaafe7311b3c716289bd42b84c4748e12ca83a/PCInstall.ps1 | Development-Environment/PCInstall.ps1 at afaaafe7311b3c716289bd42b84c4748e12ca83a · zThorn/Development-Environment
+https://github.com/tennebo/dotfiles/blob/1e69397c277ab3273d500da9d7a8aac1ac8e0512/windows/boxstarter/dev/tools/ChocolateyInstall.ps1 | dotfiles/ChocolateyInstall.ps1 at 1e69397c277ab3273d500da9d7a8aac1ac8e0512 · tennebo/dotfiles
+https://github.com/StefanScherer/vagrant-sandbox/blob/0e1d58a105de21dc22a231fa1555e35677e44371/win7-vs2012u3/shell/InstallDeveloperBase.ps1 | vagrant-sandbox/InstallDeveloperBase.ps1 at 0e1d58a105de21dc22a231fa1555e35677e44371 · StefanScherer/vagrant-sandbox
+https://github.com/aliostad/deep-learning-lang-detection/blob/1180fba0d2a7f6b470cb3c9a363b560787f5e7c5/data/train/powershell/86f12f03c921700cdecc26f0eb1c01338c83d96eBoxStarterMichael.ps1 | deep-learning-lang-detection/86f12f03c921700cdecc26f0eb1c01338c83d96eBoxStarterMichael.ps1 at 1180fba0d2a7f6b470cb3c9a363b560787f5e7c5 · aliostad/deep-learning-lang-detection
+https://github.com/jafz/boxProvisioning/blob/7f4b46e28d7ad0e32f99586b0b6b93de64595e1b/boxStarterVs2017_enterprise.ps1 | boxProvisioning/boxStarterVs2017_enterprise.ps1 at 7f4b46e28d7ad0e32f99586b0b6b93de64595e1b · jafz/boxProvisioning
+https://github.com/provenstyle/BoxStarterMichael/blob/e9d206cea188d19f471e8c34c2c7581ef8a95e29/BoxStarterMichael.ps1 | BoxStarterMichael/BoxStarterMichael.ps1 at e9d206cea188d19f471e8c34c2c7581ef8a95e29 · provenstyle/BoxStarterMichael
+https://github.com/samituohino/win-setup/blob/9b4f4d24747ec876e43e915729b7e8dcae978b88/install_dev_tools.ps1 | win-setup/install_dev_tools.ps1 at 9b4f4d24747ec876e43e915729b7e8dcae978b88 · samituohino/win-setup
+https://chocolatey.org/packages/ChocolateyGUI | Chocolatey Gallery | Chocolatey GUI 0.15.0
+https://github.com/nkcfan/Dotfiles/blob/59e3d684b5c7d19e9f4cfd6ef4a5630af823af52/bin/choco-init.ps1 | Dotfiles/choco-init.ps1 at 59e3d684b5c7d19e9f4cfd6ef4a5630af823af52 · nkcfan/Dotfiles
+https://github.com/MikeEast/machine-scripts/blob/3c7bb2883a0fcbb038ac11eb9f618d84e04b0c36/dev-machine.ps1 | machine-scripts/dev-machine.ps1 at 3c7bb2883a0fcbb038ac11eb9f618d84e04b0c36 · MikeEast/machine-scripts
+https://github.com/Baune8D/vagrant-vs2017-devbox/tree/7cc6f2099a537b6e82ab745dd0ef2072e058dc29/software | vagrant-vs2017-devbox/software at 7cc6f2099a537b6e82ab745dd0ef2072e058dc29 · Baune8D/vagrant-vs2017-devbox
+https://github.com/baunegaard/vagrant-vs2017-devbox/blob/7690610075a4bd952aad25da890013d63f33ca7c/provision/install-software.ps1 | vagrant-vs2017-devbox/install-software.ps1 at 7690610075a4bd952aad25da890013d63f33ca7c · baunegaard/vagrant-vs2017-devbox
+https://github.com/CraigJPerry/home-network/blob/86d1111036d3039ba036ef3b5ec9005095b822ea/windows/surface.ps1 | home-network/surface.ps1 at 86d1111036d3039ba036ef3b5ec9005095b822ea · CraigJPerry/home-network
+https://github.com/hsz-devops/boxstarter-win-dev/blob/49a6e77e580923156fd2dce16dafff3e126fb013/boxstarter/win-dev-u3d.ps1 | boxstarter-win-dev/win-dev-u3d.ps1 at 49a6e77e580923156fd2dce16dafff3e126fb013 · hsz-devops/boxstarter-win-dev
+https://github.com/PavlikPolivka/windows-install/blob/6db0701bc2bd236df7de68d0c9d683933164e446/install.bat | windows-install/install.bat at 6db0701bc2bd236df7de68d0c9d683933164e446 · PavlikPolivka/windows-install
+https://github.com/bcowdery/boxstarter/blob/d018e827528bd71081fb6b1a1b9b3a9216bddadd/roles/Devenv.ps1 | boxstarter/Devenv.ps1 at d018e827528bd71081fb6b1a1b9b3a9216bddadd · bcowdery/boxstarter
+https://github.com/hoflogic/boxstarter-scripts/blob/e9afe737a0fecdde2ff0e1f413000036e5f543c8/developer-boxstarter.html | boxstarter-scripts/developer-boxstarter.html at e9afe737a0fecdde2ff0e1f413000036e5f543c8 · hoflogic/boxstarter-scripts
+https://github.com/felixrieseberg/windows-development-environment/blob/e39979c415de15aa44a202cb66044699d0a75e92/README.md | windows-development-environment/README.md at e39979c415de15aa44a202cb66044699d0a75e92 · felixrieseberg/windows-development-environment
+https://raw.githubusercontent.com/felixrieseberg/windows-development-environment/master/boxstarter | https://raw.githubusercontent.com/felixrieseberg/windows-development-environment/master/boxstarter
+https://github.com/dennismi/dennismi.github.io/blob/acc1a84c58941b8c0f64929eab1403dcb8830511/_posts/2015-04-24-boxstarter-hacking-pt-2.md | dennismi.github.io/2015-04-24-boxstarter-hacking-pt-2.md at acc1a84c58941b8c0f64929eab1403dcb8830511 · dennismi/dennismi.github.io
+https://github.com/GingaNinja/devInstall/blob/b08f7eac9968bf8838c8555d050639d00313d274/testing.ps1 | devInstall/testing.ps1 at b08f7eac9968bf8838c8555d050639d00313d274 · GingaNinja/devInstall
+https://github.com/ODUB13/DUBWORLD/blob/4b3bed9a18f1d22b0621c8c1d77e89de5fda5531/week-1/2-computer-setup/windows-instructions.md | DUBWORLD/windows-instructions.md at 4b3bed9a18f1d22b0621c8c1d77e89de5fda5531 · ODUB13/DUBWORLD
+https://github.com/smuda/BoxStartConfigs/blob/01da3fbc29af5b913fef554663b54bc1e945dd41/WindowsDevelopment/01-dotnet-development-machine.ps1 | BoxStartConfigs/01-dotnet-development-machine.ps1 at 01da3fbc29af5b913fef554663b54bc1e945dd41 · smuda/BoxStartConfigs
+https://github.com/CraigJPerry/home-network/blob/86d1111036d3039ba036ef3b5ec9005095b822ea/windows/surface.ps1 | home-network/surface.ps1 at 86d1111036d3039ba036ef3b5ec9005095b822ea · CraigJPerry/home-network
+https://github.com/hsz-devops/boxstarter-win-dev/blob/49a6e77e580923156fd2dce16dafff3e126fb013/boxstarter/win-dev-u3d.ps1 | boxstarter-win-dev/win-dev-u3d.ps1 at 49a6e77e580923156fd2dce16dafff3e126fb013 · hsz-devops/boxstarter-win-dev
+https://github.com/info932-github/windows-setup/blob/b9f90ce4b793311dba9943ecd856dbb675be3311/powershell/dev-setup.ps1 | windows-setup/dev-setup.ps1 at b9f90ce4b793311dba9943ecd856dbb675be3311 · info932-github/windows-setup
+https://github.com/bcowdery/boxstarter/blob/d018e827528bd71081fb6b1a1b9b3a9216bddadd/roles/Devenv.ps1 | boxstarter/Devenv.ps1 at d018e827528bd71081fb6b1a1b9b3a9216bddadd · bcowdery/boxstarter
+https://github.com/meselgroth/ChocolateyAndSetupScripts/blob/55002e63a0f9f6f96ed902ffdee8294aa548969c/setup.ps1 | ChocolateyAndSetupScripts/setup.ps1 at 55002e63a0f9f6f96ed902ffdee8294aa548969c · meselgroth/ChocolateyAndSetupScripts
+https://github.com/GingaNinja/devInstall/blob/master/setup.ps1 | devInstall/setup.ps1 at master · GingaNinja/devInstall
+https://bower.io/ | Bower — a package manager for the web
+https://github.com/keithkml/nully/blob/6ea921f83c5defc88d2f314b21d13c9d5709ba62/code/idea-plugin/src/net/kano/nully/plugin/psiToJimple/JimpleBodyBuilder.java | nully/JimpleBodyBuilder.java at 6ea921f83c5defc88d2f314b21d13c9d5709ba62 · keithkml/nully
+
+https://gruntjs.com/getting-started | Getting started - Grunt: The JavaScript Task Runner
+https://github.com/wilsonmar/oss-perf/blob/ce4c83f9430c8acae39b4468d5d1c633abf5d07f/jmeter-setup.md#Alternatives | oss-perf/jmeter-setup.md at ce4c83f9430c8acae39b4468d5d1c633abf5d07f · wilsonmar/oss-perf
+https://www.youtube.com/ | (51) YouTube
+https://github.com/sdkman/sdkman-cli/wiki/Deploying-to-Heroku | Deploying to Heroku · sdkman/sdkman-cli Wiki
+http://www.apache.org/dyn/closer.lua/cayenne/4.1.M1/cayenne-4.1.M1-win.zip | Apache Download Mirrors
+http://apice.unibo.it/xwiki/bin/view/Tuprolog/Download | tuProlog @ UniBo
+https://get.sdkman.io/ | https://get.sdkman.io
+https://github.com/spring-cloud/spring-cloud-cli/issues/50 | provide doc howto get cli up and running on windows · Issue #50 · spring-cloud/spring-cloud-cli
+https://gist.github.com/luckynum7/b4115c4bb26d6143bd3c505c3ca5ead1 | Steps after Bash on Windows
+https://github.com/flofreud/posh-gvm | flofreud/posh-gvm: GVM for Powershell
+http://boxstarter.org/ | Boxstarter
+https://github.com/10se1ucgo/DisableWinTracking | 10se1ucgo/DisableWinTracking: Uses some known methods that attempt to disable tracking in Windows 10
+http://boxstarter.org/bootstrapper.ps1 | boxstarter.org/bootstrapper.ps1
+
+http://boxstarter.org/InstallBoxstarter | Boxstarter
+https://www.youtube.com/watch?v=HlnTZF3H1Ac | (51) Chocolatey Demonstration - YouTube
+https://www.microsoft.com/web/webpi/5.0/webproductlist.xml | https://www.microsoft.com/web/webpi/5.0/webproductlist.xml
+https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release | Web Platform Installer v5 Command Line (WebPICMD.exe) - RTW release | Microsoft Docs
+https://chocolatey.org/packages/psake | Chocolatey Gallery | psake 4.7.0
+https://chocolatey.org/install.ps1 | https://chocolatey.org/install.ps1
+https://gist.github.com/ChaseFlorell/7832733 | Boxstarter Installation Scripts
+http://markdownpad.com/faq.html#portable | MarkdownPad - Frequently Asked Questions
+http://www.hurryupandwait.io/blog/setup-a-new-machine-with-just-a-url-and-chocolatey-package | Setup a new machine with just a URL and Chocolatey package — Hurry Up and Wait!
+https://chocolatey.org/docs/development-environment-setup | DevelopmentEnvironmentSetup
+http://blog.zerosharp.com/provisioning-a-new-development-machine-with-boxstarter/ | Provisioning a new development machine with BoxStarter - ZeroSharp
+https://boxstarter.codeplex.com/wikipage?title=Boxstarter%20from%20web%20via%20ClickOnce | BoxStarter (now on Github) - Home
+https://searchcode.com/codesearch/view/27750079/ | chocolateyInstall.ps1 in boxstarter | source code search engine
+https://github.com/mwrock/boxstarter | mwrock/boxstarter: Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages
+https://github.com/mwrock/packer-templates | mwrock/packer-templates: Templates for creating vagrant boxes
+https://bldr.habitat.sh/#/origins | Habitat - Automation that travels with the app.
+https://nixos.org/ | NixOS Linux
+https://downloads.chef.io/chefdk | Chef Downloads
+
+https://github.com/Chinchilla-Software-Com/CQRS | Chinchilla-Software-Com/CQRS: A lightweight enterprise framework to write CQRS, event-sourced and micro-service applications in hybrid multi-datacentre, on-premise and Azure environments.
+https://gist.github.com/HarmJ0y?page=5 | HarmJ0y’s gists
+https://gist.github.com/HarmJ0y/06502493a5ad7c110a4e9f1a273e7f0a | DPAPI.ps1
+https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1 | https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1
+https://gist.github.com/HarmJ0y/184f9822b195c52dd50c379ed3117993 | PowerView-3.0 tips and tricks
+https://github.com/PowerShellMafia/PowerSploit/blob/dev/Recon/PowerView.ps1 | PowerSploit/PowerView.ps1 at dev · PowerShellMafia/PowerSploit
+http://www.harmj0y.net/blog/powershell/make-powerview-great-again/ | Make PowerView Great Again – harmj0y
+https://gist.github.com/HarmJ0y/7363509435f5700d713ee351bb4fcd8f | Get-NonstandardService
+https://gist.github.com/HarmJ0y/55e658b8aec96b1f5a7d6dac03f07216 | PowerShell talks
+https://gist.github.com/HarmJ0y/08ee1824aa555598cff5efa4c5c96cf0 | ConvertFrom-UserParameter.ps1
+https://gist.github.com/HarmJ0y/5837c037f28d5ee540a944adf8ea35d7 | Demo for the 44con "Trusts You Might Have Missed" presentation
+https://gist.github.com/HarmJ0y/5be70ff94c0d6720ac198e46a0d61fd7 | Encrypted Store Tests
+https://gist.github.com/HarmJ0y/bb48307ffa663256e239 | Download Cradles
+https://gist.githubusercontent.com/subTee/47f16d60efc9f7cfefd62fb7a712ec8d/raw/1ffde429dc4a05f7bc7ffff32017a3133634bc36/gistfile1.txt | https://gist.githubusercontent.com/subTee/47f16d60efc9f7cfefd62fb7a712ec8d/raw/1ffde429dc4a05f7bc7ffff32017a3133634bc36/gistfile1.txt
+https://github.com/coreybutler/nvm-windows/ | coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.
+https://github.com/coreybutler/nvm-windows/ | coreybutler/nvm-windows: A node.js version management utility for Windows. Ironically written in Go.
+https://github.com/gulpjs/gulp | gulpjs/gulp: The streaming build system
+http://bryanlor.com/blog/gradle-tutorial-how-install-gradle-windows | Gradle Tutorial - How to install Gradle on Windows | Bryan Lor
+https://code.visualstudio.com/docs?start=true | Documentation for Visual Studio Code
+https://github.com/W4RH4WK/Debloat-Windows-10 | W4RH4WK/Debloat-Windows-10: A collection of Scripts which disable / remove Windows 10 Features and Apps
+https://chocolatey.org/install | Installation
+
+https://github.com/10se1ucgo/DisableWinTracking | 10se1ucgo/DisableWinTracking: Uses some known methods that attempt to disable tracking in Windows 10
+https://github.com/chocolatey/choco-wiki/blob/master/CommandsInstall.md | choco-wiki/CommandsInstall.md at master · chocolatey/choco-wiki
+https://github.com/dahlbyk/posh-git/wiki | Home · dahlbyk/posh-git Wiki
+https://github.com/gummesson/kapow/tree/25801cd9d847cdabf87359039697a732d74236fc | gummesson/kapow at 25801cd9d847cdabf87359039697a732d74236fc
+https://github.com/halcharger/DevMachineInstall/blob/master/devApps.ps1 | DevMachineInstall/devApps.ps1 at master · halcharger/DevMachineInstall
+https://github.com/marcusoftnet/ScriptsAndStuff/blob/master/DevMachineInstall/devAppsReinstall.ps1 | ScriptsAndStuff/devAppsReinstall.ps1 at master · marcusoftnet/ScriptsAndStuff
+https://github.com/chocolatey/choco/network | Network Graph · chocolatey/choco
+https://chocolatey.github.io/usage.html | Chocolatey — Usage
+http://boxstarter.org/BoxstarterResources | Boxstarter
+http://www.hurryupandwait.io/blog/easily-script-machine-reinstalls-with-boxstarter | Easily Script Machine Reinstalls with Boxstarter — Hurry Up and Wait!
+http://codegist.net/code/boxstarter-github/ | Boxstarter Github - codegist.net
+http://robertcorvus.com/the-chocolatey-gods-have-answered-your-request/ | The Chocolatey Gods Have Answered Your Request | Robert Corvus
+http://www.robinosborne.co.uk/2012/01/06/scripting-the-setup-of-a-developer-pc-part-3-of-4-installing-uh-everything-with-chocolatey/ | Scripting the setup of a developer PC, Part 3 of 4 – Installing.. uh.. everything.. with Chocolatey. | Robin Osborne
+https://www.snip2code.com/Snippet/249395/Boxstarter-for-Dev-Installs | Snip2Code - Boxstarter for Dev Installs
+https://github.com/mishin/DevMisc/blob/16b6667950bb84156ba73e523cb2b4750ccac05e/env-setup/setup.ps1.orig | DevMisc/setup.ps1.orig at 16b6667950bb84156ba73e523cb2b4750ccac05e · mishin/DevMisc
+http://psget.net/ | PsGet - PowerShell Modules Directory - Get started
+https://github.com/jsk01/Powershell/blob/4e6aea67ee4a9f120a7755756846626c6449870a/developer%20vm%20setup%20with%20chocolatey.ps1 | Powershell/developer vm setup with chocolatey.ps1 at 4e6aea67ee4a9f120a7755756846626c6449870a · jsk01/Powershell
+https://github.com/fschwiet/fschwiet-boxstarter/blob/ae40169b2f70da6a520081c14896015209aa2838/FschwietCore/tools/ChocolateyInstall.ps1 | fschwiet-boxstarter/ChocolateyInstall.ps1 at ae40169b2f70da6a520081c14896015209aa2838 · fschwiet/fschwiet-boxstarter
+https://github.com/GingaNinja/devInstall/blob/b08f7eac9968bf8838c8555d050639d00313d274/setup.ps1 | devInstall/setup.ps1 at b08f7eac9968bf8838c8555d050639d00313d274 · GingaNinja/devInstall
+https://github.com/Skolzack/Boxstarter/blob/f0034e0ec04be6dc4ddcf4afe1a64a5ffc9128e4/Script.Test | Boxstarter/Script.Test at f0034e0ec04be6dc4ddcf4afe1a64a5ffc9128e4 · Skolzack/Boxstarter
+http://blog.zerosharp.com/provisioning-a-new-development-machine-with-boxstarter/ | Provisioning a new development machine with BoxStarter - ZeroSharp
+https://github.com/jeffcirceo/boxstarter/blob/02167e3f055b56d1377be0d82e8f36bc8d502373/boxstarter1 | boxstarter/boxstarter1 at 02167e3f055b56d1377be0d82e8f36bc8d502373 · jeffcirceo/boxstarter
+https://github.com/kausiknkb/zabbix2/blob/5f4116ba1901c21d9d4ecc5ae36a5fb236b394e7/chocolatey/setup.ps1 | zabbix2/setup.ps1 at 5f4116ba1901c21d9d4ecc5ae36a5fb236b394e7 · kausiknkb/zabbix2
+https://github.com/pester/Pester | pester/Pester: Pester is the ubiquitous test and mock framework for PowerShell.
+https://github.com/mwrock/Chocolatey-Packages | mwrock/Chocolatey-Packages: Some packages that can be installed via chocolatey.org
+https://github.com/Kristinn-Stefansson/krsmanualchocolateypackages/blob/347b97884a2e1d0b71fc65baad0d24d9dd1a3018/BuildPackages/DevSetup2013/tools/ChocolateyInstall.ps1 | krsmanualchocolateypackages/ChocolateyInstall.ps1 at 347b97884a2e1d0b71fc65baad0d24d9dd1a3018 · Kristinn-Stefansson/krsmanualchocolateypackages
+https://github.com/segilbert/nuget.packages/blob/4a3f0a95ee295d36c9580f67292bf5cdad1c9ab3/boxstarter/_templates/baselineDev.ps1 | nuget.packages/baselineDev.ps1 at 4a3f0a95ee295d36c9580f67292bf5cdad1c9ab3 · segilbert/nuget.packages
+https://github.com/meselgroth/ChocolateyAndSetupScripts/tree/55002e63a0f9f6f96ed902ffdee8294aa548969c | meselgroth/ChocolateyAndSetupScripts at 55002e63a0f9f6f96ed902ffdee8294aa548969c
+https://github.com/OneGet/oneget | OneGet/oneget: PackageManagement (aka OneGet) is a package manager for Windows
+https://onedrive.live.com/?authkey=%21ABehsy6i3rzQdxE&cid=EF4B329A5EB9EA4D&id=EF4B329A5EB9EA4D%21128&parId=EF4B329A5EB9EA4D%21127&o=OneUp | OneGet community meeting-Oct20, 2015.mp4 - OneDrive
+https://github.com/OneGet/NuGetProvider | OneGet/NuGetProvider: NuGet Provider for OneGet. Works on Nano Server.
+https://gist.github.com/ChaseFlorell/7832733 | Boxstarter Installation Scripts
+https://chocolatey.org/docs/development-environment-setup | DevelopmentEnvironmentSetup
+https://github.com/chucknorris/dropkick/wiki | Home · chucknorris/dropkick Wiki
+http://blog.zerosharp.com/provisioning-a-new-development-machine-with-boxstarter/ | Provisioning a new development machine with BoxStarter - ZeroSharp
+https://boxstarter.codeplex.com/wikipage?title=Boxstarter%20from%20web%20via%20ClickOnce | BoxStarter (now on Github) - Home
+https://www.myget.org/Account/Login?ReturnUrl=%2fSubscription%2fSignUp%2fMG001 | Sign in to MyGet - MyGet - Hosting your NuGet, npm, Bower, Maven, PHP Composer and Vsix packages
+https://searchcode.com/codesearch/view/27750079/ | chocolateyInstall.ps1 in boxstarter | source code search engine
+
+https://github.com/10se1ucgo/DisableWinTracking | 10se1ucgo/DisableWinTracking: Uses some known methods that attempt to disable tracking in Windows 10
+https://github.com/chocolatey/choco-wiki/blob/master/CommandsInstall.md | choco-wiki/CommandsInstall.md at master · chocolatey/choco-wiki
+https://github.com/dahlbyk/posh-git/wiki | Home · dahlbyk/posh-git Wiki
+https://github.com/gummesson/kapow/tree/25801cd9d847cdabf87359039697a732d74236fc | gummesson/kapow at 25801cd9d847cdabf87359039697a732d74236fc
+https://github.com/halcharger/DevMachineInstall/blob/master/devApps.ps1 | DevMachineInstall/devApps.ps1 at master · halcharger/DevMachineInstall
+https://github.com/marcusoftnet/ScriptsAndStuff/blob/master/DevMachineInstall/devAppsReinstall.ps1 | ScriptsAndStuff/devAppsReinstall.ps1 at master · marcusoftnet/ScriptsAndStuff
+https://github.com/chocolatey/choco/network | Network Graph · chocolatey/choco
+https://chocolatey.github.io/usage.html | Chocolatey — Usage
+http://boxstarter.org/BoxstarterResources | Boxstarter
+http://www.hurryupandwait.io/blog/easily-script-machine-reinstalls-with-boxstarter | Easily Script Machine Reinstalls with Boxstarter — Hurry Up and Wait!
+http://codegist.net/code/boxstarter-github/ | Boxstarter Github - codegist.net
+http://robertcorvus.com/the-chocolatey-gods-have-answered-your-request/ | The Chocolatey Gods Have Answered Your Request | Robert Corvus
+http://www.robinosborne.co.uk/2012/01/06/scripting-the-setup-of-a-developer-pc-part-3-of-4-installing-uh-everything-with-chocolatey/ | Scripting the setup of a developer PC, Part 3 of 4 – Installing.. uh.. everything.. with Chocolatey. | Robin Osborne
+https://www.snip2code.com/Snippet/249395/Boxstarter-for-Dev-Installs | Snip2Code - Boxstarter for Dev Installs
+https://github.com/mishin/DevMisc/blob/16b6667950bb84156ba73e523cb2b4750ccac05e/env-setup/setup.ps1.orig | DevMisc/setup.ps1.orig at 16b6667950bb84156ba73e523cb2b4750ccac05e · mishin/DevMisc
+http://psget.net/ | PsGet - PowerShell Modules Directory - Get started
+https://github.com/jsk01/Powershell/blob/4e6aea67ee4a9f120a7755756846626c6449870a/developer%20vm%20setup%20with%20chocolatey.ps1 | Powershell/developer vm setup with chocolatey.ps1 at 4e6aea67ee4a9f120a7755756846626c6449870a · jsk01/Powershell
+https://github.com/fschwiet/fschwiet-boxstarter/blob/ae40169b2f70da6a520081c14896015209aa2838/FschwietCore/tools/ChocolateyInstall.ps1 | fschwiet-boxstarter/ChocolateyInstall.ps1 at ae40169b2f70da6a520081c14896015209aa2838 · fschwiet/fschwiet-boxstarter
+https://github.com/GingaNinja/devInstall/blob/b08f7eac9968bf8838c8555d050639d00313d274/setup.ps1 | devInstall/setup.ps1 at b08f7eac9968bf8838c8555d050639d00313d274 · GingaNinja/devInstall
+https://github.com/Skolzack/Boxstarter/blob/f0034e0ec04be6dc4ddcf4afe1a64a5ffc9128e4/Script.Test | Boxstarter/Script.Test at f0034e0ec04be6dc4ddcf4afe1a64a5ffc9128e4 · Skolzack/Boxstarter
+http://blog.zerosharp.com/provisioning-a-new-development-machine-with-boxstarter/ | Provisioning a new development machine with BoxStarter - ZeroSharp
+https://github.com/jeffcirceo/boxstarter/blob/02167e3f055b56d1377be0d82e8f36bc8d502373/boxstarter1 | boxstarter/boxstarter1 at 02167e3f055b56d1377be0d82e8f36bc8d502373 · jeffcirceo/boxstarter
+https://github.com/kausiknkb/zabbix2/blob/5f4116ba1901c21d9d4ecc5ae36a5fb236b394e7/chocolatey/setup.ps1 | zabbix2/setup.ps1 at 5f4116ba1901c21d9d4ecc5ae36a5fb236b394e7 · kausiknkb/zabbix2
+https://github.com/pester/Pester | pester/Pester: Pester is the ubiquitous test and mock framework for PowerShell.
+https://github.com/mwrock/Chocolatey-Packages | mwrock/Chocolatey-Packages: Some packages that can be installed via chocolatey.org
+https://github.com/Kristinn-Stefansson/krsmanualchocolateypackages/blob/347b97884a2e1d0b71fc65baad0d24d9dd1a3018/BuildPackages/DevSetup2013/tools/ChocolateyInstall.ps1 | krsmanualchocolateypackages/ChocolateyInstall.ps1 at 347b97884a2e1d0b71fc65baad0d24d9dd1a3018 · Kristinn-Stefansson/krsmanualchocolateypackages
+https://github.com/segilbert/nuget.packages/blob/4a3f0a95ee295d36c9580f67292bf5cdad1c9ab3/boxstarter/_templates/baselineDev.ps1 | nuget.packages/baselineDev.ps1 at 4a3f0a95ee295d36c9580f67292bf5cdad1c9ab3 · segilbert/nuget.packages
+https://github.com/meselgroth/ChocolateyAndSetupScripts/tree/55002e63a0f9f6f96ed902ffdee8294aa548969c | meselgroth/ChocolateyAndSetupScripts at 55002e63a0f9f6f96ed902ffdee8294aa548969c
+https://github.com/OneGet/oneget | OneGet/oneget: PackageManagement (aka OneGet) is a package manager for Windows
+https://onedrive.live.com/?authkey=%21ABehsy6i3rzQdxE&cid=EF4B329A5EB9EA4D&id=EF4B329A5EB9EA4D%21128&parId=EF4B329A5EB9EA4D%21127&o=OneUp | OneGet community meeting-Oct20, 2015.mp4 - OneDrive
+https://github.com/OneGet/NuGetProvider | OneGet/NuGetProvider: NuGet Provider for OneGet. Works on Nano Server.
+https://gist.github.com/ChaseFlorell/7832733 | Boxstarter Installation Scripts
+https://chocolatey.org/docs/development-environment-setup | DevelopmentEnvironmentSetup
+https://github.com/chucknorris/dropkick/wiki | Home · chucknorris/dropkick Wiki
+http://blog.zerosharp.com/provisioning-a-new-development-machine-with-boxstarter/ | Provisioning a new development machine with BoxStarter - ZeroSharp
+https://boxstarter.codeplex.com/wikipage?title=Boxstarter%20from%20web%20via%20ClickOnce | BoxStarter (now on Github) - Home
+https://www.myget.org/Account/Login?ReturnUrl=%2fSubscription%2fSignUp%2fMG001 | Sign in to MyGet - MyGet - Hosting your NuGet, npm, Bower, Maven, PHP Composer and Vsix packages
+https://searchcode.com/codesearch/view/27750079/ | chocolateyInstall.ps1 in boxstarter | source code search engine
+
+https://github.com/nodezoo/nodezoo-workshop | nodezoo/nodezoo-workshop: A microservices workshop for the Seneca framework.
+https://github.com/nodezoo/tao | nodezoo/tao: Getting started guide for the Tao of Microservices nodezoo microservice demonstration architecture.
+https://github.com/nanobox-io/nanobox-guides | nanobox-io/nanobox-guides: Guides for using languages and frameworks with Nanobox
+https://gist.github.com/fearthecowboy?page=5 | fearthecowboy’s gists
+http://coapp.org/tutorials/installation.html | CoApp - Installing the CoApp Developer Tools for PowerShell
+https://github.com/coapp-packages | coapp-packages
+https://github.com/coapp | CoApp Project
+https://github.com/Azure/autorest | Azure/autorest: OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
+https://github.com/Azure/autorest/blob/master/docs/developer/workstation.md | autorest/workstation.md at master · Azure/autorest
+https://github.com/Azure/autorest | Azure/autorest: OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, Go, Java, Node.js, TypeScript, Python, Ruby and PHP.
+https://gist.github.com/fearthecowboy/e5ee21894f7e82c8e75771350e649387 | install-software.ps1
+https://gist.github.com/fearthecowboy/0e11a583a2ded0ed9742 | PowerShell Webserver that restarts when you edit the script.
+https://github.com/TimMangan/silent-install/wiki/Project-Design-Requirements | Project Design Requirements · TimMangan/silent-install Wiki
+https://github.com/nuget/nuget.client | NuGet/NuGet.Client: Core client libraries for NuGet Services
+https://github.com/Jandev?tab=repositories | Jandev (Jan de Vries) / Repositories
+https://github.com/lukesampson/scoop | lukesampson/scoop: A command-line installer for Windows.
+https://github.com/search?q=topic%3Ainstaller&type=Repositories | Search · topic:installer
+https://github.com/lukesampson/psutils | lukesampson/psutils: Command line utilities written in Powershell
+https://github.com/chocolatey/choco | chocolatey/choco: Chocolatey CLI
+https://github.com/elastic/beats | elastic/beats: Beats - Lightweight shippers for Elasticsearch & Logstash
+http://www.cytoscape.org/download.php | Download Cytoscape
+https://github.com/Chinchilla-Software-Com/CQRS | Chinchilla-Software-Com/CQRS: A lightweight enterprise framework to write CQRS, event-sourced and micro-service applications in hybrid multi-datacentre, on-premise and Azure environments.
+https://www.chinchillasoftware.co.nz/ | Chinchilla Software – Reach your higher level of quality
+https://github.com/PlagueHO/DSCTools | PlagueHO/DSCTools: PowerShell module with various helper tools for working with DSC
+https://github.com/puppetlabs/puppetlabs-pe_bulk_agent_install | puppetlabs/puppetlabs-pe_bulk_agent_install: A module for bulk installation of puppet agents on Linux and Windows hosts
+https://github.com/Disassembler0/Win10-Initial-Setup-Script | Disassembler0/Win10-Initial-Setup-Script: PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Windows Server 2016
+https://www.dasm.cz/clanek/jak-z-windows-10-udelat-desktopovy-system | Jak z Windows 10 udělat desktopový systém | Disassembler
+https://github.com/Masterminds/glide/ | Masterminds/glide: Package Management for Golang
+https://tox.readthedocs.io/en/latest/ | Welcome to the tox automation project — tox 2.9.2.dev36 documentation
+https://plus.google.com/+GoogleChromeDevelopers/posts/644qQuBKZeL | First Look: Workspaces - Simplifying Your Find & Fix Workflow With The Chrome...
+https://github.com/NV/chrome-devtools-autosave | NV/chrome-devtools-autosave: Auto-saving CSS and JavaScript changes from the Chrome Developer Tools
+https://www.html5rocks.com/en/tutorials/developertools/revolutions2013/ | Chrome DevTools Revolutions 2013 - HTML5 Rocks
+
 http://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html | Git on the commandline — Don't be afraid to commit 0.3 documentation
 https://web.archive.org/web/20141223022603/https://developer.linkedin.com/documents/invitation-api | Invitation API | LinkedIn Developer Network
 https://www.hashicorp.com/blog/feature-preview-docker-based-development-environments | Feature Preview: Docker-Based Development Environments
