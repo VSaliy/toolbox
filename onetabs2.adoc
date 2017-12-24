@@ -1,0 +1,149 @@
+https://wiki.visual-prolog.com/index.php?title=Main%20Page&title=Main%20Page | Main Page - wiki.visual-prolog.com
+https://mva.microsoft.com/product-training/visual-studio-courses#!lang=1049 | Visual Studio Training Courses - Microsoft Virtual Academy
+https://social.technet.microsoft.com/wiki/contents/articles/2969.windows-powershell-ise-add-on-tools.aspx | Windows PowerShell ISE Add-On Tools - TechNet Articles - United States (English) - TechNet Wiki
+https://chocolatey.org/pricing | Pricing
+https://github.com/jhipster/generator-jhipster/issues/6861 | Angular CLI 1.6 global clashes with the 1.5.5 local · Issue #6861 · jhipster/generator-jhipster · GitHub
+https://www.youtube.com/watch?v=NdcnpD-GpZ4 | Full Stack App from Scratch - JHipster - 03 - YouTube
+https://github.com/jhipster/jhipster-online | GitHub - jhipster/jhipster-online
+http://www.straightrunning.com/XmingNotes/manual.php | Xming X Server for Windows - Manual
+https://console.cloud.google.com/code/develop/repo?project=demoproject1-189110&pli=1 | Source Repositories - DemoProject1
+https://console.cloud.google.com/code/develop/browse/DemoRepo1?project=demoproject1-189110 | Source Tools - DemoProject1
+https://github.com/ucbrise/clipper | GitHub - ucbrise/clipper: A low-latency prediction-serving system
+https://portal.azure.com/?l=en | Dashboard - Microsoft Azure
+https://play.google.com/apps/publish/signup/# | Google Play Console
+https://console.developers.google.com/apis/dashboard?project=api-project-799186552454&duration=PT1H | Dashboard - API Project
+file:///D:/HTTRackSites/https___www.cakesolutions.net/www.cakesolutions.net/teamblogs/scaling-machine-learning.html | Scaling Machine Learning - Part 1: Naive approach
+https://www.csie.ntu.edu.tw/~cjlin/talks/twdatasci_cjlin.pdf | twdatasci_cjlin.pdf
+http://malteschwarzkopf.de/research/assets/facebook-stack.pdf | facebook-stack.pdf
+http://malteschwarzkopf.de/research/assets/google-stack.pdf | google-stack.pdf
+http://www.benstopford.com/2015/04/28/elements-of-scale-composing-and-scaling-data-platforms/ | Elements of Scale: Composing and Scaling Data Platforms - ben stopford
+https://aphyr.com/ | Aphyr
+https://queue.acm.org/detail.cfm?id=2655736 | The Network is Reliable - ACM Queue
+https://blog.acolyer.org/2015/06/05/scalability-but-at-what-cost/ | Scalability! But at what COST? | the morning paper
+https://www.csie.ntu.edu.tw/~cjlin/talks/twdatasci_cjlin.pdf | twdatasci_cjlin.pdf
+https://console.firebase.google.com/project/fir-demo-project/hosting | Firebase Demo Project – Hosting – Firebase console
+https://firebase.google.com/docs/android/setup?authuser=0 | Add Firebase to Your Android Project  |  Firebase
+https://console.developers.google.com/apis/dashboard?project=api-project-799186552454&duration=PT1H | Dashboard - API Project
+file:///D:/dev/app/NSIS/Docs/VPatch/Readme.html | VPatch 3
+http://nsis.sourceforge.net/Game_explorer | Game explorer - NSIS
+http://banckom.de/en/about-us/ | About Us | BANCKOM - IT for Banks, Finance & Insurance Indusrty
+https://online.visual-paradigm.com/diagrams.jsp#diagramlist:proj=0 | Diagrams
+file:///D:/dev/app/Pearl6/html/lib/pods/perlfork.html | file:///D:/dev/app/Pearl6/html/lib/pods/perlfork.html
+https://sourceforge.net/projects/gnuwin32/files/which/2.20/which-2.20-src.zip/download?use_mirror=ayera&download= | Download GnuWin from SourceForge.net
+file:///F:/usr/Downloads/puppetdocs-latest/index.html | Puppet Documentation — Documentation — Puppet
+file:///F:/usr/Downloads/puppetdocs-latest/puppet/index.html | Puppet documentation index — Documentation — Puppet
+https://www.embarcadero.com/products/rad-studio/start-for-free/thank-you | RAD Studio - Start For Free - Embarcadero Website
+https://keybase.io/ | Keybase
+file:///F:/usr/Downloads/scite-4.0.2-src/wscite/UpgradeLog.htm | Migration Report
+
+http://infrastructure-as-code.com/ | Infrastructure as Code
+http://www.infrastructures.org/index.shtml | Infrastructures.Org: Best Practices in Automated Systems Administration and Infrastructure Architecture: Home
+https://www.thoughtworks.com/insights/blog/infrastructure-code-reason-smile | Infrastructure as Code: A Reason to Smile | ThoughtWorks
+https://web.archive.org/web/20141223022603/https://developer.linkedin.com/documents/invitation-api | Invitation API | LinkedIn Developer Network
+http://app.klask.io/#/ | Fichiers
+https://github.com/klask-io/klask-io | klask-io/klask-io: klask.io is an open source search engine for source code, live demo
+http://exercism.io/clients/cli/linux | Command-Line Interface (CLI) - exercism.io
+http://exercism.io/dashboard | Your exercises in progress - exercism.io
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://github.com/opencrowbar/core/blob/master/doc/deployment-guide/Install-CentOS-RHEL-6.6-AdminNode.md | core/Install-CentOS-RHEL-6.6-AdminNode.md at master · opencrowbar/core
+https://github.com/hyperbox/hyperbox | hyperbox/hyperbox: Virtual Infrastructure Manager for VirtualBox
+https://frontender.info/skaffolding-dlya-frontenderov/ | 404 Not Found
+https://github.com/vincentmac/yeoman-foundation | vincentmac/yeoman-foundation: Yeoman generator for Zurb Foundation based projects
+https://zurb.com/responsive | Foundation | Showcase
+http://www.jhipster.tech/modules/creating-a-module/ | Creating a module
+http://yeoman.io/codelab/keep-going.html | Congratulations! | Yeoman
+https://scotch.io/courses/getting-started-with-javascript | Getting Started with JavaScript for Web Development ― Scotch
+https://www.heroku.com/ | Cloud Application Platform | Heroku
+https://www.heroku.com/home | Cloud Application Platform | Heroku
+https://web.archive.org/web/20160613175236/https://frontender.info/skaffolding-dlya-frontenderov/ | Быстрая инициализация проекта | Frontender Magazine
+https://www.google.com.ua/search?q=scaffolding+java+spring&num=20&client=firefox-b&dcr=0&ei=a8H7Wb2BCMLi6ASpmKqYCg&start=20&sa=N&biw=1280&bih=863 | scaffolding java spring - Google Search
+http://lightadmin.org/ | LightAdmin – Pluggable CRUD Administration Java Framework. Best alternative to scaffolding.
+https://github.com/NetoDevel/cli-spring-boot-scaffold | NetoDevel/cli-spring-boot-scaffold: command line for generate crud with spring boot
+https://github.com/NetoDevel/generate-core | NetoDevel/generate-core: refactoring the core of the cli-spring-boot-scaffold project
+http://lightadmin.org/ | LightAdmin – Pluggable CRUD Administration Java Framework. Best alternative to scaffolding.
+https://www.genuitec.com/docs/web-apps/spring-web/spring-development/ | Spring Development - Genuitec
+https://toster.ru/q/412981 | Простой scaffolding в Java & Spring? — Toster.ru
+http://www.skywayperspectives.org/documentation/6.3/chunk/recipes/ch02s09.html | 9. Scaffolding Spring Security
+https://www.callicoder.com/scaffolding-your-spring-boot-application/ | Scaffolding your Spring Boot Application | CalliCoder
+https://fbflex.wordpress.com/2013/10/01/a-spring-boot-generator-for-yeoman/ | A Spring Boot Generator for Yeoman | Tomás Lin's Programming Brain Dump
+https://github.com/davetownsend/generator-spring | davetownsend/generator-spring: A yeoman generator for Spring Boot & Spring Cloud applications
+http://www.thymeleaf.org/ecosystem.html | Ecosystem - Thymeleaf
+http://dandelion.github.io/history/ | Dandelion Project
+http://wuic.github.io/ | WUIC - Web UI Compressor - HTML, JavaScript and CSS management tool
+https://hdivsecurity.com/ | Application Security | Hdiv Security
+https://www.blackpepper.co.uk/what-we-do/services | Services - Black Pepper Software
+http://ugate.github.io/thymus/ | Documentation | thymus.js
+http://forum.thymeleaf.org/Thymeleaf-3-0-8-JUST-PUBLISHED-td4030687.html | Thymeleaf News and Announcements - Thymeleaf 3.0.8 JUST PUBLISHED
+https://spring.io/understanding/HATEOAS | Understanding HATEOAS
+https://www.npmjs.com/package/generator-spring | generator-spring
+https://triplebyte.com/?ref=npm_oct17 | Triplebyte: Helping Engineers Find Great Startups
+https://npm.runkit.com/generator-spring | RunKit + npm: generator-spring
+https://runkit.com/home | RunKit is Node prototyping
+http://www.theserverside.com/discussions/thread/76545.html | Simple scaffolding with Eclipse code generator plugin
+http://tools.telosys.org/ | Telosys
+https://patrickgrimard.io/2014/08/14/how-to-build-a-spring-boot-application-using-intellij-idea/ | How to build a Spring Boot application using IntelliJ IDEA
+https://zeroturnaround.com/rebellabs/the-curious-coders-java-web-frameworks-comparison-spring-mvc-grails-vaadin-gwt-wicket-play-struts-and-jsf/2/ | Java Web Frameworks Comparison zeroturnaround.com
+https://web.archive.org/web/20160623003937/http://nano.sapegin.ru:80/all/grunt-0-4 | Grunt 0.4: система сборки для фронтенд-разработчиков — Наноблог Артёма Сапегина
+https://core.telegram.org/api | https://core.telegram.org/api
+https://github.com/telegramdesktop/tdesktop | telegramdesktop/tdesktop: Telegram Desktop messaging app
+http://www.portaudio.com/ | PortAudio - an Open-Source Cross-Platform Audio API
+http://www.softsynth.com/jsyn/docs/usersguide.php | JSyn Programmers Guide
+https://web.archive.org/web/20140517050243/http://booksite.continuousdev.org/ | Continuous Enterprise Development in Java
+https://github.com/arquillian/continuous-enterprise-development/wiki/Example-Application | Example Application · arquillian/continuous-enterprise-development Wiki
+https://opensource.guide/ | Open Source Guides | Learn how to launch and grow your project.
+https://arquillian.ci.cloudbees.com/job/GeekSeek-wildfly/ | GeekSeek-wildfly [Jenkins]
+https://arquillian.ci.cloudbees.com/job/GeekSeek-jbosseap/ | GeekSeek-jbosseap [Jenkins]
+http://www.devx.com/DevX/tip-how-to-enable-java-9-gc-logs.html | Tip: How to Enable Java 9 GC Logs
+https://blog.gceasy.io/2017/10/17/43-gc-logging-flags-removed-in-java-9/ | 43 GC LOGGING FLAGS REMOVED IN JAVA 9 – GC easy – Universal Java GC Log Analyser
+http://openjdk.java.net/jeps/158 | JEP 158: Unified JVM Logging
+https://www.manning.com/books/spring-batch-in-action | Manning | Spring Batch in Action
+https://livebook.manning.com/#!/book/spring-batch-in-action/chapter-1 | liveBook - Spring Batch in Action - Chapter 1. Introducing Spring Batch
+http://projects.spring.io/spring-batch/ | Spring Batch
+https://github.com/visionmedia/batch | visionmedia/batch: Async batch with concurrency control and progress reporting for nodejs and the browser
+https://github.com/caolan/async | caolan/async: Async utilities for node and the browser
+https://github.com/developerforce/Force.com-Toolkit-for-NET | developerforce/Force.com-Toolkit-for-NET: The Force.com Toolkits for .NET provides an easy way for .NET developers to interact with the Force.com & Chatter REST APIs using native libraries.
+https://www.mendix.com/mendix-vs-force-com/ | Mendix vs Force.com: Platform as a Service Comparison
+https://www.safaribooksonline.com/enterprise/ | Safari for Enterprise
+http://airhacks.com/ | Java EE Workshops with Adam Bien at MUC Airport
+http://savannah.nongnu.org/projects/cvs | Concurrent Versions System - Summary [Savannah]
+https://github.com/tomaslin?page=4&tab=repositories | tomaslin (Tomás Lin) / Repositories
+https://github.com/tomaslin/gs-spring-boot-spock | tomaslin/gs-spring-boot-spock: A sample app showing how to test spring boot with spock
+https://www.nobleprog.pl/en/aws-architect-certification-training-course | AWS Architect Certification Training Course | NobleProg Poland
+https://puppet.com/support-services/customer-support | Puppet support - Customer support and help from the community
+https://github.com/mhewedy/SBO-video-extension | mhewedy/SBO-video-extension: Safari Books Online Video Downloder Extension to Google Chrome
+https://agrocore-ua.slack.com/plans | Pricing | AgroCore Slack
+https://agrocore-ua.slack.com/files?page=9 | Files | AgroCore Slack
+https://files.slack.com/files-pri/T3KC7AACS-F4MANA1SM/img_20170322_155513947.jpg | img_20170322_155513947.jpg (Изображение JPEG, 4608 × 2592 пикселов) - Масштабированное (27%)
+http://www.oracle.com/technetwork/java/javase/downloads/index.html | Java SE - Downloads | Oracle Technology Network | Oracle
+https://web.archive.org/web/*/http://mastersign.github.io/bench/apps/bench.blender/ | Wayback Machine
+https://github.com/rabbitinaction/sourcecode | rabbitinaction/sourcecode: Examples and source code from the book RabbitMQ in Action.
+http://www.mastersign.de/baobab | Baobab - www.mastersign.de
+http://mastersignexpr.codeplex.com/ | Mastersign.Expressions - Home
+about:preferences | Настройки
+https://dbeaver.com/download/ | Download | DBeaver Enterprise Edition
+https://github.com/dboissier/mongo4idea | dboissier/mongo4idea: Mongo integration in Intellij
+https://www.fosshub.com/JabRef.html | Download JabRef
+https://demo.ej-technologies.com/ | perfino
+https://www.ej-technologies.com/download/exe4j/files | ej-technologies - Java APM, Java Profiler, Java Installer Builder
+http://www.jabref.org/ | JabRef
+http://stat.ethz.ch/R-manual/R-patched/library/boot/html/ | Index of /R-manual/R-patched/library/boot/html
+https://docs.spring.io/spring-amqp/reference/html/_introduction.html#quick-tour | 2. Introduction
+https://accounts.google.com/o/oauth2/approval/v2/approvalnativeapp?auto=true&response=state%3DHb2UHkJWjEsv%26code%3D4%2FXSKnRk20psar4WROuj2HwVSFBOc_-J0nNLU7z5r-9jo&approvalCode=4%2FXSKnRk20psar4WROuj2HwVSFBOc_-J0nNLU7z5r-9jo | Success state=Hb2UHkJWjEsv&code=4/XSKnRk20psar4WROuj2HwVSFBOc_-J0nNLU7z5r-9jo
+https://accounts.google.com/o/oauth2/approval/v2/approvalnativeapp?auto=true&response=state%3DdiiXrsiXEQrn%26code%3D4%2FzTOMyBPCuSMNOpCmcrxhe41bHTva_9g3I72WNWYHyL4&approvalCode=4%2FzTOMyBPCuSMNOpCmcrxhe41bHTva_9g3I72WNWYHyL4 | Success state=diiXrsiXEQrn&code=4/zTOMyBPCuSMNOpCmcrxhe41bHTva_9g3I72WNWYHyL4
+https://habrahabr.ru/post/269023/ | HikariCP — самый быстрый пул соединений на java / Хабрахабр
+http://10.0.75.16/ | http://10.0.75.16/
+http://localhost:8020/ | perfino
+http://10.0.71.20:8080/ | 401 Unauthorized
+http://www.chiark.com/ | Go away!
+https://sourceforge.net/projects/gnuwin32/files/grep/2.5.4/grep-2.5.4-src.zip/download?use_mirror=10gbps-io&download= | Download GnuWin from SourceForge.net
+http://alistair.cockburn.us/The+end+of+software+engineering+and+the+start+of+economic-cooperative+gaming | Alistair.Cockburn.us | The end of software engineering and the start of economic-cooperative gaming
+https://www.acm.org/education/CS2013-final-report.pdf | 404
+http://agilemanifesto.org/ | Manifesto for Agile Software Development
+https://www.agilealliance.org/agile101/ | What is Agile Software Development? | Agile Alliance
+https://restforchrome.blogspot.com/2017/11/moving-data-from-advanced-rest-client.html | Advanced REST client for Google Chrome: Moving Data From Advanced REST Client Chrome Application To The Native Application
+https://install.advancedrestclient.com/ | Arc-install-www
+https://www.mulesoft.com/lp/dl/mule-studio-beta | Mule 4 Release Candidate | MuleSoft
+https://fastonosql.com/download | Error
+http://www.fastogt.com/ | FastoGT - Program development, Web development, complex promotion of the products
+https://insomnia.rest/plus/?utm_source=Insomnia&utm_medium=app&utm_campaign=v5.12.3 | Insomnia Plus | Insomnia REST Client
+https://addons.mozilla.org/en-US/firefox/addon/onetab/ | OneTab – Add-ons for Firefox
