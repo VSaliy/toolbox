@@ -640,38 +640,36 @@ function InstallEverything {
 # }
 
 VerifyUserElevation
-MakeTempDirectory
+# InstallEverything
+#MakeTempDirectory
+# InstallLicenceServer
 # $cred = Get-Credential
 # DownloadFileFromOneDrive -DownloadURL $args[0] -PSCredentials $cred -DownloadPath 'c:\tmp\'
-InstallEverything
-InstallLicenceServer
 InstallGoogleChrome
 #InstallChocolatey           # Chocolatey
 #InstallNuGet                # NuGet
-InstallJDK8                 # JDK 8
-InstallIntelliJIDEA         # IntelliJ IDEA
+#InstallJDK8                 # JDK 8
+#InstallIntelliJIDEA         # IntelliJ IDEA
 #InstallAndroidStudio         # android-studio
-InstallNodeJSviaNVM         # NodeJS via NVM
-InstallGulp                 # Gulp
-Install7zip                 # 7zip
-InstallRuby                 # Ruby
-InstallRubyDevKit           # Ruby-DevKit
-InstallPython               # Python 2.7 and 3.5
-InstallTox                  # Tox
-InstallMaven                # Maven 3.5.2
-InstallGradle               # Gradle
-InstallGoLang               # GoLang
-InstallGlide                # Glide
-InstallGit                  # Git
-FixFirewallRules
-InstallVSCode               # Visual Studio Code
-InstallWix                  # Wix
-InstallDotnetCli            # Dotnet-Cli tools
+#InstallNodeJSviaNVM         # NodeJS via NVM
+#InstallGulp                 # Gulp
+#Install7zip                 # 7zip
+#InstallRuby                 # Ruby
+#InstallRubyDevKit           # Ruby-DevKit
+#InstallPython               # Python 2.7 and 3.5
+#InstallTox                  # Tox
+#InstallMaven                # Maven 3.5.2
+#InstallGradle               # Gradle
+#InstallGoLang               # GoLang
+#InstallGlide                # Glide
+#InstallGit                  # Git
+#FixFirewallRules
+#InstallVSCode               # Visual Studio Code
+#InstallWix                  # Wix
+#InstallDotnetCli            # Dotnet-Cli tools
 #InstallLazarus              # Lazarus aka Delphi
 
 
-# https://dl.pstmn.io/download/latest/win64
-# https://chrome.google.com/webstore/detail/chrome-dev-editor/pnoffddplpippgcfjdhbmhkofpnaalpg/related
 #https://notepad-plus-plus.org/repository/7.x/7.5.3/npp.7.5.3.Installer.x64.exe
 #
 #http://www.farmanager.com/files/Far30b5000.x64.20170807.msi
