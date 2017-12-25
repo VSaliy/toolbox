@@ -18,13 +18,13 @@ $apps = @(
     "Microsoft.BingNews"
     "Microsoft.BingSports"
     "Microsoft.BingWeather"
-    #"Microsoft.FreshPaint"
+    "Microsoft.FreshPaint"
     "Microsoft.Getstarted"
     "Microsoft.MicrosoftOfficeHub"
     "Microsoft.MicrosoftSolitaireCollection"
-    #"Microsoft.MicrosoftStickyNotes"
+    "Microsoft.MicrosoftStickyNotes"
     "Microsoft.Office.OneNote"
-    #"Microsoft.OneConnect"
+    "Microsoft.OneConnect"
     "Microsoft.People"
     "Microsoft.SkypeApp"
     "Microsoft.Photos"
@@ -34,7 +34,7 @@ $apps = @(
     "Microsoft.WindowsMaps"
     "Microsoft.WindowsPhone"
     "Microsoft.WindowsSoundRecorder"
-    #"Microsoft.WindowsStore"
+    "Microsoft.WindowsStore"
     "Microsoft.XboxApp"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
@@ -57,6 +57,10 @@ $apps = @(
     "Microsoft.BingTravel"
     "Microsoft.BingHealthAndFitness"
     "Microsoft.WindowsReadingList"
+
+    "Microsoft.OneDrive"
+    "Microsoft.Connect"
+    "Microsoft.WordPad"
 
     # non-Microsoft
     "9E2F88E3.Twitter"
@@ -90,13 +94,13 @@ $apps = @(
 
 
     # apps which cannot be removed using Remove-AppxPackage
-    #"Microsoft.BioEnrollment"
-    #"Microsoft.MicrosoftEdge"
-    #"Microsoft.Windows.Cortana"
-    #"Microsoft.WindowsFeedback"
-    #"Microsoft.XboxGameCallableUI"
-    #"Microsoft.XboxIdentityProvider"
-    #"Windows.ContactSupport"
+    "Microsoft.BioEnrollment"
+    "Microsoft.MicrosoftEdge"
+    "Microsoft.Windows.Cortana"
+    "Microsoft.WindowsFeedback"
+    "Microsoft.XboxGameCallableUI"
+    "Microsoft.XboxIdentityProvider"
+    "Windows.ContactSupport"
 )
 
 foreach ($app in $apps) {
